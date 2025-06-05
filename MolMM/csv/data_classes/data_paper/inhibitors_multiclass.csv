@@ -1,0 +1,1919 @@
+drug,smiles,label
+(11-Me-Leu)-Cyclosporin A,CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N1C,True
+"1,3,5-Triazacycloheptane 5b",S=C1NC(=S)N(Cc2cccc(Cl)c2)CCN1Cc1cccc(Cl)c1,True
+"1,3,5-Triazacycloheptane 5c",S=C1NC(=S)N(Cc2ccc(Cl)cc2)CCN1Cc1ccc(Cl)cc1,True
+"1,3,5-Triazacycloheptane 6b",CSC1NC(=O)N(Cc2cccc(Cl)c2)CCN1Cc1cccc(Cl)c1,True
+"1,3,5-Triazacycloheptane 6c",CSC1NC(=O)N(Cc2ccc(Cl)cc2)CCN1Cc1ccc(Cl)cc1,True
+14-Benzoylyohimbine,COC(=O)C1C(O)CCC2CN3CCc4c([nH]c5ccccc45)C3C(OC(=O)c3ccccc3)C21,True
+16-Dehydroprogesterone,CC(=O)C1=CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,True
+16-Methylprogesterone,CC(=O)C1C(C)CC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,True
+17-Hydroxyprogesterone,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,True
+3-Methyl choroquine,CCN(CC)CCCC(C)Nc1c(C)cnc2cc(Cl)ccc12,True
+4-Hydroxytoremifene,CN(C)CCOc1ccc(C(=C(CCCl)c2ccccc2)c2ccc(O)cc2)cc1,True
+4-Iodotamoxifen,CCC(=C(c1ccc(I)cc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,True
+AG-690,CCC(C)c1ccc(N2C(=O)c3ccccc3NC2c2ccc(OC)cc2)cc1,True
+AHC-52,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN(C)Cc2ccccc2)C1c1c(C(C)C)nn2ccccc12,True
+AHR 16462,Fc1ccc(C(c2ccc(F)cc2)C2CCN(Cc3ccc4ccccc4c3)CC2)cc1,True
+AHR-16303,CC(C)C(=O)c1ccc(OCCN2CCC(C(O)(c3ccc(F)cc3)c3ccc(F)cc3)CC2)cc1,True
+Acridone-4-carboxamide 22,COc1ccc(CN(C)CCOc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 29,COc1ccc(CN(C)CCOc2ccc(NC(=O)c3cccc4c(=O)cc(-c5ccccc5)[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 30,COc1ccc(CN(C)CCOc2ccc(NC(=O)c3cccc4nc5ccccc5nc34)cc2)cc1OC,True
+Acridone-4-carboxamide 36,Cc1ccc(CN(C)CCOc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc2)cc1,True
+Acridone-4-carboxamide 39,CCN(CCOc1ccc(NC(=O)c2cccc3c(=O)c4ccccc4[nH]c23)cc1)Cc1ccccc1,True
+Acridone-4-carboxamide 43,COc1ccc(CCN(C)CCCOc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 44,COc1cc2c(cc1OC)CN(CCCOc1ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc1)CC2,True
+Acridone-4-carboxamide 47,COc1ccc(CN(C)Cc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 48,COc1ccc(CN(C)CCc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 49,COc1ccc(CN(C)CCCc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 51,COc1ccc(CN(C)CCCCCc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 54,COc1ccc(CN(C)CC=Cc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 55,COc1ccc(CN(C)CC=CCc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 60,COc1cc2c(cc1OC)CN(CCc1ccccc1NC(=O)c1cccc3c(=O)c4c(OC)cccc4[nH]c13)CC2,True
+Acridone-4-carboxamide 61,COc1cc2c(cc1OC)CN(CCCc1cccc(NC(=O)c3cccc4c(=O)c5c(OC)cccc5[nH]c34)c1)CC2,True
+Acridone-4-carboxamide 64,COc1ccc(CN(C)CCCc2cccc(NC(=O)c3cccc4c(=O)c5c(OC)cccc5[nH]c34)c2)cc1OC,True
+Acridone-4-carboxamide 65,COc1ccc(CN(C)CCCOc2ccc(NC(=O)c3cccc4c(=O)c5c(C)cccc5[nH]c34)c(C)c2)cc1OC,True
+Acridone-4-carboxamide 66,COc1ccc(CN(C)CCOc2ccc(NC(=O)c3cccc4c(=O)c5c(OC)cccc5[nH]c34)c(C)c2)cc1OC,True
+Acridone-4-carboxamide 70,CCc1cc(OCCCN(C)Cc2ccc(OC)c(OC)c2)ccc1NC(=O)c1cccc2c(=O)c3c(F)cccc3[nH]c12,True
+Acridone-4-carboxamide 71,COc1cc(CCCN(C)Cc2ccc(OC)c(OC)c2)ccc1NC(=O)c1cccc2c(=O)c3c(OC)cccc3[nH]c12,True
+Acridone-4-carboxamide 74,COc1cc(OCCCN(C)Cc2ccc(OC)c(OC)c2)ccc1NC(=O)c1cccc2c(=O)c3c(C)cccc3[nH]c12,True
+Acridone-4-carboxamide 76,COc1cc(OC)c2[nH]c3c(C(=O)Nc4ccc(CCN(C)Cc5ccc(OC)c(OC)c5)cc4)cccc3c(=O)c2c1,True
+Acridone-4-carboxamide 77,COc1ccc(CN(C)CCc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5n(C)c34)cc2)cc1OC,True
+Acridone-4-carboxamide 78,COc1ccc(CN(C)CCc2ccc(NC(=O)c3cccc4c(=O)c5cccc([N+](=O)[O-])c5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 79,COc1ccc(CN(C)CCc2ccc(NC(=O)c3cccc4c(=O)c5cccc(F)c5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 80,COc1ccc(CN(C)CCc2ccc(NC(=O)c3cccc4c(=O)c5cccc(C)c5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 81,COc1ccc(CN(C)CCc2ccc(NC(=O)c3cccc4c(=O)c5cccc(OC)c5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 82,COc1ccc(CN(C)CCCCc2ccc(NC(=O)c3cccc4c(=O)c5cccc(N)c5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 83,COc1ccc2[nH]c3c(C(=O)Nc4ccc(CCCCN(C)Cc5ccc(OC)c(OC)c5)cc4)cccc3c(=O)c2c1,True
+Almitrine,C=CCNc1nc(NCC=C)nc(N2CCN(C(c3ccc(F)cc3)c3ccc(F)cc3)CC2)n1,True
+Alpertine,CCOC(=O)c1[nH]c2cc(OC)c(OC)cc2c1CCN1CCN(c2ccccc2)CC1,True
+Amotriphene,COc1ccc(C(CN(C)C)=C(c2ccc(OC)cc2)c2ccc(OC)cc2)cc1,True
+Amoxapine,Clc1ccc2c(c1)C(N1CCNCC1)=Nc1ccccc1O2,True
+Amperozide,CCNC(=O)N1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1,True
+Aprindine,CCN(CC)CCCN(c1ccccc1)C1Cc2ccccc2C1,True
+Asocainol,COc1ccc2c(c1)-c1c(ccc(OC)c1O)CC(CCc1ccccc1)N(C)CC2,True
+Atorvastatin (methyl ester),COC(=O)CC(O)CC(O)CCn1c(-c2ccc(F)cc2)c(-c2ccccc2)c(C(=O)Nc2ccccc2)c1C(C)C,True
+Azaclorazine,O=C(CCN1CCN2CCCC2C1)N1c2ccccc2Sc2ccc(Cl)cc21,True
+B3-243,CC=CCC(C)C(OC(C)=O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,True
+BW 1019W91,Cc1ccc(C(=CCN2CCCC2)c2cccc(C=CC(=O)N3CCCCC3)n2)cc1,True
+BW 1288U89,Cc1ccc(C(=CCN2CCCC2)c2cccc(C=CC(=O)N3CCCC3)n2)cc1,True
+BW 1351W91,Cc1ccc(C(=CCN2CCCC2)c2cccc(C=CC(=O)N(C)c3ccccc3)n2)cc1,True
+BW 565C81,CCOC(=O)C=Cc1cccc(C(=CCN2CCCC2)c2ccc(C)cc2)n1,True
+Barnidipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC2CCN(Cc3ccccc3)C2)C1c1cccc([N+](=O)[O-])c1,True
+Benidipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC2CCCN(Cc3ccccc3)C2)C1c1cccc([N+](=O)[O-])c1,True
+Benzathine,NC(=O)c1cccc(C2OC(CO)C(O)C2O)c1,True
+Benztropine,CN1C2CCC1CC(OC(c1ccccc1)c1ccccc1)C2,True
+Bevantolol,COc1ccc(CCNCC(O)COc2cccc(C)c2)cc1OC,True
+Biricodar,COc1cc(C(=O)C(=O)N2CCCCC2C(=O)OC(CCCc2cccnc2)CCCc2cccnc2)cc(OC)c1OC,True
+Bucainide,CCCCCCN1CCN(C(=NCC(C)C)c2ccccc2)CC1,True
+Buclizine,CC(C)(C)c1ccc(CN2CCN(C(c3ccccc3)c3ccc(Cl)cc3)CC2)cc1,True
+CP-101556,COc1cc2nc(NCCc3cccc(OC)c3OC)nc(NCCc3cccc(OC)c3OC)c2cc1OC,True
+CP-114769,COc1ccc(CCNc2nc(N(C)Cc3ccccc3)c3c(C)cccc3n2)cc1OC,True
+CP-117227,OC(COc1cccc2ncccc12)CN1CCN(C2c3ccccc3CCc3ccccc32)CC1,True
+CP-12379,COc1ccc(CC(C)NCCC=C2c3ccccc3CCc3ccccc32)cc1OC,True
+CP-69042,COc1ccc(CCCN2CCC(Cc3ccccc3)CC2)cc1OC,True
+Carbinoxamine,CN(C)CCOC(c1ccc(Cl)cc1)c1ccccn1,True
+Carbiphene,CCOC(C(=O)N(C)CCN(C)CCc1ccccc1)(c1ccccc1)c1ccccc1,True
+Caroverine,CCN(CC)CCn1c(=O)c(Cc2ccc(OC)cc2)nc2ccccc21,True
+Carvedilol,COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,True
+Chloracyzine,CCN(CC)CCC(=O)N1c2ccccc2Sc2ccc(Cl)cc21,True
+Chlorbenzoxamine,Cc1ccccc1CN1CCN(CCOC(c2ccccc2)c2ccccc2Cl)CC1,True
+Chlorproethazine,CCN(CC)CCCN1c2ccccc2Sc2ccc(Cl)cc21,True
+Chlorprothixene,CN(C)CCC=C1c2ccccc2Sc2ccc(Cl)cc21,True
+Cinepaxadil,COc1cc(C=CC(=O)N2CCN(CC(O)COc3ccc(C(C)=O)c4c3OCCO4)CC2)cc(OC)c1OC,True
+Cinnarizine,C(=Cc1ccccc1)CN1CCN(C(c2ccccc2)c2ccccc2)CC1,True
+Cinprazole,O=C(CCn1c(CN2CCN(CC=Cc3ccccc3)CC2)nc2ccccc21)c1ccccc1,True
+Cinuperone,O=C(CCCN1CCN(c2cc3ccccc3cn2)CC1)c1ccc(F)cc1,True
+Clemastine,CN1CCCC1CCOC(C)(c1ccccc1)c1ccc(Cl)cc1,True
+Clemizole,Clc1ccc(Cn2c(CN3CCCC3)nc3ccccc32)cc1,True
+Clocinizine,Clc1ccc(C(c2ccccc2)N2CCN(CC=Cc3ccccc3)CC2)cc1,True
+Clomipramine,CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21,True
+Cloperastine,Clc1ccc(C(OCCN2CCCCC2)c2ccccc2)cc1,True
+Clopimozide,O=c1[nH]c2cc(Cl)ccc2n1C1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1,True
+Clothixamide,CNC(=O)CCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,True
+Colforsin,C=CC1(C)CC(=O)C2(O)C(C)(O1)C(OC(C)=O)C(O)C1C(C)(C)CCC(O)C12C,True
+Cryptophycin,COc1ccc(CC2NC(=O)C=CCC(C(C)C3OC3c3ccccc3)OC(=O)C(CC(C)C)OC(=O)C(C)CNC2=O)cc1Cl,True
+Cyclopeptolide(12a),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(O)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)OC(C)(C)C)C(=O)N1C,True
+Cyclopeptolide(12b),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC(C)(C)C)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)OC(C)(C)C)C(=O)N1C,True
+Cyclopeptolide(15b),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)OCCC(C)(C)C)C(=O)N1C,True
+Cyclopeptolide(16a),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)NC(C)(C)C)C(=O)N1C,True
+Cyclopeptolide(16c),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)NCC(C)(C)C)C(=O)N1C,True
+Cyclopeptolide(16h),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)NC(COC(C)(C)C)C(C)C)C(=O)N1C,True
+Cyclopeptolide(2a),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)OC)C(=O)N1C,True
+Cyclopeptolide(2c),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)OCCC(C)C)C(=O)N1C,True
+Cyclopeptolide(2f),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)OC23CC4CC(CC(C4)C2)C3)C(=O)N1C,True
+Cyclopeptolide(3a),C=CCNC(=O)CC1C(=O)N(C)C(C(C)CC)C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N1C,True
+Cyclopeptolide(3c),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)NCCC(C)C)C(=O)N1C,True
+Cyclopeptolide(3f),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)NC23CC4CC(CC(C4)C2)C3)C(=O)N1C,True
+Cyclopeptolide(3g),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)Nc2ccco2)C(=O)N1C,True
+Cyclopeptolide(3h),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)NC(c2ccccc2)c2ccccc2)C(=O)N1C,True
+Cyclopeptolide(3i),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)NC(C)C)C(=O)N1C,True
+Cyclopeptolide(3j),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)N2CCCCC2)C(=O)N1C,True
+Cyclopeptolide(3l),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)NC(COCc2ccccc2)C(C)C)C(=O)N1C,True
+Cyclopeptolide(3n),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)N2CCCC2COC(C)(C)C)C(=O)N1C,True
+Cyclopeptolide(4),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)NC(CO)C(C)C)C(=O)N1C,True
+Cyclopeptolide(9),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CCCC(=O)OC(C)(C)C)C(=O)N1C,True
+Cyclosporin G,CC=CCC(C)C(O)C1C(=O)NC(CCC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,True
+Cyproheptadine,CN1CCC(=C2c3ccccc3C=Cc3ccccc32)CC1,True
+Cytochalasin E,CC1CC=CC2C3OC3(C)C(C)C3C(Cc4ccccc4)NC(=O)C23OC(=O)OC=CC(C)(O)C1=O,True
+"(2S)‐2‐benzyl‐2‐(3,4‐dimethoxyphenyl)‐5‐{[2‐(3,4‐dimethoxyphenyl)ethyl](methyl)amino}pentanenitrile",COc1ccc(CCN(C)CCCC(C#N)(Cc2ccccc2)c2ccc(OC)c(OC)c2)cc1OC,True
+"(2R)‐2‐(3,4‐dimethoxyphenyl)‐5‐{[2‐(3,4‐dimethoxyphenyl)ethyl](methyl)amino}‐2‐ethylpentanenitrile",CCC(C#N)(CCCN(C)CCc1ccc(OC)c(OC)c1)c1ccc(OC)c(OC)c1,True
+D559,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(C)c(C)c2)C(C)C)cc1OC,True
+D595,COc1cc(CCN(C)CCCC(C#N)(c2ccc(Cl)c(Cl)c2)C(C)C)ccc1C,True
+D894,CCOc1cc(CCN(C)CCCC(C#N)(c2cc(OCC)cc(OCC)c2)C(C)C)cc(OCC)c1,True
+DHP-014,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCCN2CCC(c3ccccc3)(c3ccccc3)CC2)C1c1ccc(OC)c(OC)c1,True
+Dagapamil,CCCCCCCCCCCCC(C#N)(CCCN(C)CCc1ccc(OC)cc1)c1cc(OC)c(OC)c(OC)c1,True
+Desipramine,CNCCCN1c2ccccc2CCc2ccccc21,True
+Desmethoxyyangonin,COc1cc(C=Cc2ccccc2)oc(=O)c1,True
+Desmethylsertraline,NC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc21,True
+Devapamil,COc1cccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)c1,True
+Difluanine,Fc1ccc(C(CCCN2CCN(CCNc3ccccc3)CC2)c2ccc(F)cc2)cc1,True
+Dihydromethysticin,COC1=CC(=O)OC(CCc2ccc3c(c2)OCO3)C1,True
+Dihydropyridine DP5,CC(=O)C1=C(C)NC(C)=C(C(C)=O)C1c1ccc(Cl)cc1,True
+Dihydropyridine DP6,CC1=C(C(=O)c2ccccc2)C(c2ccccc2[N+](=O)[O-])C(C(=O)c2ccccc2)=C(C)N1,True
+Dihydropyridine DP7,CC1=C(C(=O)c2ccccc2)C(c2cccc(Oc3ccccc3)c2)C(C(=O)c2ccccc2)=C(C)N1,True
+Dilazep,COc1cc(C(=O)OCCCN2CCCN(CCCOC(=O)c3cc(OC)c(OC)c(OC)c3)CC2)cc(OC)c1OC,True
+Diphenylpyraline,CN1CCC(OC(c2ccccc2)c2ccccc2)CC1,True
+Doxapram,CCN1CC(CCN2CCOCC2)C(c2ccccc2)(c2ccccc2)C1=O,True
+Doxepine,CN(C)CCC=C1c2ccccc2COc2ccccc21,True
+Droprenilamine,CC(CC1CCCCC1)NCCC(c1ccccc1)c1ccccc1,True
+EKI-785,CC#CC(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,True
+Enciprazine,COc1ccccc1N1CCN(CC(O)COc2cc(OC)c(OC)c(OC)c2)CC1,True
+Eprazinone,CCOC(CN1CCN(CC(C)C(=O)c2ccccc2)CC1)c1ccccc1,True
+Eprozinol,COC(CN1CCN(CCC(O)c2ccccc2)CC1)c1ccccc1,True
+Ergotamine,CN1CC(C(=O)NC2(C)OC3(O)C4CCCN4C(=O)C(Cc4ccccc4)N3C2=O)C=C2c3cccc4[nH]cc(c34)CC21,True
+Etafenone,CCN(CC)CCOc1ccccc1C(=O)CCc1ccccc1,True
+Ethylbenztropine,CCN1C2CCC1CC(OC(c1ccccc1)c1ccccc1)C2,True
+Etomidoline,CCN1C(=O)c2ccccc2C1Nc1ccc(OCCN2CCCCC2)cc1,True
+Euphodendroidin B,C=C1C(OC(=O)c2ccccc2)C(OC(C)=O)C(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(O)CC(C)(OC(C)=O)C(O)C2C1OC(=O)C(C)CC,True
+Euphodendroidin C,C=C1C(OC(=O)c2ccccc2)C(OC(C)=O)C(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(O)CC(C)(OC(C)=O)C(O)C2C1OC(=O)c1cccnc1,True
+Euphodendroidin D,C=C1C(OC(=O)c2ccccc2)C(OC(C)=O)C(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(O)CC(C)C(O)C2C1OC(=O)C(C)CC,True
+Euphodendroidin E,C=C1C(OC(=O)c2ccccc2)C(OC(C)=O)C(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(O)CC(C)C(OC(C)=O)C2C1OC(=O)C(C)C,True
+Euphodendroidin G,C=C1C(OC(=O)C(C)C)C(OC(C)=O)C(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(O)CC(C)(OC(C)=O)C(OC(=O)c3cccnc3)C2C1OC(C)=O,True
+Euphodendroidin H,C=C1C(OC(=O)C(C)C)C(OC(C)=O)C(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(O)CC(C)C(OC(=O)c3ccccc3)C2C1OC(C)=O,True
+Fenbutrazate,CCC(C(=O)OCCN1CCOC(c2ccccc2)C1C)c1ccccc1,True
+Fendiline,CC(NCCC(c1ccccc1)c1ccccc1)c1ccccc1,True
+Fenoxedil,CCCCOc1ccc(OCC(=O)N(CCN(CC)CC)c2cc(OCC)ccc2OCC)cc1,True
+Fenticonazole,Clc1ccc(C(Cn2ccnc2)OCc2ccc(Sc3ccccc3)cc2)c(Cl)c1,True
+Flavonoid ID 13,COc1ccc(-c2cc(=O)c3c(O)cc(OCC(=O)N4CCN(Cc5ccc(OC)c(OC)c5OC)CC4)cc3o2)cc1O,True
+Flezelastine,O=C1c2ccccc2C(Cc2ccc(F)cc2)NN1C1CCCN(CCc2ccccc2)CC1,True
+Flordipine,CCOC(=O)C1=C(C)N(CCN2CCOCC2)C(C)=C(C(=O)OCC)C1c1ccccc1C(F)(F)F,True
+Fluanisone,COc1ccccc1N1CCN(CCCC(=O)c2ccc(F)cc2)CC1,True
+Fluperlapine,CN1CCN(C2=Nc3cc(F)ccc3Cc3ccccc32)CC1,True
+Flurazepam,CCN(CC)CCN1C(=O)CN=C(c2ccccc2F)c2cc(Cl)ccc21,True
+Fluspirilene,O=C1NCN(c2ccccc2)C12CCN(CCCC(c1ccc(F)cc1)c1ccc(F)cc1)CC2,True
+Geldanamycin 17-AAG,C=CCNC1=C2CC(C)CC(OC)C(O)C(C)C=C(C)C(OC(N)=O)C(OC)C=CC=C(C)C(=O)NC(=CC1=O)C2=O,True
+Ginsenoside Rg3,CC(C)=CCCC(C)(O)C1CCC2(C)C3CCC4C(C)(C)C(OC5OC(CO)C(O)C(O)C5OC5OC(CO)C(O)C(CO)C5O)CCC4(C)C3CC(O)C12,True
+Glaucine,COc1cc2c(cc1OC)-c1c(OC)c(OC)cc3c1C(C2)N(C)CC3,True
+H-89,O=S(=O)(NCCNCC=Cc1ccc(Br)cc1)c1cccc2cnccc12,True
+Halopemide,O=C(NCCN1CCC(n2c(=O)[nH]c3cc(Cl)ccc32)CC1)c1ccc(F)cc1,True
+Haloperidol,O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1,True
+Hepzidine,CN1CCC(OC2c3ccccc3CCc3ccccc32)CC1,True
+Hexobendine,COc1cc(C(=O)OCCCN(C)CCN(C)CCCOC(=O)c2cc(OC)c(OC)c(OC)c2)cc(OC)c1OC,True
+Hydramethylnon,CC1(C)CNC(=NN=C(C=Cc2ccc(C(F)(F)F)cc2)C=Cc2ccc(C(F)(F)F)cc2)NC1,True
+Ivermectin,CCC(C)C1OC2(CCC1C)CC1CC(CC=C(C)C(OC3COC(C)C(OC4CC(OC)C(O)C(C)O4)C3OC)C(C)C=CC=C3COC4C(O)C(C)=CC(C(=O)O1)C34O)O2,True
+Jatrophane diterpene(7),C=C1C(OC(=O)C(C)C)C(OC(C)=O)C(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(O)CC(C)(OC(C)=O)C(OC(=O)COc3ccccc3)C2C1OC(C)=O,True
+Jatrophane diterpenoid(1),CC(=O)OC1C(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(OC(C)=O)CC(C)C(OC(=O)c3ccccc3)C2=CC(C)(O)C1OC(C)=O,True
+Jatrophane diterpenoid(10),C=C1C(OC(C)=O)CC(=O)C(C)(C)C=CC(C)C(=O)C2(OC(C)=O)CC(C)(OC(C)=O)C(OC(C)=O)C2C1OC(C)=O,True
+Jatrophane diterpenoid(11),C=C1C(OC(=O)C(C)C)C(OC(=O)C(C)C)C(OC(C)=O)C(C)(C)C2OC2C(C)C(=O)C2(OC(C)=O)CC(C)(OC(C)=O)C(OC(C)=O)C2C1OC(C)=O,True
+Jatrophane diterpenoid(12),C=C1C(OC(C)=O)CC(OC(=O)c2cccnc2)C(C)(C)C=CC(C)C(=O)C2(OC(C)=O)CC(C)C(OC(C)=O)C2C1OC(C)=O,True
+Jatrophane diterpenoid(13),C=C1C(OC(C)=O)C(OC(C)=O)C(OC(C)=O)C(C)(C)C=CC(C)C(OC(C)=O)C2(O)CC(C)(OC(C)=O)C(OC(=O)c3ccccc3)C2C1OC(C)=O,True
+Jatrophane diterpenoid(15),C=C1C(OC(=O)C(C)C)C(O)C(OC(=O)c2cccnc2)C(C)(C)C=CC(C)C(OC(C)=O)C2(O)CC(C)(OC(C)=O)C(OC(=O)c3ccccc3)C2C1OC(C)=O,True
+Jatrophane diterpenoid(3),CC(=O)OC1C(OC(C)=O)C(C)(C)C=CC(C)C(OC(C)=O)C2(OC(C)=O)CC(C)C(OC(=O)c3ccccc3)C2=CC(C)(O)C1OC(C)=O,True
+Jatrophane diterpenoid(5),CC(=O)OC1C(O)C(C)=CC2C(OC(=O)c3ccccc3)C(C)CC2(OC(C)=O)C(OC(C)=O)C(C)C=CC(C)(C)C1OC(C)=O,True
+Jatrophane diterpenoid(6),CC(=O)OC1C(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(OC(C)=O)CC(C)C(OC(=O)c3ccccc3)C2=CC(C)(OC(C)=O)C1OC(C)=O,True
+Jatrophane diterpenoid(8),C=C1C(OC(C)=O)CC(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(OC(C)=O)CC(C)(OC(C)=O)C(OC(C)=O)C2C1OC(C)=O,True
+Jatrophane diterpenoid(9),C=C1C(OC(=O)C(C)C)C(OC(C)=O)C(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(OC(C)=O)CC(C)(OC(C)=O)C(OC(C)=O)C2C1OC(C)=O,True
+"2-(3,4-Dichlorophenyl)-5-{[2-(3,4-dimethoxyphenyl)ethyl](methyl)amino}-2-isopropylpentanenitrile",COc1ccc(CCN(C)CCCC(C#N)(c2ccc(Cl)c(Cl)c2)C(C)C)cc1OC,True
+"(2R)-5-{methyl[2-(3,4,5-trimethoxyphenyl)ethyl]amino}-2-(propan-2-yl)-2-(3,4,5-trimethoxyphenyl)pentanenitrile",COc1cc(CCN(C)CCCC(C#N)(c2cc(OC)c(OC)c(OC)c2)C(C)C)cc(OC)c1OC,True
+"(2S)-5-[methyl(2-phenylethyl)amino]-2-(propan-2-yl)-2-(2,3,4-trimethoxyphenyl)pentanenitrile",COc1ccc(C(C#N)(CCCN(C)CCc2ccccc2)C(C)C)c(OC)c1OC,True
+"2-Isopropyl-5-[methyl(octyl)amino]-2-(2,3,4-trimethoxyphenyl)pentanenitrile",CCCCCCCCN(C)CCCC(C#N)(c1ccc(OC)c(OC)c1OC)C(C)C,True
+"5-[Dodecyl(methyl)amino]-2-isopropyl-2-(2,3,4-trimethoxyphenyl)pentanenitrile",CCCCCCCCCCCCN(C)CCCC(C#N)(c1ccc(OC)c(OC)c1OC)C(C)C,True
+Laudanosine,COc1ccc(CC2c3cc(OC)c(OC)cc3CCN2C)cc1OC,True
+Linadryl,Clc1ccc(C(OCCN2CCOCC2)c2ccccc2)cc1,True
+Loxapine,CN1CCN(C2=Nc3ccccc3Oc3ccc(Cl)cc32)CC1,True
+"3-[3-(4-Morpholinyl)propyl]-5,5-diphenyl-2,4-imidazolidinedione",O=C1NC(c2ccccc2)(c2ccccc2)C(=O)N1CCCN1CCOCC1,True
+"5,5-Diphenyl-3-[3-(4-phenyl-1-piperidinyl)propyl]-2,4-imidazolidinedione",O=C1NC(c2ccccc2)(c2ccccc2)C(=O)N1CCCN1CCC(c2ccccc2)CC1,True
+"3-(2,5-Dioxo-4,4-diphenyl-1-imidazolidinyl)propanamide",NC(=O)CCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,True
+"N,N-Diethyl-2-{4-[2-(4-methoxyphenyl)-1-phenylethyl]phenoxy}ethanamine",CCN(CC)CCOc1ccc(C(Cc2ccc(OC)cc2)c2ccccc2)cc1,True
+Macbecin II,COC1CC(C)C(OC)C2=CC(=O)C=C(NC(=O)C(C)=CC=CC(C)C(OC(N)=O)C(C)=CC(C)C1O)C2=O,True
+Manidipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN2CCN(C(c3ccccc3)c3ccccc3)CC2)C1c1cccc([N+](=O)[O-])c1,True
+Maprotiline,CNCCCC12CCC(c3ccccc31)c1ccccc12,True
+Medroxyprogesterone acetate,CC(=O)OC1(C(C)=O)CCC2C3CC(C)C4=CC(=O)CCC4(C)C3CCC21C,True
+Megestrol Acetate,CC(=O)OC1(C(C)=O)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,True
+Mepramidil,COc1cc(C(=O)OCCCNCCC(c2ccccc2)c2ccccc2)cc(OC)c1OC,True
+Methysticin,COC1=CC(=O)OC(C=Cc2ccc3c(c2)OCO3)C1,True
+Metofenazate,COc1cc(C(=O)OCCN2CCN(CCCN3c4ccccc4Sc4ccc(Cl)cc43)CC2)cc(OC)c1OC,True
+Metoxepin,COc1ccc2c(c1)C(N1CCN(C)CC1)=Cc1ccccc1O2,True
+Mibefradil,COCC(=O)OC1Cc2cc(F)ccc2C(C(C)C)C1CCN(C)CCCc1nc2ccccc2[nH]1,True
+Milipertine,COc1cc2[nH]c(C)c(CCN3CCN(c4ccccc4OC)CC3)c2cc1OC,True
+Mioflazine,NC(=O)C1CN(CC(=O)Nc2c(Cl)cccc2Cl)CCN1CCCC(c1ccc(F)cc1)c1ccc(F)cc1,True
+Moxapridine,CCN(CC)CCCN(c1ccccc1)C1Cc2ccccc2C1OC,True
+"N,N-Bis(alkanol)amine aryl ester analog 21",COc1ccc(C=CC(=O)OCCCCCN(C)CCCCCOC(=O)c2c3ccccc3cc3ccccc23)cc1OC,True
+"N,N-Bis(alkanol)amine aryl ester analog 8",COc1cc(C=CC(=O)OCCCN(C)CCCOC(=O)C=Cc2ccc(-c3ccccc3)cc2)cc(OC)c1OC,True
+"N,N-Bis(alkanol)amine aryl ester analog 9",COc1ccc(C(C(=O)OCCCN(C)CCCOC(=O)C=Cc2cc(OC)c(OC)c(OC)c2)c2ccc(OC)cc2)cc1,True
+"N,N-bis(cyclohexanol)amine aryl ester (3)",COc1cc(C=CC(=O)OC2CCC(N(C)C3CCC(OC(=O)c4cc(OC)c(OC)c(OC)c4)CC3)CC2)cc(OC)c1OC,True
+"N,N-bis(cyclohexanol)amine aryl ester (4)",COc1cc(C(=O)OC2CCC(N(C)C3CCC(OC(=O)c4c5ccccc5cc5ccccc45)CC3)CC2)cc(OC)c1OC,True
+"N,N-bis-arylalkylamine derivative(1)",COc1cc(C=CC(=O)OCCCN(C)CCCOC(=O)c2cc(OC)c(OC)c(OC)c2)cc(OC)c1OC,True
+"N,N-bis-arylalkylamine derivative(2)",COc1cc(C(=O)OCCCN(C)CCCOC(=O)c2c3ccccc3cc3ccccc23)cc(OC)c1OC,True
+N-Norlaudanosine,COc1ccc(CC2NCCc3cc(OC)c(OC)cc32)cc1OC,True
+"N-acyloxy-1,4-dihydropyridine(10)",CCC(=O)C1=CN(C(=O)Oc2ccccc2)C=CC1c1ccc(OC)cc1,True
+"N-acyloxy-1,4-dihydropyridine(7)",COc1ccc(C2C=CN(C(=O)Oc3ccccc3)C=C2C(C)=O)cc1,True
+"N-acyloxy-1,4-dihydropyridine(8)",CCC(=O)C1=CN(C(=O)Oc2ccccc2)C=CC1c1ccc(C)cc1,True
+"N-acyloxy-1,4-dihydropyridine(9)",CCC(=O)C1=CN(C(=O)Oc2ccccc2)C=CC1c1ccccc1OC,True
+N-desmethyl-toremifene,CNCCOc1ccc(C(=C(CCCl)c2ccccc2)c2ccccc2)cc1,True
+N-desmethyl-venlafaxine,CNCC(c1ccc(OC)cc1)C1(O)CCCCC1,True
+N-desmethyltamoxifen,CCC(=C(c1ccccc1)c1ccc(OCCNC)cc1)c1ccccc1,True
+"(3R)-4-{4-[2-(diethylamino)ethoxy]phenyl}-3-(4-methoxyphenyl)-3,4-dihydro-2H-1-benzopyran-2-one",CCN(CC)CCOc1ccc(C2c3ccccc3OC(=O)C2c2ccc(OC)cc2)cc1,True
+2-[(2-{[2-(benzoyloxy)ethyl][(4-methoxyphenyl)methyl]amino}ethyl)[(4-methoxyphenyl)methyl]amino]ethyl benzoate,COc1ccc(CN(CCOC(=O)c2ccccc2)CCN(CCOC(=O)c2ccccc2)Cc2ccc(OC)cc2)cc1,True
+"2-(Diethylamino)ethyl 3,4,5-tris(benzyloxy)benzoate",CCN(CC)CCOC(=O)c1cc(OCc2ccccc2)c(OCc2ccccc2)c(OCc2ccccc2)c1,True
+NSC 649087 (Tetramethoxyflavone),COc1ccc(-c2cc(=O)c3ccccc3o2)c(OC)c1OC,True
+"4-(4-Chlorophenyl)-7,7-dimethyl-5-oxo-1-(2,3,4,6-tetra-O-acetylhexopyranosyl)-2-thioxo-1,2,5,6,7,8-hexahydro-3-quinolinecarbonitrile",CC(=O)OCC1OC(n2c3c(c(-c4ccc(Cl)cc4)c(C#N)c2=S)C(=O)CC(C)(C)C3)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O,True
+Nafiverine,CC(C(=O)OCCN1CCN(CCOC(=O)C(C)c2cccc3ccccc23)CC1)c1cccc2ccccc12,True
+Nafoxidine,COc1ccc2c(c1)CCC(c1ccccc1)=C2c1ccc(OCCN2CCCC2)cc1,True
+Nefazodone,CCc1nn(CCCN2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CCOc1ccccc1,True
+Nilprazole,CC(C)NC(=O)CN1CCN(Cc2nc3ccccc3n2CCC(=O)c2ccccc2)CC1,True
+Niludipine,CCOCCOC(=O)C1=C(C)NC(C)=C(C(=O)OCCOCC)C1c1cccc([N+](=O)[O-])c1,True
+Nisoldipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OCC(C)C)C1c1ccccc1[N+](=O)[O-],True
+Norgallopamil,COc1ccc(CCNCCCC(C#N)(c2cc(OC)c(OC)c(OC)c2)C(C)C)cc1OC,True
+Noscapine,COc1ccc2c(c1OC)C(=O)OC2C1c2c(cc3c(c2OC)OCO3)CCN1C,True
+"4,4'-(2-{4-[(1E)-3-Ethoxy-1-propen-1-yl]phenyl}-1H-imidazole-4,5-diyl)bis(N-isopropylaniline)",CCOCC=Cc1ccc(-c2nc(-c3ccc(NC(C)C)cc3)c(-c3ccc(NC(C)C)cc3)[nH]2)cc1,True
+Oxypertine,COc1cc2[nH]c(C)c(CCN3CCN(c4ccccc4)CC3)c2cc1OC,True
+Penfluridol,OC1(c2ccc(Cl)c(C(F)(F)F)c2)CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1,True
+"N-[2-(2-Fluorophenyl)ethyl]glycyl-N-[2-(2,4-dichlorophenyl)ethyl]glycyl-N2-[2-(2,4-dichlorophenyl)ethyl]glycinamide",NC(=O)CN(CCc1ccc(Cl)cc1Cl)C(=O)CN(CCc1ccc(Cl)cc1Cl)C(=O)CNCCc1ccccc1F,True
+Peradoxime,COc1cccc(C=NOCC(O)CN2CCN(c3ccccc3OC)CC2)c1,True
+10-[4-(4-Morpholinyl)butyl]-10H-phenoxazine,c1ccc2c(c1)Oc1ccccc1N2CCCCN1CCOCC1,True
+10-[4-(1-Piperidinyl)butyl]-10H-phenoxazine,c1ccc2c(c1)Oc1ccccc1N2CCCCN1CCCCC1,True
+10-(piperidin-1-ylacetyl)-10H-phenoxazine,O=C(CN1CCCCC1)N1c2ccccc2Oc2ccccc21,True
+"2,2'-{[3-(10H-Phenoxazin-10-yl)propyl]imino}diethanol",OCCN(CCO)CCCN1c2ccccc2Oc2ccccc21,True
+10-[3-(4-Morpholinyl)propyl]-10H-phenoxazine,c1ccc2c(c1)Oc1ccccc1N2CCCN1CCOCC1,True
+10-[3-(1-Piperidinyl)propyl]-10H-phenoxazine,c1ccc2c(c1)Oc1ccccc1N2CCCN1CCCCC1,True
+Phenylamil,N=C(NC(=O)c1nc(Cl)c(N)nc1N)Nc1ccccc1,True
+Pifarnine,CC(C)=CCCC(C)=CCCC(C)=CCN1CCN(Cc2ccc3c(c2)OCO3)CC1,True
+Pinoxepine,OCCN1CCN(CCC=C2c3ccccc3COc3ccc(Cl)cc32)CC1,True
+Pipamperone,NC(=O)C1(N2CCCCC2)CCN(CCCC(=O)c2ccc(F)cc2)CC1,True
+Piperdimerine A,O=C(C1C=CC(c2ccc3c(c2)OCO3)C(C=Cc2ccc3c(c2)OCO3)C1C(=O)N1CCCCC1)N1CCCCC1,True
+Piperine,O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCCC1,True
+Pipoxizine,OCCOCCOCCN1CCC(=C(c2ccccc2)c2ccccc2)CC1,True
+Pirohenptine,CCN1CCC(=C2c3ccccc3CCc3ccccc32)C1C,True
+Pregnanedione,CCC1CCC2C3CCC4CC(=O)C(=O)CC4(C)C3CCC12C,True
+Prenylamine,CC(Cc1ccccc1)NCCC(c1ccccc1)c1ccccc1,True
+Proadifen,CCCC(C(=O)OCCN(CC)CC)(c1ccccc1)c1ccccc1,True
+Prochlorperazine,CN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1,True
+Progabide,NC(=O)CCCN=C(c1ccc(Cl)cc1)c1cc(F)ccc1O,True
+1-(2-{2-Hydroxy-3-[methyl(propyl)amino]propoxy}phenyl)-3-phenyl-1-propanone,CCCN(C)CC(O)COc1ccccc1C(=O)CCc1ccccc1,True
+1-{2-[3-(Dimethylamino)-2-hydroxypropoxy]phenyl}-3-phenyl-1-propanone,CN(C)CC(O)COc1ccccc1C(=O)CCc1ccccc1,True
+1-{2-[(2R)-3-(Diisopropylamino)-2-hydroxypropoxy]phenyl}-3-phenyl-1-propanone,CC(C)N(CC(O)COc1ccccc1C(=O)CCc1ccccc1)C(C)C,True
+1-{2-[3-(Benzylamino)-2-hydroxypropoxy]phenyl}-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1ccccc1OCC(O)CNCc1ccccc1,True
+1-{2-[2-Hydroxy-3-(1-pyrrolidinyl)propoxy]phenyl}-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1ccccc1OCC(O)CN1CCCC1,True
+1-(2-{(2R)-2-Hydroxy-3-[4-(2-methylphenyl)-1-piperazinyl]propoxy}phenyl)-3-phenyl-1-propanone,Cc1ccccc1N1CCN(CC(O)COc2ccccc2C(=O)CCc2ccccc2)CC1,True
+1-(2-{(2R)-2-Hydroxy-3-[4-(4-methoxyphenyl)-1-piperazinyl]propoxy}phenyl)-3-phenyl-1-propanone,COc1ccc(N2CCN(CC(O)COc3ccccc3C(=O)CCc3ccccc3)CC2)cc1,True
+1-(2-{[(2S)-2-hydroxypentyl]oxy}phenyl)-3-phenylpropan-1-one,CCCC(O)COc1ccccc1C(=O)CCc1ccccc1,True
+1-{2-[(2S)-3-(Diethylamino)-2-hydroxypropoxy]phenyl}-3-phenyl-1-propanone,CCN(CC)CC(O)COc1ccccc1C(=O)CCc1ccccc1,True
+1-{2-[(2S)-2-Hydroxy-3-(1-piperidinyl)propoxy]phenyl}-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1ccccc1OCC(O)CN1CCCCC1,True
+1-{4-[(2R)-3-(Diisopropylamino)-2-hydroxypropoxy]phenyl}-3-phenyl-1-propanone,CC(C)N(CC(O)COc1ccc(C(=O)CCc2ccccc2)cc1)C(C)C,True
+1-{2-[(2R)-3-Anilino-2-hydroxypropoxy]phenyl}-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1ccccc1OCC(O)CNc1ccccc1,True
+Methyl 4-({(2R)-2-hydroxy-3-[2-(3-phenylpropanoyl)phenoxy]propyl}amino)benzoate,COC(=O)c1ccc(NCC(O)COc2ccccc2C(=O)CCc2ccccc2)cc1,True
+1-{2-[(2S)-3-[benzyl(propyl)amino]-2-hydroxypropoxy]phenyl}-3-phenylpropan-1-one,CCCN(Cc1ccccc1)CC(O)COc1ccccc1C(=O)CCc1ccccc1,True
+1-{2-[(2R)-3-(4-Benzoyl-1-piperazinyl)-2-hydroxypropoxy]phenyl}-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1ccccc1OCC(O)CN1CCN(C(=O)c2ccccc2)CC1,True
+(1R)-1-{2-[(2S)-2-Hydroxy-3-(1-piperidinyl)propoxy]phenyl}-3-phenyl-1-propanol,OC(COc1ccccc1C(O)CCc1ccccc1)CN1CCCCC1,True
+(2R)-1-{2-[(1R)-1-Methoxy-3-phenylpropyl]phenoxy}-3-(1-piperidinyl)-2-propanol,COC(CCc1ccccc1)c1ccccc1OCC(O)CN1CCCCC1,True
+(2R)-1-{2-[(1R)-1-Methoxy-3-phenylpropyl]phenoxy}-3-(4-morpholinyl)-2-propanol,COC(CCc1ccccc1)c1ccccc1OCC(O)CN1CCOCC1,True
+"1-[(3,3-Diphenylpropyl)amino]-3-[2-(1-methoxy-3-phenylpropyl)phenoxy]-2-propanol",COC(CCc1ccccc1)c1ccccc1OCC(O)CNCCC(c1ccccc1)c1ccccc1,True
+1-{2-[(2R)-2-Hydroxy-3-(4-hydroxy-4-phenyl-1-piperidinyl)propoxy]phenyl}ethanone,CC(=O)c1ccccc1OCC(O)CN1CCC(O)(c2ccccc2)CC1,True
+1-{2-[(2R)-3-(Diisopropylamino)-2-hydroxypropoxy]phenyl}-3-(1-naphthyl)-1-propanone,CC(C)N(CC(O)COc1ccccc1C(=O)CCc1cccc2ccccc12)C(C)C,True
+1-{2-[(2R)-2-Hydroxy-3-(4-morpholinyl)propoxy]phenyl}-3-(1-naphthyl)-1-propanone,O=C(CCc1cccc2ccccc12)c1ccccc1OCC(O)CN1CCOCC1,True
+1-{2-[(2R)-2-Hydroxy-3-(4-hydroxy-4-phenyl-1-piperidinyl)propoxy]phenyl}-3-(1-naphthyl)-1-propanone,O=C(CCc1cccc2ccccc12)c1ccccc1OCC(O)CN1CCC(O)(c2ccccc2)CC1,True
+"1-(2-{(2R)-3-[(3,3-Diphenylpropyl)amino]-2-hydroxypropoxy}phenyl)-3-(1-naphthyl)-1-propanone",O=C(CCc1cccc2ccccc12)c1ccccc1OCC(O)CNCCC(c1ccccc1)c1ccccc1,True
+(2-{(2R)-3-[4-(4-Fluorophenyl)-1-piperazinyl]-2-hydroxypropoxy}phenyl)(phenyl)methanone,O=C(c1ccccc1)c1ccccc1OCC(O)CN1CCN(c2ccc(F)cc2)CC1,True
+{2-[(2R)-2-Hydroxy-3-(4-hydroxy-4-phenyl-1-piperidinyl)propoxy]phenyl}(phenyl)methanone,O=C(c1ccccc1)c1ccccc1OCC(O)CN1CCC(O)(c2ccccc2)CC1,True
+1-{2-[(2R)-3-(4-Benzyl-1-piperazinyl)-2-hydroxypropoxy]-5-hydroxyphenyl}-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1cc(O)ccc1OCC(O)CN1CCN(Cc2ccccc2)CC1,True
+1-{5-(Benzyloxy)-2-[2-hydroxy-3-(propylamino)propoxy]phenyl}-3-phenyl-1-propanone,CCCNCC(O)COc1ccc(OCc2ccccc2)cc1C(=O)CCc1ccccc1,True
+1-{5-(Benzyloxy)-2-[(2R)-3-(diisopropylamino)-2-hydroxypropoxy]phenyl}-3-phenyl-1-propanone,CC(C)N(CC(O)COc1ccc(OCc2ccccc2)cc1C(=O)CCc1ccccc1)C(C)C,True
+Propenzolate,CN1CCCC(OC(=O)C(O)(c2ccccc2)C2CCCCC2)C1,True
+Protriptyline,CNCCCC1c2ccccc2C=Cc2ccccc21,True
+Purine analog ID 32,C=CCNc1nc(N2CCC(NCC3c4ccccc4COc4ccccc43)CC2)c2ncn(CC=C)c2n1,True
+Purine analog ID 4,C=CCNc1nc(N2CCC(NCC(c3ccc(F)cc3)c3ccc(F)cc3)CC2)nc2c1ncn2CC=C,True
+Purine analog ID 8,C=CCNc1nc(N2CCC(NCC3c4ccccc4COc4ccccc43)CC2)nc2c1ncn2CC=C,True
+Purine analog ID 9,C=CCNc1nc(N2CCC(NCC3c4ccccc4CCc4cc(OC)ccc43)CC2)nc2c1ncn2CC=C,True
+Quinacrine,CCN(CC)CCCC(C)Nc1c2ccc(Cl)cc2nc2ccc(OC)cc12,True
+Quinupramine,c1ccc2c(c1)CCc1ccccc1N2C1CN2CCC1CC2,True
+R40 500,Clc1ccc(C2(Cn3ccnc3)OCC(COc3ccc(-n4ccnc4)cc3)O2)c(Cl)c1,True
+R42164,CC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnn4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,True
+R6033,O=c1[nH]c2ccccc2n1C1CCN(CCCCc2ccc(F)cc2)CC1,True
+RE-28,c1ccc(-c2nc3c(N4CCOCC4)nc(N4CCOCC4)nc3nc2N2CCOCC2)cc1,True
+RE-57,CN(CCO)c1nc(N2CCOCC2)nc2nc(N3CCOCC3)c(-c3ccccc3)nc12,True
+RE-61,CCN(CCO)c1nc(N2CCOCC2)nc2nc(N3CCOCC3)c(-c3ccccc3)nc12,True
+Racefemine,CC(COc1ccccc1)NC(C)Cc1ccccc1,True
+Razinodil,COc1cc(C(=O)OC(CN2CCOCC2)Cn2nnc3c(OC)c(OC)c(OC)cc3c2=O)cc(OC)c1OC,True
+Reboxetine,CCOc1ccccc1OC(c1ccccc1)C1CNCCO1,True
+Reversin 121,CC(C)(C)OC(=O)NC(CC(=O)OCc1ccccc1)C(=O)NC(CCCCNC(=O)OCc1ccccc1)C(=O)OC(C)(C)C,True
+Reversin 205,COC(=O)C(CCCCNC(=O)C(CCC(=O)OCc1ccccc1)NC(=O)OC(C)(C)C)NC(=O)C(CC(=O)OCc1ccccc1)NC(=O)OC(C)(C)C,True
+Ro-04-2249,COc1ccc(CCC2NCCc3cc(OC)c(OC)cc32)cc1,True
+Ro-04-2285,COc1cc2c(cc1OC)C(CCc1ccc(C)cc1)NCC2,True
+Ro-04-2287,COc1cc2c(cc1OC)C(CCc1ccc(O)cc1)N(C)CC2,True
+Ro-04-2359,COc1ccc(CCC2c3cc(OC)c(OC)cc3CCN2C)cc1OC,True
+Ro-04-2360,COc1cc2c(cc1OC)C(CCc1ccc3c(c1)OCO3)N(C)CC2,True
+Ro-04-2669,CCc1ccc(CCC2c3cc(OC)c(OC)cc3CCN2C)cc1,True
+Ropitoin,COc1ccc(C2(c3ccccc3)NC(=O)N(CCCN3CCC(c4ccccc4)CC3)C2=O)cc1,True
+Roxithromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=NOCOCCOC)C(C)C(O)C1(C)O,True
+S 9788,C=CCNc1nc(CN2CCC(NCC(c3ccc(F)cc3)c3ccc(F)cc3)CC2)nc(NCC=C)n1,True
+S76 5200,COc1ccccc1N1CCN(CC(O)COc2ccc3c(c2)CC(=O)N3C)CC1,True
+S78 5781,COc1ccccc1N1CCN(CC(O)COc2ccc3c(c2)CCC(=O)N3)CC1,True
+S79 0491,O=C(CCCN1CCN(c2cc3ccccc3c(-c3ccccc3O)n2)CC1)c1ccc(F)cc1,True
+S79 1099,CN1CCN(c2nc(-c3ccccc3)c3ccccc3c2C=NN2CCOC2=O)CC1,True
+S79 1100,O=C1OCCN1CCN1CCN(c2cc3ccccc3c(-c3ccccc3)n2)CC1,True
+S79 2823,Cc1nc(N2CCN(CCCC(=O)c3ccc(F)cc3)CC2)cc2ccccc12,True
+S81 0339,O=C(CCCN1CCN(c2cc3ccccc3cn2)CC1)c1ccc(Br)cc1,True
+S81 1951,O=C(CCCN1CCN(c2ccc3cnc(Cl)cc3c2)CC1)c1ccc(F)cc1,True
+S83 4096,Cc1cc2cc(N3CCN(CCCC(=O)c4ccc(F)cc4)CC3)ccc2c(C)n1,True
+S83 4163,Cc1cc2cc(N3CCN(CCCC(=O)c4ccc(F)cc4)CC3)ccc2cn1,True
+SDZ-PSC 833,CC=CCC(C)C(=O)C1C(=O)NC(C(C)C)C(=O)N(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,True
+SKF-16467,CCCC(C(=O)NCCN(C)C)(c1ccccc1)c1ccccc1,True
+SPS 1770,CCC(C(=O)OCCN1CCN(CCOc2ccc(OC)cc2)CC1)c1ccccc1,True
+SPS 1773,CCC(C(=O)OCCN1CCN(CC(=O)Nc2c(C)cccc2C)CC1)c1ccccc1,True
+SPS 1774,CCC(C(=O)OCCN1CCN(CCC(=O)Nc2c(C)cccc2C)CC1)c1ccccc1,True
+SPS 1775,CCC(C(=O)OCCN1CCN(CCOC(=O)C(CC)c2ccccc2F)CC1)c1ccccc1F,True
+SPS 1776,CCC(C(=O)OCCN1CCN(CCOC(=O)C(CC)c2ccccc2C)CC1)c1ccccc1C,True
+SPS 1777,CCC(C(=O)OCCN1CCN(CCOC(=O)C(CC)c2ccc(F)cc2)CC1)c1ccc(F)cc1,True
+SPS 1779,CCC(C(=O)OCCN1CCN(CCOC(=O)C(CC)c2ccccc2Cl)CC1)c1ccccc1Cl,True
+SPS 1835,CCC(C(=O)OCCN1CCN(CCOC(=O)C(CC)c2ccc(OC)c(OC)c2)CC1)c1ccc(OC)c(OC)c1,True
+SPS 1838,CCCC(C(=O)OCCN1CCN(CCOC(=O)C(CCC)c2ccccc2)CC1)c1ccccc1,True
+SPS 1840,CCC(C(=O)OCCN(C)CCN(C)CCOC(=O)C(CC)c1ccccc1)c1ccccc1,True
+SPS 1843,CCC(Oc1ccccc1)C(=O)OCCN1CCN(CCOC(=O)C(CC)Oc2ccccc2)CC1,True
+SPS 1844,CCC(C(=O)NCCCN1CCN(CCCNC(=O)C(CC)c2ccccc2)CC1)c1ccccc1,True
+SPS 1845,O=C(Nc1ccccc1)OCCN1CCN(CCOC(=O)Nc2ccccc2)CC1,True
+SPS 1846,CCC(C(=O)OCCN(CC)CCN(CC)CCOC(=O)C(CC)c1ccccc1)c1ccccc1,True
+SPS 1849,CCCCC(C(=O)OCCN1CCN(CCOC(=O)C(CCCC)c2ccc(OC)c(OC)c2)CC1)c1ccc(OC)c(OC)c1,True
+SPS 1850,CCCC(C(=O)OCCN1CCN(CCOC(=O)C(CCC)c2ccc(OC)c(OC)c2)CC1)c1ccc(OC)c(OC)c1,True
+SPS 1852,CCC(C(=O)OCCN1CCCN(CCOC(=O)C(CC)c2ccccc2)CC1)c1ccccc1,True
+Secoverine,CCN(CCCC(=O)C1CCCCC1)C(C)Cc1ccc(OC)cc1,True
+Selparazine,CCOc1ccccc1N1CCN(CC(O)COc2ccc3c(c2)CCC(=O)N3)CC1,True
+Sesquiterpene(1),CC(=O)OCC12C(OC(=O)c3ccccc3)C(=O)C3C(OC(C)=O)C1(OC3(C)C)C(C)CC(OC(C)=O)C2OC(=O)c1ccccc1,True
+Sesquiterpene(12),CC(=O)OCC12C(OC(C)=O)C(OC(C)=O)CC(C)C13OC(C)(C)C(C(OC(=O)c1ccccc1)C2OC(=O)c1ccccc1)C3OC(C)=O,True
+Sesquiterpene(13),CC(=O)OC1CC(C)(O)C23OC(C)(C)C(C(OC(=O)c4ccccc4)C(OC(=O)c4ccccc4)C2(C)C1OC(=O)c1ccccc1)C3OC(C)=O,True
+Sesquiterpene(14),CC(=O)OC1C2C(O)C(OC(=O)c3ccccc3)C3(C)C(OC(=O)c4ccccc4)C(OC(=O)c4ccccc4)CC(C)(O)C13OC2(C)C,True
+Setastine,CC(OCCN1CCCCCC1)(c1ccccc1)c1ccc(Cl)cc1,True
+Silybin,COc1cc(C2Oc3cc(C4Oc5cc(O)cc(O)c5C(=O)C4O)ccc3OC2CO)ccc1O,True
+Solypertine,COc1ccccc1N1CCN(CCc2c[nH]c3cc4c(cc23)OCO4)CC1,True
+Spiramide,O=C1NCN(c2ccccc2)C12CCN(CCCOc1ccc(F)cc1)CC2,True
+TMB8,CCN(CC)CCCCCCCCOC(=O)c1cc(OC)c(OC)c(OC)c1,True
+Tangeretin,COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)c(OC)c3o2)cc1,True
+Tefludazine,OCCN1CCN(C2CC(c3ccc(F)cc3)c3ccc(C(F)(F)F)cc32)CC1,True
+Terodiline,CC(CC(c1ccccc1)c1ccccc1)NC(C)(C)C,True
+Teroxalene,CCC(C)(C)c1ccc(OCCCCCCN2CCN(c3ccc(C)c(Cl)c3)CC2)cc1,True
+Tetrahydroquinoline ID 3f,Cc1ccc(C(=O)OC2C(C)Nc3ccccc3C2N2CCCC2)cc1,True
+Tetrahydroquinoline ID 3g,CCN(CC)CCCC(C)NC1c2ccccc2NC(C)C1OC(=O)c1ccc(C)cc1,True
+Thalicarpine,COc1cc(CC2c3cc(OC)c(OC)cc3CCN2C)c(Oc2cc3c(cc2OC)-c2c(OC)c(OC)cc4c2C(C3)N(C)CC4)cc1OC,True
+Tolyporphin A,CC(=O)OC1CC(O)C(C)OC1C1(C)C(=O)c2cc3cc(C)c(cc4nc(cc5[nH]c(cc1n2)cc5C)C(=O)C4(C)C1OC(C)C(O)CC1OC(C)=O)[nH]3,True
+Toprilidine,Cc1ccccc1N1CCN(CCCOc2ccccn2)CC1,True
+Trazodone,O=c1n(CCCN2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12,True
+"N,N'-Diallyl-6-(4-{[2-(3,5-dimethoxyphenyl)-2-(2-methylphenyl)ethyl]amino}-1-piperidinyl)-1,3,5-triazine-2,4-diamine",C=CCNc1nc(NCC=C)nc(N2CCC(NCC(c3cc(OC)cc(OC)c3)c3ccccc3C)CC2)n1,True
+"N,N'-Diallyl-6-(4-{[bis(4-fluorophenyl)methyl](ethyl)amino}-1-piperidinyl)-1,3,5-triazine-2,4-diamine",C=CCNc1nc(NCC=C)nc(N2CCC(NCC(c3ccc(F)cc3)C3CCCCC3)CC2)n1,True
+"N,N'-Diallyl-6-{4-[(6,11-dihydrodibenzo[b,e]oxepin-11-ylmethyl)amino]-1-piperidinyl}-1,3,5-triazine-2,4-diamine",C=CCNc1nc(NCC=C)nc(N2CCC(NCC3c4ccccc4COc4ccccc43)CC2)n1,True
+"N,N'-Diallyl-6-(4-{[(3-chloro-6-methyl-5,5-dioxido-6,11-dihydrodibenzo[c,f][1,2]thiazepin-11-yl)methyl]amino}-1-piperidinyl)-1,3,5-triazine-2,4-diamine",C=CCNc1nc(NCC=C)nc(N2CCC(NCC3c4ccccc4N(C)S(=O)(=O)c4cc(Cl)ccc43)CC2)n1,True
+"N-Allyl-4-chloro-6-{4-[(10,11-dihydro-5H-dibenzo[a,d][7]annulen-5-ylmethyl)amino]-1-piperidinyl}-1,3,5-triazin-2-amine",C=CCNc1nc(Cl)nc(N2CCC(NCC3c4ccccc4CCc4ccccc43)CC2)n1,True
+"N-Allyl-4-{4-[(10,11-dihydro-5H-dibenzo[a,d][7]annulen-5-ylmethyl)amino]-1-piperidinyl}-6-methoxy-1,3,5-triazin-2-amine",C=CCNc1nc(OC)nc(N2CCC(NCC3c4ccccc4CCc4ccccc43)CC2)n1,True
+"N,N'-Diallyl-6-(4-{[(2-methoxy-10,11-dihydro-5H-dibenzo[a,d][7]annulen-5-yl)methyl]amino}-1-piperidinyl)-1,3,5-triazine-2,4-diamine",C=CCNc1nc(NCC=C)nc(N2CCC(NCC3c4ccccc4CCc4cc(OC)ccc43)CC2)n1,True
+"N2,N4-Diallyl-N6-{4-[bis(4-fluorophenyl)methyl]-1-piperazinyl}-1,3,5-triazine-2,4,6-triamine",C=CCNc1nc(NCC=C)nc(NN2CCN(C(c3ccc(F)cc3)c3ccc(F)cc3)CC2)n1,True
+"N-{4-[4,6-Bis(allylamino)-1,3,5-triazin-2-yl]-1-piperazinyl}-10,11-dihydro-5H-dibenzo[a,d][7]annulene-5-carboxamide",C=CCNc1nc(NCC=C)nc(N2CCN(NC(=O)C3c4ccccc4CCc4ccccc43)CC2)n1,True
+Triparanol,CCN(CC)CCOc1ccc(C(O)(Cc2ccc(Cl)cc2)c2ccc(C)cc2)cc1,True
+Tropirine,CN1C2CCC1CC(OC1c3ccccc3C=Cc3ncccc31)C2,True
+U10520A,CCN(CC)CCOc1ccc(C2=C(c3ccccc3)CCc3cc(OC)ccc32)cc1,True
+U18666A,CCN(CC)CCOC1CCC2(C)C(=CCC3C4CCC(=O)C4(C)CCC32)C1,True
+UCB-26359,COc1ccc(C(=C2CCN(CCOCC(N)=O)CC2)c2ccccc2)cc1,True
+UCB-L172,NC(=O)COCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,True
+Verapamil analogue(2),COc1ccc(C(C#N)(CCCNC(c2ccccc2)c2ccccc2)C(C)C)cc1OC,True
+Verapamil analogue(25),COc1ccc(C(C#N)(CC#CCNCC(c2ccccc2)c2ccccc2)C(C)C)cc1OC,True
+Verapamil analogue(29),C=CCNc1nc(NCC=C)nc(N2CCC(NCC#CCC(C#N)(c3ccc(OC)c(OC)c3)C(C)C)CC2)n1,True
+Verapamil analogue(5),COc1ccc(C(C#N)(CCCNC2c3ccccc3-c3ccccc32)C(C)C)cc1OC,True
+Vetrabutine,COc1ccc(C(CCCc2ccccc2)N(C)C)cc1OC,True
+W8-032,CC=CCC(C)C(O)C1C(=O)NC(C(C)O)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)CC)C(=O)N1C,True
+Zolpidem,Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1,True
+MA 1586,O=C1NC(c2ccccc2)(c2ccccc2)C(=O)N1CCCN1CCN(c2ccccc2)CC1,True
+MA 1509,CC1NC(c2ccccc2)(c2ccccc2)C(=O)N1CCCN1CCN(c2ccccc2)CC1,True
+Revenast,O=c1cc(-c2ccccc2)n(-c2ccccc2)n1CCCN1CCN(c2ccccn2)CC1,True
+5-N-acetyl-8-demethylardeemin,C=CC(C)(C)C12CC3c4nc5ccccc5c(=O)n4CC(=O)N3C1N(C(C)=O)c1ccccc12,True
+GW 420867,CCC1C(=O)Nc2ccccc2N1C(=O)CC(C)C,True
+Purine analog ID 17,C=CCNc1nc(N2CCC(NCC3c4ccccc4NC(=O)c4ccccc43)CC2)nc2c1ncn2CC=C,True
+NSC 344003,O=C1c2cccc(NCCCNCCO)c2C(=O)c2cccc(NCCCNCCO)c21,True
+Drobuline,CC(C)NCC(O)CC(c1ccccc1)c1ccccc1,True
+Diphenidol,OC(CCCN1CCCCC1)(c1ccccc1)c1ccccc1,True
+RA-171,CC(O)CN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CC(C)O)nc(N3CCCCC3)c2n1,True
+"[(2S,3S,4S)-3-Hydroxy-2-methyl-4-(1-pyrrolidinyl)-3,4-dihydro-1(2H)-quinolinyl](4-methylphenyl)methanone",Cc1ccc(C(=O)N2c3ccccc3C(N3CCCC3)C(O)C2C)cc1,True
+"[(2S,3S,4S)-4-(4-Benzyl-1-piperazinyl)-3-hydroxy-2-methyl-3,4-dihydro-1(2H)-quinolinyl](4-methylphenyl)methanone",Cc1ccc(C(=O)N2c3ccccc3C(N3CCN(Cc4ccccc4)CC3)C(O)C2C)cc1,True
+"[(2S,3R,4S)-4-(Benzylamino)-3-hydroxy-2-methyl-3,4-dihydro-1(2H)-quinolinyl](4-methylphenyl)methanone",Cc1ccc(C(=O)N2c3ccccc3C(NCc3ccccc3)C(O)C2C)cc1,True
+Androsterone,CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O,True
+RA-24,OCCN(CCO)c1nc(N2CCCC2)c2nc(N(CCO)CCO)nc(N3CCCC3)c2n1,True
+RA-134,OCCN(CCO)c1nc(N2CCCCC2)c2nc(N3CCCCC3)nc(N3CCCCC3)c2n1,True
+RA-168,CN1CCN(c2nc(N3CCCCC3)c3nc(N(CCO)CCO)nc(N4CCCCC4)c3n2)CC1,True
+RA-19,OCCN(CCO)c1nc(N2CCCCC2)c2ncnc(N3CCCCC3)c2n1,True
+RA-178,OCCN(CCO)c1nc(N2CCCc3ccccc32)c2nc(N(CCO)CCO)nc(N3CCCc4ccccc43)c2n1,True
+RA-14,OCCN(CCO)c1nc(N2CCCCC2)nc2c(N(CCO)CCO)nc(N3CCCCC3)nc12,True
+RE-38,OCCN(CCO)c1nc(N2CCCCC2)nc2nc(N3CCCCC3)c(-c3ccccc3)nc12,True
+Procyclidine,OC(CCN1CCCC1)(c1ccccc1)C1CCCCC1,True
+Tolnapersine,Cc1ccccc1N1CCN(C2CCc3cc(O)ccc3C2)CC1,True
+Pentazocine,CC(C)=CCN1CCC2(C)c3cc(O)ccc3CC1C2C,True
+PAK-1,CCOP(=O)(C1=C(C)NC(C)=C(C(=O)OCCN(C)Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1)N(C)C,True
+Efonidipine,CC1=C(C(=O)OCCN(Cc2ccccc2)c2ccccc2)C(c2cccc([N+](=O)[O-])c2)C(P2(=O)OCC(C)(C)CO2)=C(C)N1,True
+PAK-200,CCc1c(C2C(P3(=O)OCC(C)(C)CO3)=C(C)N(CCN3CCOCC3)C(C)(N(Cc3ccccc3)c3ccccc3)C2C(=O)O)cccc1[N+](=O)[O-],True
+Delavirdine,CC(C)Nc1ccnc(N2CCN(C(=O)c3cc4cc(NS(C)(=O)=O)ccc4[nH]3)CC2)c1,True
+Omeprazole,COc1ccc2[nH]c(S(=O)Cc3ncc(C)c(OC)c3C)nc2c1,True
+MDR reversal agent 37b,COc1cc2c(cc1OC)CN(CCCCCCC(Sc1ccc(C)cc1)c1ccc(OC)c(OCCc3cnc[nH]3)c1)CC2,True
+MDR reversal agent 35a,COc1ccc(C(CCCCCN2CCc3cc(OC)c(OC)cc3C2)SC2CCCCC2)cc1OC,True
+MDR reversal agent 35d,CCCCCSC(CCCCCN1CCc2cc(OC)c(OC)cc2C1)c1ccc(OC)c(OC)c1,True
+MDR reversal agent 15o,COc1ccc(C(CCCCCN2CCc3cc(OC)c(OC)cc3C2)Sc2ccc(C)cc2)cc1OC,True
+GGCME,COC(=O)C(N)CSCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C,True
+Farnesyl analog AFCMA,CNC(=O)C(CSCC=C(C)CCC=C(C)CCC=C(C)C)NC(C)=O,True
+Nelfinavir,Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C,True
+Tioperidone,CCCSc1ccccc1N1CCN(CCCCn2c(=O)[nH]c3ccccc3c2=O)CC1,True
+Acridone-4-carboxamide 53,COc1ccc(CN(C)CCCSc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc2)cc1OC,True
+RXRE-63,CN(C)c1nc2nc(N3CCNCC3)nc(N(C)C)c2nc1SCc1ccccc1,True
+RXRA-69,c1ccc(CSc2ncnc3c(N4CCOCC4)nc(N4CCNCC4)nc23)cc1,True
+MDR reversal agent 15m,COc1ccc(C(C#N)(CCCCCCN2CCc3cc(OC)c(OC)cc3C2)Sc2ccc(C)cc2)cc1OC,True
+MDR reversal agent 15u,COc1ccc(C(C#N)(CCCCCN2CCc3cc(OC)c(OC)cc3C2)SC2CCCCC2)cc1OC,True
+MDR reversal agent 28c,COc1ccc(C(C#N)(CCCCCN2Cc3cc(OC)c(OC)cc3C2)SC2CCCCC2)cc1OC,True
+MDR reversal agent 28a,COc1ccc(C(C#N)(CCCCCN2Cc3cc(OC)c(OC)cc3C2)Sc2ccc(C)cc2)cc1OC,True
+Ro11-2933,COc1ccc(CCN(C)CCCC2(c3ccc4ccccc4c3)SCCCS2)cc1OC,True
+NSC 303594,COc1ccc2c(c1)N(C(=O)N(CCOC(=O)Nc1ccccc1)CCOC(=O)Nc1ccccc1)c1ccccc1S2,True
+Perimetazine,COc1ccc2c(c1)N(CC(C)CN1CCC(O)CC1)c1ccccc1S2,True
+Dixyrazine,CC(CN1CCN(CCOCCO)CC1)CN1c2ccccc2Sc2ccccc21,True
+Isopromethazine,CC(=O)c1ccc2c(c1)N(CC(C)N(C)C)c1ccccc1S2,True
+Promethazine,CC(CN1c2ccccc2Sc2ccccc21)N(C)C,True
+Sulforidazine,CN1CCCCC1CCN1c2ccccc2Sc2ccc(S(C)(=O)=O)cc21,True
+Acepromazine,CC(=O)c1ccc2c(c1)N(CCCN(C)C)c1ccccc1S2,True
+AHR 06601,CC(=O)c1ccc2c(c1)N(CCCN1CCC(C(=O)c3ccc(F)cc3)CC1)c1ccccc1S2,True
+Duoperone,O=C(c1ccc(F)cc1)C1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,True
+Thioproperazine,CN1CCN(CCCN2c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1,True
+Thiethylperazine,CCSc1ccc2c(c1)N(CCCN1CCN(C)CC1)c1ccccc1S2,True
+Cyclophenazine,FC(F)(F)c1ccc2c(c1)N(CCCN1CCN(C3CC3)CC1)c1ccccc1S2,True
+Carphenazine,CCC(=O)c1ccc2c(c1)N(CCCN1CCN(CCO)CC1)c1ccccc1S2,True
+Pyrathiazine,c1ccc2c(c1)Sc1ccccc1N2CCN1CCCC1,True
+Acridone-4-carboxamide 31,COc1ccc(CCN(C)CCOc2ccc(NC(=O)c3cccc4c3Nc3ccccc3S4)cc2)cc1OC,True
+Citatepine,CN1CCC2=C(CC1)c1cc(C#N)ccc1Sc1ccccc12,True
+Metiapine,Cc1ccc2c(c1)C(N1CCN(C)CC1)=Nc1ccccc1S2,True
+Pimethixene,CN1CCC(=C2c3ccccc3Sc3ccccc32)CC1,True
+Acridone-4-carboxamide 24,COc1ccc(CCN(C)CCOc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5sc34)cc2)cc1OC,True
+NSC 676600,CC(=O)OCC1OC(N2C(=S)C(C#N)C(c3ccccc3)C=C2c2ccccc2)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O,True
+Parathion-methyl,COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1,True
+2-Chloroimipramine,CN(C)CCCN1C2=C(C=C[Cl+]C2)CCc2ccccc21,True
+Azipramine,CN(Cc1ccccc1)Cc1cn2c3c(cccc13)CCc1ccccc1-2,True
+Purine analog ID 28,C=CCNc1nc(N2CCC(NCC3c4ccccc4CCc4ccccc43)CC2)c2ncn(CC=C)c2n1,True
+Purine analog ID 3,C=CCNc1nc(N2CCC(NCC3c4ccccc4CCc4ccccc43)CC2)nc2c1ncn2CC=C,True
+Purine analog ID 7,C=CCNc1nc(N2CCC(NCc3cccc4ccccc34)CC2)nc2c1ncn2CC=C,True
+Purine analog ID 26,CCCNc1nc(N2CCC(NCC3c4ccccc4CCc4ccccc43)CC2)nc2c1ncn2CCC,True
+Triazine derivative ID 40,CN(C)c1nc(N(C)C)nc(N2CCC(NCC3c4ccccc4CCc4ccccc43)CC2)n1,True
+Triazine derivative ID 45,C=CCNc1nc(NCC)nc(N2CCC(NCC3c4ccccc4CCc4ccccc43)CC2)n1,True
+Triazine derivative ID 26,C=CCNc1nc(NCC=C)nc(N2CCC(N(C)CC(c3ccccc3)c3ccccc3)CC2)n1,True
+Triazine derivative ID 15,C=CCNc1nc(NCC=C)nc(N2CCC(NC(c3ccccc3)c3ccccc3)CC2)n1,True
+Triazine derivative ID 33,C=CCNc1nc(NCC=C)nc(N2CCC(NC3c4ccccc4CCc4ccccc43)CC2)n1,True
+Triazine derivative ID 30,C=CCNc1nc(NCC=C)nc(N2CCC(NCC(c3c(C)cccc3C)c3c(C)cccc3C)CC2)n1,True
+Triazine derivative ID 21,C=CCNc1nc(NCC=C)nc(N2CCC(NCC(c3ccccc3)c3ccccc3)CC2)n1,True
+Triazine derivative ID 37,C=CCNc1nc(NCC=C)nc(N2CCC(NCC34CCC(c5ccccc53)c3ccccc34)CC2)n1,True
+Triazine derivative ID 39,C=CCNc1nc(NCC=C)nc(N2CCC(NCC3c4ccccc4-c4ccccc43)CC2)n1,True
+Triazine derivative ID 38,C=CCNc1nc(NCC=C)nc(N2CCC(NCC3c4ccccc4C=Cc4ccccc43)CC2)n1,True
+Triazine derivative ID 22,C=CCNc1nc(NCC=C)nc(N2CCC(NCCC(c3ccccc3)c3ccccc3)CC2)n1,True
+Triazine derivative ID 7,C=CCNc1nc(NCC=C)nc(N2CCN(CC3c4ccccc4CCc4ccccc43)CC2)n1,True
+Triazine derivative ID 8,C=CCNc1nc(NCC=C)nc(N2CCN(NCC3c4ccccc4CCc4ccccc43)CC2)n1,True
+Triazine derivative ID 23,C=CCNc1nc(NCCC)nc(N2CCC(NCC(c3ccccc3)c3ccccc3)CC2)n1,True
+Triazine derivative ID 24,C=CCNc1nc(NCCC)nc(N2CCC(NCCC(c3ccccc3)c3ccccc3)CC2)n1,True
+Tampramine,CN(C)CCCN1c2ccccc2C(c2ccccc2)=Nc2cccnc21,True
+Buterizine,CCCCc1nc2cc(CN3CCN(C(c4ccccc4)c4ccccc4)CC3)ccc2n1CC,True
+Dimethindene,CC(C1=C(CCN(C)C)Cc2ccccc21)c1ccccn1,True
+Bifonazole,c1ccc(-c2ccc(C(c3ccccc3)n3ccnc3)cc2)cc1,True
+Bufuralol,CCc1cccc2cc(C(O)CNC(C)(C)C)oc12,True
+Benzofuran derivative 2f,COc1ccccc1N1CCN(CC(=O)c2oc3ccccc3c2CCc2ccccc2)CC1,True
+Benzofuran derivative 2c,COc1ccccc1N1CCN(CC(O)c2oc3ccccc3c2CCc2ccccc2)CC1,True
+Benzofuran derivative 2e,CC(C)NCCc1oc2ccccc2c1CCc1ccccc1,True
+Isradipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)C1c1cccc2nonc12,True
+Darodipine,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1c1cccc2nonc12,True
+Pizotyline,CN1CCC(=C2c3ccccc3CCc3sccc32)CC1,True
+Ketotifen,CN1CCC(=C2c3ccccc3CC(=O)c3sccc32)CC1,True
+Etolotifene,O=C1Cc2ccccc2C(=C2CCN(CCOCCOCCO)CC2)c2ccsc21,True
+LY292540,CCCCS(=O)(=O)Oc1ccc(-c2sc3cc(OS(=O)(=O)CCCC)ccc3c2C(=O)c2ccc(OCCN3CCCCC3)cc2)cc1,True
+LY296097,CCCCCCS(=O)(=O)Oc1ccc(-c2sc3cc(OS(=O)(=O)CCCCCC)ccc3c2C(=O)c2ccc(OCCN3CCCCC3)cc2)cc1,True
+AN-989,CC(=O)c1c(C)cc(C)c(CSc2nc3ccc(NC(=O)c4ccc(C(C)(C)C)cc4)cc3s2)c1C,True
+Cetiedil,O=C(OCCN1CCCCCC1)C(c1ccsc1)C1CCCCC1,True
+NK-106,CCOC(=O)COC(=O)C1=C(C)NC(C)=C(C(=O)OCC(=O)OCC)C1c1cccs1,True
+"5,6,7,3',4'-Pentamethoxyflavone",COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)cc3o2)cc1OC,True
+"5,6,7,3',4',5'-Hexamethoxyflavone",COc1cc(-c2cc(=O)c3c(OC)c(OC)c(OC)cc3o2)cc(OC)c1OC,True
+"5,7,3',4',5'-Pentamethoxyflavone",COc1cc(OC)c2c(=O)cc(-c3cc(OC)c(OC)c(OC)c3)oc2c1,True
+"7,3',4'-Trimethoxyflavone",COc1ccc2c(=O)cc(-c3ccc(OC)c(OC)c3)oc2c1,True
+Gallopamil,COc1ccc(CCN(C)CCCC(C#N)(c2cc(OC)c(OC)c(OC)c2)C(C)C)cc1OC,True
+Flavone,O=c1cc(-c2ccccc2)oc2ccccc12,True
+Tamolarizine,COc1ccc(C(O)CN2CCN(C(c3ccccc3)c3ccccc3)CC2)cc1OC,True
+Dexloxiglumide,CCCCCN(CCCOC)C(=O)C(CCC(=O)O)NC(=O)c1ccc(Cl)c(Cl)c1,True
+Cilostazol,O=C1CCc2cc(OCCCCc3nnnn3C3CCCCC3)ccc2N1,True
+Bepridil,CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1,True
+Mometasone furoate,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(OC(=O)c1ccco1)C(=O)CCl,True
+D-703,COc1cc(C(C#N)(CCCN(C)CCc2ccc(OC)c(OC)c2)C(C)C)ccc1O,True
+Toxindole,Oc1ccc2[nH]cc(CCCCN3CC=C(c4ccccc4)CC3)c2c1,True
+Moxidectin,CON=C1CC2(CC3CC(CC=C(C)CC(C)C=CC=C4COC5C(O)C(C)=CC(C(=O)O3)C45O)O2)OC(C(C)=CC(C)C)C1C,True
+"(8S,9R,10R,13S,14R,17S)-17-hydroxy-17-(2-hydroxyacetyl)-13-methyl-2,6,7,8,9,10,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-3,11-dione",CC12CC(=O)C3C4CCC(=O)C=C4CCC3C1CCC2(O)C(=O)CO,True
+Sulfentanyl,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,True
+Pumafentrine,CCOc1cc2c(cc1OC)C(c1ccc(C(=O)N(C(C)C)C(C)C)cc1)=NC1CCN(C)CC21,True
+Tolafentrine,COc1cc2c(cc1OC)C1CN(C)CCC1N=C2c1ccc(NS(=O)(=O)c2ccc(C)cc2)cc1,True
+Antazoline,c1ccc(CN(CC2=NCCN2)c2ccccc2)cc1,True
+Chenodiol,CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C,True
+Chlorphenesin carbamate,NC(=O)OCC(O)COc1ccc(Cl)cc1,True
+Clindamycin,CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)N(C)C1,True
+Diperocaine,O=C(Nc1ccccc1)OCC(CN1CCCCC1)OC(=O)Nc1ccccc1,True
+Discretamine,COc1cc2c(cc1O)C1Cc3ccc(OC)c(O)c3CN1CC2,True
+Fipexide,O=C(COc1ccc(Cl)cc1)N1CCN(Cc2ccc3c(c2)OCO3)CC1,True
+Flavoxate,Cc1c(-c2ccccc2)oc2c(C(=O)OCCN3CCCCC3)cccc2c1=O,True
+Fusidic acid,CC(=O)OC1CC2(C)C(CC(O)C3C4(C)CCC(O)C(C)C4CCC32C)C1=C(CCC=C(C)C)C(=O)O,True
+Gramine,CN(C)Cc1c[nH]c2ccccc12,True
+Laudanosine,COc1cc(Br)c(CC2c3cc(OC)c(OC)cc3CCN2C)cc1OC,True
+Lithocholic acid,CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C,True
+Lovastatin Lactone,CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,True
+Lysergol,CN1CC(CO)C=C2c3cccc4[nH]cc(c34)CC21,True
+Lysuride,CCN(CC)C(=O)NC1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1,True
+Mafenide,NCc1ccc(S(N)(=O)=O)cc1,True
+Metanephrine,CNCC(O)c1ccc(O)c(OC)c1,True
+Naringenin,O=C1CC(c2ccc(O)cc2)Oc2cc(O)cc(O)c21,True
+Pentoxifylline,CC(=O)CCCCn1c(=O)c2c(ncn2C)n(C)c1=O,True
+Tiapride,CCN(CC)CCNC(=O)c1cc(S(C)(=O)=O)ccc1OC,True
+Vanoxerine,Fc1ccc(C(OCCN2CCN(CCCc3ccccc3)CC2)c2ccc(F)cc2)cc1,True
+Terfenadine,CC(C)(C)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,True
+Olanzapine,Cc1cc2c(s1)Nc1ccccc1N=C2N1CCN(C)CC1,True
+Quetiapine,OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,True
+S-anipamil,CCCCCCCCCCCCC(C#N)(CCCN(C)CCc1cccc(OC)c1)c1cccc(OC)c1,True
+"4-(6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl)-N-[2-(2,3-dimethoxyphenyl)ethyl]-6,7-dimethoxyquinazolin-2-amine",COc1cc2c(cc1OC)CN(c1nc(NCCc3cccc(OC)c3OC)nc3cc(OC)c(OC)cc13)CC2,True
+"4-N-benzyl-2-N-[2-(3,4-dimethoxyphenyl)ethyl]-4-N,6-dimethylquinazoline-2,4-diamine",COc1ccc(CCNc2nc(N(C)Cc3ccccc3)c3cc(C)ccc3n2)cc1OC,True
+HM301818,COc1cc2c(cc1OC)CN(CCc1ccc(-n3nnc(-c4cc(OC)c(OC)cc4NC(=O)c4cc(=O)c5ccccc5o4)n3)cc1)CC2,True
+"2-[(2R,3R)-3-(3,4-dimethoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-3,5-dihydroxy-7-methoxychromen-4-one",COc1cc(O)c2c(=O)c(O)c(-c3ccc4c(c3)OC(c3ccc(OC)c(OC)c3)C(CO)O4)oc2c1,True
+"2-[(2R,3S)-3-(3,4-dimethoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-5,7-dihydroxy-3-methoxychromen-4-one",COc1ccc(C2Oc3cc(-c4oc5cc(O)cc(O)c5c(=O)c4OC)ccc3OC2CO)cc1OC,True
+"2-[(2R,3R)-3-(3,4-dimethoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-5-hydroxy-3,7-dimethoxychromen-4-one",COc1cc(O)c2c(=O)c(OC)c(-c3ccc4c(c3)OC(c3ccc(OC)c(OC)c3)C(CO)O4)oc2c1,True
+"2-[(2R,3R)-3-(3,4-dimethoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-3-hydroxy-5,7-dimethoxychromen-4-one",COc1cc(OC)c2c(=O)c(O)c(-c3ccc4c(c3)OC(c3ccc(OC)c(OC)c3)C(CO)O4)oc2c1,True
+"2-[(2R,3S)-3-(3,4-dihydroxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-3,5,7-trihydroxychromen-4-one",O=c1c(O)c(-c2ccc3c(c2)OC(c2ccc(O)c(O)c2)C(CO)O3)oc2cc(O)cc(O)c12,True
+"3,5,7-trihydroxy-2-[(2R,3R)-3-(4-hydroxy-3-methoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]chromen-4-one",COc1cc(C2Oc3cc(-c4oc5cc(O)cc(O)c5c(=O)c4O)ccc3OC2CO)ccc1O,True
+"3,5-dihydroxy-2-[(2R,3S)-3-(4-hydroxy-3-methoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-7-phenylmethoxychromen-4-one",COc1cc(C2Oc3cc(-c4oc5cc(OCc6ccccc6)cc(O)c5c(=O)c4O)ccc3OC2CO)ccc1O,True
+"3,5-dihydroxy-2-[(2R,3R)-3-(4-hydroxy-3-methoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-7-methoxychromen-4-one",COc1cc(O)c2c(=O)c(O)c(-c3ccc4c(c3)OC(c3ccc(O)c(OC)c3)C(CO)O4)oc2c1,True
+"5,6,7-trimethoxy-2-phenylchromen-4-one",COc1cc2oc(-c3ccccc3)cc(=O)c2c(OC)c1OC,True
+"5-hydroxy-6,7-dimethoxy-2-phenylchromen-4-one",COc1cc2oc(-c3ccccc3)cc(=O)c2c(O)c1OC,True
+"9-hydroxy-6-phenyl-[1,3]dioxolo[4,5-g]chromen-8-one",O=c1cc(-c2ccccc2)oc2cc3c(c(O)c12)OCO3,True
+"5,7-dihydroxy-6-phenoxy-2-phenylchromen-4-one",O=c1cc(-c2ccccc2)oc2cc(O)c(Oc3ccccc3)c(O)c12,True
+"9-methoxy-2,2,6-triphenyl-[1,3]dioxolo[4,5-g]chromen-8-one",COc1c2c(cc3oc(-c4ccccc4)cc(=O)c13)OC(c1ccccc1)(c1ccccc1)O2,True
+"5,7-dihydroxy-2-phenyl-6-propoxychromen-4-one",CCCOc1c(O)cc2oc(-c3ccccc3)cc(=O)c2c1O,True
+"6-ethoxy-5,7-dihydroxy-2-phenylchromen-4-one",CCOc1c(O)cc2oc(-c3ccccc3)cc(=O)c2c1O,True
+6-ethoxy-5-hydroxy-7-methoxy-2-phenylchromen-4-one,CCOc1c(OC)cc2oc(-c3ccccc3)cc(=O)c2c1O,True
+"5,7-dimethoxy-2-phenyl-6-propoxychromen-4-one",CCCOc1c(OC)cc2oc(-c3ccccc3)cc(=O)c2c1OC,True
+"5-hydroxy-2-phenyl-6,7-dipropoxychromen-4-one",CCCOc1cc2oc(-c3ccccc3)cc(=O)c2c(O)c1OCCC,True
+"6,7-diethoxy-5-hydroxy-2-phenylchromen-4-one",CCOc1cc2oc(-c3ccccc3)cc(=O)c2c(O)c1OCC,True
+"5-hydroxy-6,7-dipentoxy-2-phenylchromen-4-one",CCCCCOc1cc2oc(-c3ccccc3)cc(=O)c2c(O)c1OCCCCC,True
+"6,7-dibutoxy-5-hydroxy-2-phenylchromen-4-one",CCCCOc1cc2oc(-c3ccccc3)cc(=O)c2c(O)c1OCCCC,True
+"(5,6-diacetyloxy-4-oxo-2-phenylchromen-7-yl)acetate",CC(=O)Oc1cc2oc(-c3ccccc3)cc(=O)c2c(OC(C)=O)c1OC(C)=O,True
+"5-methoxy-6,7-dipentoxy-2-phenylchromen-4-one",CCCCCOc1cc2oc(-c3ccccc3)cc(=O)c2c(OC)c1OCCCCC,True
+"6,7-dihexoxy-5-methoxy-2-phenylchromen-4-one",CCCCCCOc1cc2oc(-c3ccccc3)cc(=O)c2c(OC)c1OCCCCCC,True
+"6,7-diethoxy-5-methoxy-2-phenylchromen-4-one",CCOc1cc2oc(-c3ccccc3)cc(=O)c2c(OC)c1OCC,True
+"6,7-dibutoxy-5-methoxy-2-phenylchromen-4-one",CCCCOc1cc2oc(-c3ccccc3)cc(=O)c2c(OC)c1OCCCC,True
+(5-acetyloxy-4-oxo-2-phenyl-7-phenylmethoxychromen-6-yl)acetate,CC(=O)Oc1c(OCc2ccccc2)cc2oc(-c3ccccc3)cc(=O)c2c1OC(C)=O,True
+(6-acetyloxy-4-oxo-2-phenyl-5-phenylmethoxychromen-7-yl)acetate,CC(=O)Oc1cc2oc(-c3ccccc3)cc(=O)c2c(OCc2ccccc2)c1OC(C)=O,True
+"1-[2-[(2R)-3-[4-(2,3-dimethylphenyl)piperazin-1-yl]-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one",Cc1cccc(N2CCN(CC(O)COc3ccccc3C(=O)CCc3ccccc3)CC2)c1C,True
+2-(2-chlorophenyl)-4-pyrrolidin-1-ylquinazoline,Clc1ccccc1-c1nc(N2CCCC2)c2ccccc2n1,True
+1-[2-[(2S)-2-hydroxy-3-(4-hydroxy-4-phenylpiperidin-1-yl)propoxy]phenyl]-2-naphthalen-1-ylethanone,O=C(Cc1cccc2ccccc12)c1ccccc1OCC(O)CN1CCC(O)(c2ccccc2)CC1,True
+1-[3-[(2R)-2-hydroxy-3-piperidin-1-ylpropoxy]phenyl]ethanone,CC(=O)c1cccc(OCC(O)CN2CCCCC2)c1,True
+1-[3-[(2R)-3-[4-(4-fluorophenyl)piperazin-1-yl]-2-hydroxypropoxy]phenyl]ethanone,CC(=O)c1cccc(OCC(O)CN2CCN(c3ccc(F)cc3)CC2)c1,True
+(2S)-1-[4-(4-fluorophenyl)piperazin-1-yl]-3-(4-methoxyphenoxy)propan-2-ol,COc1ccc(OCC(O)CN2CCN(c3ccc(F)cc3)CC2)cc1,True
+1-[2-[(2S)-2-hydroxy-3-[[(1R)-2-methyl-1-phenylpropyl]amino]propoxy]phenyl]-3-phenylpropan-1-one,CC(C)C(NCC(O)COc1ccccc1C(=O)CCc1ccccc1)c1ccccc1,True
+"1-[4,5-dichloro-2-[(2S)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]phenyl]-3-phenylpropan-1-one",Cc1ccccc1N1CCN(CC(O)COc2cc(Cl)c(Cl)cc2C(=O)CCc2ccccc2)CC1,True
+1-[2-[(2S)-2-hydroxy-3-piperidin-1-ylpropoxy]-5-methylphenyl]ethanone,CC(=O)c1cc(C)ccc1OCC(O)CN1CCCCC1,True
+"1-[2-[(2S)-3-[[(1R)-2,2-dimethyl-1-phenylpropyl]amino]-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one",CC(C)(C)C(NCC(O)COc1ccccc1C(=O)CCc1ccccc1)c1ccccc1,True
+4-[(2R)-2-hydroxy-3-piperidin-1-ylpropoxy]-3-methylideneinden-1-one,C=C1CC(=O)c2cccc(OCC(O)CN3CCCCC3)c21,True
+(2S)-7-[(2S)-2-hydroxy-3-piperidin-1-ylpropoxy]-3-methylidene-2-phenylinden-1-one,C=C1c2cccc(OCC(O)CN3CCCCC3)c2C(=O)C1c1ccccc1,True
+"(2R)-7-[(2R)-3-[4-(2,3-dimethylphenyl)piperazin-1-yl]-2-hydroxypropoxy]-3-methylidene-2-phenylinden-1-one",C=C1c2cccc(OCC(O)CN3CCN(c4cccc(C)c4C)CC3)c2C(=O)C1c1ccccc1,True
+"1-[3-[(2S)-3-[4-(2,3-dimethylphenyl)piperazin-1-yl]-2-hydroxypropoxy]phenyl]ethanone",CC(=O)c1cccc(OCC(O)CN2CCN(c3cccc(C)c3C)CC2)c1,True
+"1-[2-[(2S)-3-[4-(2,3-dimethylphenyl)piperazin-1-yl]-2-hydroxypropoxy]phenyl]ethanone",CC(=O)c1ccccc1OCC(O)CN1CCN(c2cccc(C)c2C)CC1,True
+"[(2R,3R)-3-benzyl-2,3-dihydro-1-benzofuran-2-yl]-piperidin-1-ylmethanone",O=C(C1Oc2ccccc2C1Cc1ccccc1)N1CCCCC1,True
+"1-[[(2R,3R)-3-benzyl-2,3-dihydro-1-benzofuran-2-yl]methyl]piperidine",c1ccc(CC2c3ccccc3OC2CN2CCCCC2)cc1,True
+"N-[2-[(3-acetyl-2,4,6-trimethylphenyl)methylsulfanyl]-1,3-benzothiazol-6-yl]naphthalene-1-carboxamide",CC(=O)c1c(C)cc(C)c(CSc2nc3ccc(NC(=O)c4cccc5ccccc45)cc3s2)c1C,True
+"(4R)-N-(2-ethoxyphenyl)-6-methyl-2-sulfanylidene-4-thiophen-2-yl-3,4-dihydro-1H-pyrimidine-5-carboxamide",CCOc1ccccc1NC(=O)C1=C(C)NC(=S)NC1c1cccs1,True
+"1-[4-[(2R)-3-[4-(2,3-dimethylphenyl)piperazin-1-yl]-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one",Cc1cccc(N2CCN(CC(O)COc3ccc(C(=O)CCc4ccccc4)cc3)CC2)c1C,True
+1-[2-[(2S)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]-5-methylphenyl]ethanone,CC(=O)c1cc(C)ccc1OCC(O)CN1CCN(c2ccccc2C)CC1,True
+1-[2-[(2R)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]-4-methylphenyl]ethanone,CC(=O)c1ccc(C)cc1OCC(O)CN1CCN(c2ccccc2C)CC1,True
+"1-[4,5-dichloro-2-[(2R)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]phenyl]ethanone",CC(=O)c1cc(Cl)c(Cl)cc1OCC(O)CN1CCN(c2ccccc2C)CC1,True
+3-(4-dimethylaminophenyl)-1-[2-[(2S)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]-4-methoxyphenyl]propan-1-one,COc1ccc(C(=O)CCc2ccc(N(C)C)cc2)c(OCC(O)CN2CCN(c3ccccc3C)CC2)c1,True
+"1-[4-[(2S)-3-(3,3-diphenylpropylamino)-2-hydroxypropoxy]phenyl]ethanone",CC(=O)c1ccc(OCC(O)CNCCC(c2ccccc2)c2ccccc2)cc1,True
+1-[3-[(2S)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]phenyl]-3-phenylpropan-1-one,Cc1ccccc1N1CCN(CC(O)COc2cccc(C(=O)CCc3ccccc3)c2)CC1,True
+1-[3-[(2R)-2-hydroxy-3-morpholin-4-ylpropoxy]phenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1cccc(OCC(O)CN2CCOCC2)c1,True
+"1-[4-[(2S)-3-(3,3-diphenylpropylamino)-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one",O=C(CCc1ccccc1)c1ccc(OCC(O)CNCCC(c2ccccc2)c2ccccc2)cc1,True
+3-(4-dimethylaminophenyl)-1-[2-[(2R)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]phenyl]propan-1-one,Cc1ccccc1N1CCN(CC(O)COc2ccccc2C(=O)CCc2ccc(N(C)C)cc2)CC1,True
+1-[2-[(2S)-2-hydroxy-3-(4-phenylpiperazin-1-yl)propoxy]phenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1ccccc1OCC(O)CN1CCN(c2ccccc2)CC1,True
+1-[2-[(2R)-2-hydroxy-3-[4-(2-methoxyphenyl)piperazin-1-yl]propoxy]phenyl]-3-phenylpropan-1-one,COc1ccccc1N1CCN(CC(O)COc2ccccc2C(=O)CCc2ccccc2)CC1,True
+1-[2-[(2S)-2-hydroxy-3-[4-(3-methoxyphenyl)piperazin-1-yl]propoxy]phenyl]-3-phenylpropan-1-one,COc1cccc(N2CCN(CC(O)COc3ccccc3C(=O)CCc3ccccc3)CC2)c1,True
+1-[2-[(2S)-3-[4-(4-fluorophenyl)piperazin-1-yl]-2-hydroxypropoxy]phenyl]ethanone,CC(=O)c1ccccc1OCC(O)CN1CCN(c2ccc(F)cc2)CC1,True
+1-[2-(3-phenethyl-1-benzofuran-2-yl)ethyl]piperidine,c1ccc(CCc2c(CCN3CCCCC3)oc3ccccc23)cc1,True
+(1S)-1-(3-phenethyl-1-benzofuran-2-yl)-2-(propylamino)ethanol,CCCNCC(O)c1oc2ccccc2c1CCc1ccccc1,True
+1-[2-[(2R)-3-(dipropylamino)-2-hydroxypropoxy]-5-hydroxyphenyl]-3-phenylpropan-1-one,CCCN(CCC)CC(O)COc1ccc(O)cc1C(=O)CCc1ccccc1,True
+1-[3-[(2R)-2-hydroxy-3-piperidin-1-ylpropoxy]phenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1cccc(OCC(O)CN2CCCCC2)c1,True
+1-[4-[(2R)-2-hydroxy-3-morpholin-4-ylpropoxy]phenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1ccc(OCC(O)CN2CCOCC2)cc1,True
+1-[3-[(2R)-3-[4-(4-fluorophenyl)piperazin-1-yl]-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1cccc(OCC(O)CN2CCN(c3ccc(F)cc3)CC2)c1,True
+1-[4-[(2R)-3-(dipropylamino)-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one,CCCN(CCC)CC(O)COc1ccc(C(=O)CCc2ccccc2)cc1,True
+(1S)-1-[2-[(2S)-3-(dipropylamino)-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-ol,CCCN(CCC)CC(O)COc1ccccc1C(O)CCc1ccccc1,True
+(2R)-1-(dipropylamino)-3-[2-[(1S)-1-methoxy-3-phenylpropyl]phenoxy]propan-2-ol,CCCN(CCC)CC(O)COc1ccccc1C(CCc1ccccc1)OC,True
+"1-[2-[(2S)-3-(2,2-diphenylethylamino)-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one",O=C(CCc1ccccc1)c1ccccc1OCC(O)CNCC(c1ccccc1)c1ccccc1,True
+3-phenyl-1-[2-(3-piperidin-1-ylpropoxy)phenyl]propan-1-one,O=C(CCc1ccccc1)c1ccccc1OCCCN1CCCCC1,True
+3-phenyl-1-[2-(2-piperidin-1-ylethoxy)phenyl]propan-1-one,O=C(CCc1ccccc1)c1ccccc1OCCN1CCCCC1,True
+3-phenyl-1-[2-(4-piperidin-1-ylbutoxy)phenyl]propan-1-one,O=C(CCc1ccccc1)c1ccccc1OCCCCN1CCCCC1,True
+3-phenyl-1-[2-(5-piperidin-1-ylpentoxy)phenyl]propan-1-one,O=C(CCc1ccccc1)c1ccccc1OCCCCCN1CCCCC1,True
+3-phenyl-1-[2-(6-piperidin-1-ylhexoxy)phenyl]propan-1-one,O=C(CCc1ccccc1)c1ccccc1OCCCCCCN1CCCCC1,True
+3-phenyl-1-[2-(8-piperidin-1-yloctoxy)phenyl]propan-1-one,O=C(CCc1ccccc1)c1ccccc1OCCCCCCCCN1CCCCC1,True
+"(2R)-1-(4,4-diphenylbutylamino)-3-[2-[(1S)-1-methoxy-3-phenylpropyl]phenoxy]propan-2-ol",COC(CCc1ccccc1)c1ccccc1OCC(O)CNCCCC(c1ccccc1)c1ccccc1,True
+1-[2-[(2R)-2-hydroxy-3-(propan-2-ylamino)propoxy]-5-phenoxyphenyl]-3-phenylpropan-1-one,CC(C)NCC(O)COc1ccc(Oc2ccccc2)cc1C(=O)CCc1ccccc1,True
+1-[5-hydroxy-2-[(2S)-2-hydroxy-3-piperidin-1-ylpropoxy]phenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1cc(O)ccc1OCC(O)CN1CCCCC1,True
+1-[2-[(2S)-3-(cyclohexylamino)-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1ccccc1OCC(O)CNC1CCCCC1,True
+"(2S)-2-(4-methoxyphenyl)-3-(4-phenoxyphenyl)-1,2-dihydroquinazolin-4-one",COc1ccc(C2Nc3ccccc3C(=O)N2c2ccc(Oc3ccccc3)cc2)cc1,True
+"(2S)-3-(4-ethylphenyl)-2-[4-(2-methylpropoxy)phenyl]-1,2-dihydroquinazolin-4-one",CCc1ccc(N2C(=O)c3ccccc3NC2c2ccc(OCC(C)C)cc2)cc1,True
+"(2R)-2-[4-[(2S)-butan-2-yl]phenyl]-3-(4-chlorophenyl)-1,2-dihydroquinazolin-4-one",CCC(C)c1ccc(C2Nc3ccccc3C(=O)N2c2ccc(Cl)cc2)cc1,True
+"(2S)-3-[4-[(2R)-butan-2-yl]phenyl]-2-(4-propan-2-ylphenyl)-1,2-dihydroquinazolin-4-one",CCC(C)c1ccc(N2C(=O)c3ccccc3NC2c2ccc(C(C)C)cc2)cc1,True
+"2-butylsulfanyl-3-prop-2-enylspiro[6H-benzo[h]quinazoline-5,1'-cyclopentane]-4-one",C=CCn1c(SCCCC)nc2c(c1=O)C1(CCCC1)Cc1ccccc1-2,True
+1-[2-[(2S)-3-[di(propan-2-yl)amino]-2-hydroxypropoxy]-5-hydroxyphenyl]-3-phenylpropan-1-one,CC(C)N(CC(O)COc1ccc(O)cc1C(=O)CCc1ccccc1)C(C)C,True
+(2S)-1-[2-[(1S)-3-phenyl-1-propan-2-yloxypropyl]phenoxy]-3-piperidin-1-ylpropan-2-ol,CC(C)OC(CCc1ccccc1)c1ccccc1OCC(O)CN1CCCCC1,True
+1-[2-[(2S)-3-(4-benzylpiperidin-1-yl)-2-hydroxypropoxy]phenyl]ethanone,CC(=O)c1ccccc1OCC(O)CN1CCC(Cc2ccccc2)CC1,True
+1-[2-[(2R)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]phenyl]-3-(4-methoxyphenyl)propan-1-one,COc1ccc(CCC(=O)c2ccccc2OCC(O)CN2CCN(c3ccccc3C)CC2)cc1,True
+[(2S)-1-[2-(3-phenylpropanoyl)phenoxy]-3-piperidin-1-ylpropan-2-yl]acetate,CC(=O)OC(COc1ccccc1C(=O)CCc1ccccc1)CN1CCCCC1,True
+N-[(2S)-2-hydroxy-3-[2-(3-phenylpropanoyl)phenoxy]propyl]-N-phenylpropanamide,CCC(=O)N(CC(O)COc1ccccc1C(=O)CCc1ccccc1)c1ccccc1,True
+1-[2-(4-morpholin-4-ylbutoxy)phenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1ccccc1OCCCCN1CCOCC1,True
+1-[2-[4-[4-(4-fluorophenyl)piperazin-1-yl]butoxy]phenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1ccccc1OCCCCN1CCN(c2ccc(F)cc2)CC1,True
+"(5R,14S,19S,28R)-10,23-dimethoxy-4,4,29,29-tetramethyl-3,7,26,30-tetraoxaheptacyclo[16.12.0.0²,¹⁵.0⁵,¹⁴.0⁸,¹³.0¹⁹,²⁸.0²⁰,²⁵]triaconta-1(18),2(15),8(13),9,11,20(25),21,23-octaene-16,17-dione",COc1ccc2c(c1)OCC1C2C2=C(OC1(C)C)C1=C(C(=O)C2=O)C2c3ccc(OC)cc3OCC2C(C)(C)O1,True
+"(2S)-6,7-dimethoxy-2-[3-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]propyl]-3,4-dihydro-1H-isoquinoline",COc1cccc(CCc2ccccc2OCCCN2CCc3cc(OC)c(OC)cc3C2)c1,True
+1-(3-chlorophenyl)-4-[2-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]ethyl]piperazine,COc1cccc(CCc2ccccc2OCCN2CCN(c3cccc(Cl)c3)CC2)c1,True
+1-(3-chlorophenyl)-4-[3-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]propyl]piperazine,COc1cccc(CCc2ccccc2OCCCN2CCN(c3cccc(Cl)c3)CC2)c1,True
+1-(3-chlorophenyl)-4-[5-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]pentyl]piperazine,COc1cccc(CCc2ccccc2OCCCCCN2CCN(c3cccc(Cl)c3)CC2)c1,True
+1-[3-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]propyl]-4-[3-(trifluoromethyl)phenyl]piperazine,COc1cccc(CCc2ccccc2OCCCN2CCN(c3cccc(C(F)(F)F)c3)CC2)c1,True
+1-(2-methoxyphenyl)-4-[3-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]propyl]piperazine,COc1cccc(CCc2ccccc2OCCCN2CCN(c3ccccc3OC)CC2)c1,True
+1-(2-methoxyphenyl)-4-[5-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]pentyl]piperazine,COc1cccc(CCc2ccccc2OCCCCCN2CCN(c3ccccc3OC)CC2)c1,True
+1-(4-fluorophenyl)-4-[2-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]ethyl]piperazine,COc1cccc(CCc2ccccc2OCCN2CCN(c3ccc(F)cc3)CC2)c1,True
+1-(4-fluorophenyl)-4-[3-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]propyl]piperazine,COc1cccc(CCc2ccccc2OCCCN2CCN(c3ccc(F)cc3)CC2)c1,True
+1-(4-fluorophenyl)-4-[4-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]butyl]piperazine,COc1cccc(CCc2ccccc2OCCCCN2CCN(c3ccc(F)cc3)CC2)c1,True
+2-[4-[2-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]ethyl]piperazin-1-yl]pyrimidine,COc1cccc(CCc2ccccc2OCCN2CCN(c3ncccn3)CC2)c1,True
+2-[4-[3-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]propyl]piperazin-1-yl]pyrimidine,COc1cccc(CCc2ccccc2OCCCN2CCN(c3ncccn3)CC2)c1,True
+2-[4-[4-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]butyl]piperazin-1-yl]pyrimidine,COc1cccc(CCc2ccccc2OCCCCN2CCN(c3ncccn3)CC2)c1,True
+1-[5-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]pentyl]-4-methylpiperazine,COc1cccc(CCc2ccccc2OCCCCCN2CCN(C)CC2)c1,True
+"(2R)-2-[3-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]propyl]-3,4-dihydro-1H-isoquinoline",COc1cccc(CCc2ccccc2OCCCN2CCc3ccccc3C2)c1,True
+"(2S)-2-[4-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]butyl]-3,4-dihydro-1H-isoquinoline",COc1cccc(CCc2ccccc2OCCCCN2CCc3ccccc3C2)c1,True
+"(2S)-6,7-dimethoxy-2-[2-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]ethyl]-3,4-dihydro-1H-isoquinoline",COc1cccc(CCc2ccccc2OCCN2CCc3cc(OC)c(OC)cc3C2)c1,True
+"1-[4-[[(7R,8S,9S,10R,13R,14S,17R)-17-acetyl-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-7-yl]sulfanyl]phenyl]-3-[(1R)-1-phenylethyl]urea",CC(=O)C1CCC2C3C(Sc4ccc(NC(=O)NC(C)c5ccccc5)cc4)CC4=CC(=O)CCC4(C)C3CCC12C,True
+"3,9-di-tert-butyl (1R,2R,4R,5S,6R,7S,8S,10S,11R,12S)-1,5-bis(hydroxymethyl)-6,12-diphenyl-3,9-diazapentacyclo[6.4.0.0²,⁷.0⁴,¹¹.0⁵,¹⁰]dodecane-3,9-dicarboxylate",CC(C)(C)OC(=O)N1C2C3C(c4ccccc4)C4(CO)C1C1C(c5ccccc5)C2(CO)C3N(C(=O)OC(C)(C)C)C14,True
+"3,9-diphenyl (1S,2R,4S,5S,6S,7S,8S,10S,11S,12S)-1,5-bis(hydroxymethyl)-6,12-diphenyl-3,9-diazapentacyclo[6.4.0.0²,⁷.0⁴,¹¹.0⁵,¹⁰]dodecane-3,9-dicarboxylate",O=C(Oc1ccccc1)N1C2C3C(c4ccccc4)C4(CO)C1C1C(c5ccccc5)C2(CO)C3N(C(=O)Oc2ccccc2)C14,True
+"5,7,4'-Trimethoxyflavone",COc1ccc(-c2cc(=O)c3c(OC)cc(OC)cc3o2)cc1,True
+Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,True
+Lasalocid,CCC(C(=O)C(C)C(O)C(C)CCc1ccc(C)c(O)c1C(=O)O)C1OC(CC)(C2CCC(O)(CC)C(C)O2)CC1C,True
+Spironolactone,CC(=O)SC1CC2=CC(=O)CCC2(C)C2CCC3(C)C(CCC34CCC(=O)O4)C12,True
+5-hydroxy-7-methoxy-2-phenyl-6-propoxychromen-4-one,CCCOc1c(OC)cc2oc(-c3ccccc3)cc(=O)c2c1O,True
+(6-acetyloxy-5-methoxy-4-oxo-2-phenylchromen-7-yl)acetate,COc1c(OC(C)=O)c(OC(C)=O)cc2oc(-c3ccccc3)cc(=O)c12,True
+1-[2-[(2S)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]-5-methoxyphenyl]ethanone,COc1ccc(OCC(O)CN2CCN(c3ccccc3C)CC2)c(C(C)=O)c1,True
+1-[5-acetyl-4-[(2S)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]-2-methylphenyl]ethanone,CC(=O)c1cc(C(C)=O)c(OCC(O)CN2CCN(c3ccccc3C)CC2)cc1C,True
+"1-[3-[(2S)-3-[4-(2,3-dimethylphenyl)piperazin-1-yl]-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one",Cc1cccc(N2CCN(CC(O)COc3cccc(C(=O)CCc4ccccc4)c3)CC2)c1C,True
+[2-[(2R)-3-(diethylamino)-2-hydroxypropoxy]phenyl]-phenylmethanone,CCN(CC)CC(O)COc1ccccc1C(=O)c1ccccc1,True
+(1S)-2-[4-(3-methoxyphenyl)piperazin-1-yl]-1-(3-phenethyl-1-benzofuran-2-yl)ethanol,COc1cccc(N2CCN(CC(O)c3oc4ccccc4c3CCc3ccccc3)CC2)c1,True
+1-[2-[(2S)-3-(benzhydrylamino)-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1ccccc1OCC(O)CNC(c1ccccc1)c1ccccc1,True
+1-[2-[(2R)-3-(4-benzylpiperazin-1-yl)-2-hydroxypropoxy]-5-phenoxyphenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1cc(Oc2ccccc2)ccc1OCC(O)CN1CCN(Cc2ccccc2)CC1,True
+1-[2-[(2R)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]phenyl]-3-(4-methylphenyl)propan-1-one,Cc1ccc(CCC(=O)c2ccccc2OCC(O)CN2CCN(c3ccccc3C)CC2)cc1,True
+"(2S)-6,7-dimethoxy-2-[4-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]butyl]-3,4-dihydro-1H-isoquinoline",COc1cccc(CCc2ccccc2OCCCCN2CCc3cc(OC)c(OC)cc3C2)c1,True
+1-[3-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]propyl]-4-methylpiperazine,COc1cccc(CCc2ccccc2OCCCN2CCN(C)CC2)c1,True
+1-[4-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]butyl]-4-methylpiperazine,COc1cccc(CCc2ccccc2OCCCCN2CCN(C)CC2)c1,True
+"1-[4-[[(7R,8S,9S,10R,13S,14S,17R)-17-acetyl-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-7-yl]sulfanyl]phenyl]-3-(2-chloroethyl)urea",CC(=O)C1CCC2C3C(Sc4ccc(NC(=O)NCCCl)cc4)CC4=CC(=O)CCC4(C)C3CCC12C,True
+"N-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]-2-[(4-pentylbenzoyl)amino]benzamide",CCCCCc1ccc(C(=O)Nc2ccccc2C(=O)NCCN2CCc3cc(OC)c(OC)cc3C2)cc1,True
+"3-chloro-N-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]-2-[(4-propan-2-ylbenzoyl)amino]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1cccc(Cl)c1NC(=O)c1ccc(C(C)C)cc1)CC2,True
+"2-chloro-N-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]-6-[(4-propan-2-ylbenzoyl)amino]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1c(Cl)cccc1NC(=O)c1ccc(C(C)C)cc1)CC2,True
+"2-[(4-benzoylbenzoyl)amino]-N-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1ccccc1NC(=O)c1ccc(C(=O)c3ccccc3)cc1)CC2,True
+"4-amino-N-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]-2-[(4-propan-2-ylbenzoyl)amino]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1ccc(N)cc1NC(=O)c1ccc(C(C)C)cc1)CC2,True
+"N-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]-2-[(4-phenylmethoxybenzoyl)amino]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1ccccc1NC(=O)c1ccc(OCc3ccccc3)cc1)CC2,True
+"N-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]-2-[(4-phenylbenzoyl)amino]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1ccccc1NC(=O)c1ccc(-c3ccccc3)cc1)CC2,True
+"N-[2-[[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]thiophene-3-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3ccsc3)cc1)CC2,True
+"N-[2-[[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]furan-3-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3ccoc3)cc1)CC2,True
+"N-[2-[[4-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]-1-benzofuran-2-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3cc4ccccc4o3)cc1)CC2,True
+"N-[2-[[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]quinoline-3-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3cnc4ccccc4c3)cc1)CC2,True
+"N-[2-[[4-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]quinoline-2-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3ccc4ccccc4n3)cc1)CC2,True
+"N-[2-[[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]-5-propanoylpyrazine-2-carboxamide",CCC(=O)c1cnc(C(=O)Nc2ccccc2C(=O)Nc2ccc(CCN3CCc4cc(OC)c(OC)cc4C3)cc2)cn1,True
+"N-[2-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethylcarbamoyl]phenyl]naphthalene-2-carboxamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1ccccc1NC(=O)c1ccc3ccccc3c1)CC2,True
+"N-[2-[[4-[[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]methyl]phenyl]carbamoyl]phenyl]quinoline-3-carboxamide",COc1cc2c(cc1OC)CN(Cc1ccc(NC(=O)c3ccccc3NC(=O)c3cnc4ccccc4c3)cc1)CC2,True
+"N-[2-[[4-[2-[(3,4-dimethoxyphenyl)methyl-methylamino]ethyl]phenyl]carbamoyl]phenyl]quinoxaline-2-carboxamide",COc1ccc(CN(C)CCc2ccc(NC(=O)c3ccccc3NC(=O)c3cnc4ccccc4n3)cc2)cc1OC,True
+"2-[(4-cyclohexylbenzoyl)amino]-N-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1ccccc1NC(=O)c1ccc(C3CCCCC3)cc1)CC2,True
+"N-[2-[[4-[2-[(3,4-difluorophenyl)methyl-methylamino]ethyl]phenyl]carbamoyl]phenyl]quinoline-3-carboxamide",CN(CCc1ccc(NC(=O)c2ccccc2NC(=O)c2cnc3ccccc3c2)cc1)Cc1ccc(F)c(F)c1,True
+N-[2-[[4-[2-[(3-hydroxy-4-methoxyphenyl)methyl-methylamino]ethyl]phenyl]carbamoyl]phenyl]quinoline-3-carboxamide,COc1ccc(CN(C)CCc2ccc(NC(=O)c3ccccc3NC(=O)c3cnc4ccccc4c3)cc2)cc1O,True
+N-[2-[[4-[2-[(4-hydroxy-3-methoxyphenyl)methyl-methylamino]ethyl]phenyl]carbamoyl]phenyl]quinoline-3-carboxamide,COc1cc(CN(C)CCc2ccc(NC(=O)c3ccccc3NC(=O)c3cnc4ccccc4c3)cc2)ccc1O,True
+"N-[2-[[3-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]-5-methylpyrazine-2-carboxamide",COc1cc2c(cc1OC)CN(CCc1cccc(NC(=O)c3ccccc3NC(=O)c3cnc(C)cn3)c1)CC2,True
+"2-[(4-tert-butylbenzoyl)amino]-N-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1ccccc1NC(=O)c1ccc(C(C)(C)C)cc1)CC2,True
+"4-chloro-N-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]-2-[(4-propan-2-ylbenzoyl)amino]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1ccc(Cl)cc1NC(=O)c1ccc(C(C)C)cc1)CC2,True
+"5-chloro-N-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]-2-[(4-propan-2-ylbenzoyl)amino]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1cc(Cl)ccc1NC(=O)c1ccc(C(C)C)cc1)CC2,True
+"N-[2-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethylcarbamoyl]phenyl]quinoline-2-carboxamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1ccccc1NC(=O)c1ccc3ccccc3n1)CC2,True
+"N-[2-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethylcarbamoyl]phenyl]isoquinoline-3-carboxamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1ccccc1NC(=O)c1cc3ccccc3cn1)CC2,True
+"N-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]-2-[(4-propylbenzoyl)amino]benzamide",CCCc1ccc(C(=O)Nc2ccccc2C(=O)NCCN2CCc3cc(OC)c(OC)cc3C2)cc1,True
+"N-[2-[[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]pyridine-2-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3ccccn3)cc1)CC2,True
+"N-[2-[[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]pyridine-3-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3cccnc3)cc1)CC2,True
+"N-[2-[[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]pyrazine-2-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3cnccn3)cc1)CC2,True
+"N-[2-[[(2S)-2-[(3,4-dimethoxyphenyl)methyl]-3,4-dihydro-1H-isoquinolin-7-yl]carbamoyl]phenyl]quinoxaline-2-carboxamide",COc1ccc(CN2CCc3ccc(NC(=O)c4ccccc4NC(=O)c4cnc5ccccc5n4)cc3C2)cc1OC,True
+"N-[2-[[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]-2-methyl-1,3-thiazole-4-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3csc(C)n3)cc1)CC2,True
+"4-Phenethylamino-4a,5,6,7,8,9a-hexahydro-1,3,4b-triazafluorene-carbonitrile",N#Cc1c2n(c3c(NCCc4ccccc4)ncnc13)CCCC2,True
+"4-{4-[2-(1H-Indol-3-yl)ethyl]piperazin-1-yl}-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CCc5c[nH]c6ccccc56)CC4)ncnc13)CCCC2,True
+"4-(4-Phenethylpiperazine-1-yl)-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CCc5ccccc5)CC4)ncnc13)CCCC2,True
+"4-[4-(3-Phenylpropyl)piperazin-1-yl]-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CCCc5ccccc5)CC4)ncnc13)CCCC2,True
+"4-(4-Phenylmethanesulfonylpiperazin-1-yl)-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(S(=O)(=O)Cc5ccccc5)CC4)ncnc13)CCCC2,True
+"4-{4-[2-(2-Chlorophenyl)ethyl]piperazin-1-yl}-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CCc5ccccc5Cl)CC4)ncnc13)CCCC2,True
+"{4-[2-(3-Chlorophenyl)ethyl]piperazin-1-yl}-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CCc5cccc(Cl)c5)CC4)ncnc13)CCCC2,True
+"4-{4-[2-(4-Chlorophenyl)ethyl]piperazin-1-yl}-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CCc5ccc(Cl)cc5)CC4)ncnc13)CCCC2,True
+"4-{4-[2-(3-Nitrophenyl)ethyl]piperazin-1-yl}-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CCc5cccc([N+](=O)[O-])c5)CC4)ncnc13)CCCC2,True
+"4-{4-[2-(4-Nitrophenyl)ethyl]piperazin-1-yl}-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CCc5ccc([N+](=O)[O-])cc5)CC4)ncnc13)CCCC2,True
+"4-{4-[2-(3-Methoxyphenyl)ethyl]piperazin-1-yl}-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",COc1cccc(CCN2CCN(c3ncnc4c(C#N)c5n(c34)CCCC5)CC2)c1,True
+"4-(4-Phenethylpiperazin-1-yl)-5,6,7,8-tetrahydro-1,3,4b-triazofluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CCc5ccccc5)CC4)nc(-c4ccccc4)nc13)CCCC2,True
+"N-[4-[10-cyano-4-(4-phenethylpiperazin-1-yl)-6,7,8,9-tetrahydropyrimido[4,5-b]indolizin-5-ium-1-id-2-yl]phenyl]acetamide",CC(=O)Nc1ccc(-c2nc(N3CCN(CCc4ccccc4)CC3)c3c(n2)c(C#N)c2n3CCCC2)cc1,True
+"4-(4-[2-(3,4-Difluorophenyl)ethyl]piperazin-1-yl)-2-pyridin-4-yl-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CCc5ccc(F)c(F)c5)CC4)nc(-c4ccncc4)nc13)CCCC2,True
+"4-(4-Phenethylpiperazin-1-yl)-5,6,7,8-tetrahydro-1,3,4b-triazofluorene-9-carboxylic Acid Methyl Ester",COC(=O)c1c2n(c3c(N4CCN(CCc5ccccc5)CC4)ncnc13)CCCC2,True
+"9-(4,5-Dimethylthyazol-2-yl)-4-(4-phenethylpiperazin-1-yl)-5,6,7,8-tetrahydro-1,3,4b-triazofluorene",Cc1nc(-c2c3n(c4c(N5CCN(CCc6ccccc6)CC5)ncnc24)CCCC3)sc1C,True
+"9-(5-Methyl[1,2,4]oxadiazol-3-yl)-4-(4-phenethylpiperazin-1-yl)-5,6,7,8-tetrahydro-1,3,4b-triazafluorene",Cc1nc(-c2c3n(c4c(N5CCN(CCc6ccccc6)CC5)ncnc24)CCCC3)no1,True
+"4-{4-[2-(3,4-Difluorophenyl)ethyl]piperazin-1-yl}-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carboxylic Acid (Pyridin-2-ylmethyl)amide",O=C(NCc1ccccn1)c1c2n(c3c(N4CCN(CCc5ccc(F)c(F)c5)CC4)ncnc13)CCCC2,True
+1-[2-[(2R)-2-hydroxy-3-(propylamino)propoxy]phenyl]-3-phenylpropan-1-one,CCCNCC(O)COc1ccccc1C(=O)CCc1ccccc1,True
+1-[4-[(2S)-3-[4-(4-fluorophenyl)piperazin-1-yl]-2-hydroxypropoxy]phenyl]ethanone,CC(=O)c1ccc(OCC(O)CN2CCN(c3ccc(F)cc3)CC2)cc1,True
+"1-[2-[(2S)-3-(3,3-diphenylpropylamino)-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one",O=C(CCc1ccccc1)c1ccccc1OCC(O)CNCCC(c1ccccc1)c1ccccc1,True
+"4-benzoyl-1-[(2S)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propyl]-5-methyl-2-phenylpyrazole-1,2-diium-3-one",Cc1ccccc1N1CCN(CC(O)Cn2c(C)c(C(=O)c3ccccc3)c(=O)n2-c2ccccc2)CC1,True
+"1-[(2S)-2-hydroxy-3-(propylamino)propyl]-5-methyl-2-phenyl-4-(3-phenylpropanoyl)pyrazole-1,2-diium-3-one",CCCNCC(O)Cn1c(C)c(C(=O)CCc2ccccc2)c(=O)n1-c1ccccc1,True
+"1-[(2R)-2-hydroxy-3-(propan-2-ylamino)propyl]-5-methyl-2-phenyl-4-(3-phenylpropanoyl)pyrazole-1,2-diium-3-one",Cc1c(C(=O)CCc2ccccc2)c(=O)n(-c2ccccc2)n1CC(O)CNC(C)C,True
+"1-[(2R)-3-(butylamino)-2-hydroxypropyl]-5-methyl-2-phenyl-4-(3-phenylpropanoyl)pyrazole-1,2-diium-3-one",CCCCNCC(O)Cn1c(C)c(C(=O)CCc2ccccc2)c(=O)n1-c1ccccc1,True
+"1-[(2S)-3-(tert-butylamino)-2-hydroxypropyl]-5-methyl-2-phenyl-4-(3-phenylpropanoyl)pyrazole-1,2-diium-3-one",Cc1c(C(=O)CCc2ccccc2)c(=O)n(-c2ccccc2)n1CC(O)CNC(C)(C)C,True
+"[5-[(2S)-3-[di(propan-2-yl)amino]-2-hydroxypropoxy]-1,3-dimethylpyrazol-1-ium-4-id-4-yl]-phenylmethanone",Cc1nn(C)c(OCC(O)CN(C(C)C)C(C)C)c1C(=O)c1ccccc1,True
+[5-[(2S)-3-[di(propan-2-yl)amino]-2-hydroxypropoxy]-3-methyl-1-phenylpyrazol-1-ium-4-id-4-yl]-phenylmethanone,Cc1nn(-c2ccccc2)c(OCC(O)CN(C(C)C)C(C)C)c1C(=O)c1ccccc1,True
+"(3R,4S)-4-(4-benzylpiperazin-1-yl)-3-hydroxy-2,2-dimethyl-3,4-dihydrochromene-6-carbonitrile",CC1(C)Oc2ccc(C#N)cc2C(N2CCN(Cc3ccccc3)CC2)C1O,True
+"tert-butyl2-[benzyl-[(3R,4S)-6-cyano-3-hydroxy-2,2-dimethyl-3,4-dihydrochromen-4-yl]amino]acetate",CC(C)(C)OC(=O)CN(Cc1ccccc1)C1c2cc(C#N)ccc2OC(C)(C)C1O,True
+"1,2-dimethoxy-3-[(2-phenethylphenoxy)methyl]benzene",COc1cccc(COc2ccccc2CCc2ccccc2)c1OC,True
+"1,2-dimethoxy-4-[(2-phenethylphenoxy)methyl]benzene",COc1ccc(COc2ccccc2CCc2ccccc2)cc1OC,True
+4-[[2-[2-(3-methoxyphenyl)ethyl]phenoxy]methyl]pyridine,COc1cccc(CCc2ccccc2OCc2ccncc2)c1,True
+"(1R,8S,15R,19S)-17-(4-{[2-(3,4-dimethoxyphenyl)ethyl](methyl)amino}but-2-yn-1-yl)-17-azapentacyclo[6.6.5.0²,⁷.0⁹,¹⁴.0¹⁵,¹⁹]nonadeca-2(7),3,5,9(14),10,12-hexaene-16,18-dione",COc1ccc(CCN(C)CC#CCN2C(=O)C3C4c5ccccc5C(c5ccccc54)C3C2=O)cc1OC,True
+"(1R,8R,15R,19R)-17-(2-{[2-(3,4-dimethoxyphenyl)ethyl](methyl)amino}ethyl)-17-azapentacyclo[6.6.5.0²,⁷.0⁹,¹⁴.0¹⁵,¹⁹]nonadeca-2(7),3,5,9(14),10,12-hexaene-16,18-dione",COc1ccc(CCN(C)CCN2C(=O)C3C4c5ccccc5C(c5ccccc54)C3C2=O)cc1OC,True
+"(2S,5S,6R,10R,11S)-5-benzyl-10-heptyl-6-(methoxymethoxy)-4,11-dimethyl-2-propan-2-yl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCCCCC1OC(=O)CC(OCOC)C(Cc2ccccc2)N(C)C(=O)C(C(C)C)OC(=O)C1C,True
+"(2S,5S,6R,11S)-5-benzyl-6-hydroxy-4,11-dimethyl-2-propan-2-yl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CC1COC(=O)CC(O)C(Cc2ccccc2)N(C)C(=O)C(C(C)C)OC1=O,True
+"(2S,5R,10R,11S)-5-benzyl-10-heptyl-4,11-dimethyl-2-propan-2-yl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCCCCC1OC(=O)CCC(Cc2ccccc2)N(C)C(=O)C(C(C)C)OC(=O)C1C,True
+"(5S,6R,10R,11S)-5-benzyl-10-heptyl-6-hydroxy-2,2,4,11-tetramethyl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCCCCC1OC(=O)CC(O)C(Cc2ccccc2)N(C)C(=O)C(C)(C)OC(=O)C1C,True
+"(5S,6R,10R,11S)-5-benzyl-10-heptyl-6-(methoxymethoxy)-2,2,4,11-tetramethyl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCCCCC1OC(=O)CC(OCOC)C(Cc2ccccc2)N(C)C(=O)C(C)(C)OC(=O)C1C,True
+"(2S,5S,6R,10R,11S)-5-benzyl-10-heptyl-6-hydroxy-2,4,11-trimethyl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCCCCC1OC(=O)CC(O)C(Cc2ccccc2)N(C)C(=O)C(C)OC(=O)C1C,True
+"(5S,6R,10R,11S)-5-benzyl-10-butyl-6-(methoxymethoxy)-4,11-dimethyl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCC1OC(=O)CC(OCOC)C(Cc2ccccc2)N(C)C(=O)COC(=O)C1C,True
+"methyl(3R,4S)-3-(methoxymethoxy)-4-[methyl(phenylmethoxycarbonyl)amino]-5-phenylpentanoate",COCOC(CC(=O)OC)C(Cc1ccccc1)N(C)C(=O)OCc1ccccc1,True
+"methyl(3R,4S)-3-hydroxy-4-[methyl(phenylmethoxycarbonyl)amino]-5-phenylpentanoate",COC(=O)CC(O)C(Cc1ccccc1)N(C)C(=O)OCc1ccccc1,True
+"(2S,5S,6R,10R,11S)-5-benzyl-10-heptyl-6-(methoxymethoxy)-2,4,11-trimethyl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCCCCC1OC(=O)CC(OCOC)C(Cc2ccccc2)N(C)C(=O)C(C)OC(=O)C1C,True
+"(5S,6R,10R,11S)-5-benzyl-10-heptyl-6-(methoxymethoxy)-4,11-dimethyl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCCCCC1OC(=O)CC(OCOC)C(Cc2ccccc2)N(C)C(=O)COC(=O)C1C,True
+"(2S,5S,6R,10R)-5-benzyl-10-heptyl-6-hydroxy-4-methyl-2-propan-2-yl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCCCCC1CC(=O)OC(C(C)C)C(=O)N(C)C(Cc2ccccc2)C(O)CC(=O)O1,True
+"(2S,5S,6R,10R)-5-benzyl-10-heptyl-6-(methoxymethoxy)-4-methyl-2-propan-2-yl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCCCCC1CC(=O)OC(C(C)C)C(=O)N(C)C(Cc2ccccc2)C(OCOC)CC(=O)O1,True
+"(5S,6R,10R,11S)-5-benzyl-10-butyl-6-hydroxy-4,11-dimethyl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CC(C)C1OC(=O)C(C)C(C)OC(=O)CC(O)C(Cc2ccccc2)N(C)C1=O,True
+"(2S,5S,6R,10R,11S)-5-benzyl-6-(methoxymethoxy)-4,10,11-trimethyl-2-propan-2-yl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",COCOC1CC(=O)OC(C)C(C)C(=O)OC(C(C)C)C(=O)N(C)C1Cc1ccccc1,True
+10-(4-piperidin-1-ylbutyl)acridin-10-ium-9-one,O=c1c2ccccc2n(CCCCN2CCCCC2)c2ccccc12,True
+4-methoxy-10-(4-piperidin-1-ylbutyl)acridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3n(CCCCN3CCCCC3)c12,True
+10-(4-morpholin-4-ylbutyl)acridin-10-ium-9-one,O=c1c2ccccc2n(CCCCN2CCOCC2)c2ccccc12,True
+10-[4-[bis(2-hydroxyethyl)amino]butyl]acridin-10-ium-9-one,O=c1c2ccccc2n(CCCCN(CCO)CCO)c2ccccc12,True
+10-[4-[4-(2-hydroxyethyl)piperazin-1-yl]butyl]acridin-10-ium-9-one,O=c1c2ccccc2n(CCCCN2CCN(CCO)CC2)c2ccccc12,True
+4-methoxyacridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3[nH]c12,True
+10-(3-chloropropyl)acridin-10-ium-9-one,O=c1c2ccccc2n(CCCCl)c2ccccc12,True
+10-(3-chloropropyl)-4-methoxyacridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3n(CCCCl)c12,True
+10-[3-(4-methylpiperazin-1-yl)propyl]acridin-10-ium-9-one,CN1CCN(CCCn2c3ccccc3c(=O)c3ccccc32)CC1,True
+4-methoxy-10-[3-(4-methylpiperazin-1-yl)propyl]acridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3n(CCCN3CCN(C)CC3)c12,True
+4-methoxy-10-(3-piperidin-1-ylpropyl)acridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3n(CCCN3CCCCC3)c12,True
+4-methoxy-10-(3-morpholin-4-ylpropyl)acridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3n(CCCN3CCOCC3)c12,True
+10-[3-[bis(2-hydroxyethyl)amino]propyl]acridin-10-ium-9-one,O=c1c2ccccc2n(CCCN(CCO)CCO)c2ccccc12,True
+10-[3-[bis(2-hydroxyethyl)amino]propyl]-4-methoxyacridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3n(CCCN(CCO)CCO)c12,True
+10-[3-[4-(2-hydroxyethyl)piperazin-1-yl]propyl]-4-methoxyacridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3n(CCCN3CCN(CCO)CC3)c12,True
+10-(4-chlorobutyl)acridin-10-ium-9-one,O=c1c2ccccc2n(CCCCCl)c2ccccc12,True
+10-(4-chlorobutyl)-4-methoxyacridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3n(CCCCCl)c12,True
+10-[4-(4-methylpiperazin-1-yl)butyl]acridin-10-ium-9-one,CN1CCN(CCCCn2c3ccccc3c(=O)c3ccccc32)CC1,True
+4-methoxy-10-[4-(4-methylpiperazin-1-yl)butyl]acridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3n(CCCCN3CCN(C)CC3)c12,True
+"methyl 3-(4-{4,5-bis[4-(dimethylamino)phenyl]imidazol-2-yl}phenyl)propanoate",COC(=O)CCc1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"3-(4-{4,5-bis[4-(dimethylamino)phenyl]imidazol-2-yl}phenyl)prop-2-enenitrile",CN(C)c1ccc(-c2nc(-c3ccc(C=CC#N)cc3)[nH]c2-c2ccc(N(C)C)cc2)cc1,True
+"4-{5-[4-(dimethylamino)phenyl]-2-[4-(3-methoxypropyl)phenyl]imidazol-4-yl}-N,N-dimethylaniline",COCCCc1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"methyl 4-{4,5-bis[4-(dimethylamino)phenyl]imidazol-2-yl}benzoate",COC(=O)c1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"4-{5-[4-(dimethylamino)phenyl]-2-[4-(4-methoxybutyl)phenyl]imidazol-4-yl}-N,N-dimethylaniline",COCCCCc1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"methyl 2-(4-{4,5-bis[4-(dimethylamino)phenyl]imidazol-2-yl}phenyl)cyclopropane-1-carboxylate",COC(=O)C1CC1c1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"4-[2-[4-[(E)-3-butoxyprop-1-enyl]phenyl]-5-(4-dimethylaminophenyl)imidazol-4-yl]-N,N-dimethylaniline",CCCCOCC=Cc1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"4-(2-{4-[3-(benzyloxy)prop-1-en-1-yl]phenyl}-5-[4-(dimethylamino)phenyl]imidazol-4-yl)-N,N-dimethylaniline",CN(C)c1ccc(-c2nc(-c3ccc(C=CCOCc4ccccc4)cc3)[nH]c2-c2ccc(N(C)C)cc2)cc1,True
+"3-(4-{4,5-bis[4-(dimethylamino)phenyl]imidazol-2-yl}phenyl)prop-2-en-1-yl N,N-diethylcarbamate",CCN(CC)C(=O)OCC=Cc1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"[(E)-3-[4-[4,5-bis(4-dimethylaminophenyl)imidazol-2-yl]phenyl]prop-2-enyl]pentanoate",CCCCC(=O)OCC=Cc1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"4-{5-[4-(dimethylamino)phenyl]-2-{4-[3-(piperidin-1-yl)prop-1-en-1-yl]phenyl}imidazol-4-yl}-N,N-dimethylaniline",CN(C)c1ccc(-c2nc(-c3ccc(C=CCN4CCCCC4)cc3)[nH]c2-c2ccc(N(C)C)cc2)cc1,True
+"4-{4,5-bis[4-(dimethylamino)phenyl]-1-hexyl-1H-imidazol-2-yl}benzoic acid",CCCCCCn1c(-c2ccc(C(=O)O)cc2)nc(-c2ccc(N(C)C)cc2)c1-c1ccc(N(C)C)cc1,True
+"4-{5-[4-(dimethylamino)phenyl]-2-{4-[3-(morpholin-4-yl)prop-1-en-1-yl]phenyl}imidazol-4-yl}-N,N-dimethylaniline",CN(C)c1ccc(-c2nc(-c3ccc(C=CCN4CCOCC4)cc3)[nH]c2-c2ccc(N(C)C)cc2)cc1,True
+"3-(4-{4,5-bis[4-(dimethylamino)phenyl]imidazol-2-yl}phenyl)prop-2-enoic acid",CN(C)c1ccc(-c2nc(-c3ccc(C=CC(=O)O)cc3)[nH]c2-c2ccc(N(C)C)cc2)cc1,True
+"4-{4,5-bis[4-(dimethylamino)phenyl]imidazol-2-yl}phenol",CN(C)c1ccc(-c2nc(-c3ccc(O)cc3)[nH]c2-c2ccc(N(C)C)cc2)cc1,True
+"4-{4,5-bis[4-(dimethylamino)phenyl]-1-(2-phenylethyl)-1H-imidazol-2-yl}phenol",CN(C)c1ccc(-c2nc(-c3ccc(O)cc3)n(CCc3ccccc3)c2-c2ccc(N(C)C)cc2)cc1,True
+"4-{4,5-bis[4-(dimethylamino)phenyl]-1-(2-phenylethyl)-1H-imidazol-2-yl}benzoic acid",CN(C)c1ccc(-c2nc(-c3ccc(C(=O)O)cc3)n(CCc3ccccc3)c2-c2ccc(N(C)C)cc2)cc1,True
+"methyl 3-(4-{4,5-bis[4-(methylamino)phenyl]imidazol-2-yl}phenyl)prop-2-enoate",CNc1ccc(-c2nc(-c3ccc(C=CC(=O)OC)cc3)[nH]c2-c2ccc(NC)cc2)cc1,True
+"4-[5-(4-dimethylaminophenyl)-2-[4-[(E)-3-ethoxyprop-1-enyl]phenyl]imidazol-4-yl]-N,N-dimethylaniline",CCOCC=Cc1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"4-{5-[4-(diethylamino)phenyl]-2-[4-(3-ethoxyprop-1-en-1-yl)phenyl]imidazol-4-yl}-N,N-diethylaniline",CCOCC=Cc1ccc(-c2nc(-c3ccc(N(CC)CC)cc3)c(-c3ccc(N(CC)CC)cc3)[nH]2)cc1,True
+4-[4-[2-[4-[(Z)-3-ethoxyprop-1-enyl]phenyl]-5-(4-morpholin-4-ylphenyl)imidazol-4-yl]phenyl]morpholine,CCOCC=Cc1ccc(-c2nc(-c3ccc(N4CCOCC4)cc3)c(-c3ccc(N4CCOCC4)cc3)[nH]2)cc1,True
+4-[5-(4-dimethylaminophenyl)-2-[4-[(E)-3-ethoxyprop-1-enyl]phenyl]imidazol-4-yl]-N-methylaniline,CCOCC=Cc1ccc(-c2nc(-c3ccc(NC)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"4-{2-[4-(3-ethoxyprop-1-en-1-yl)phenyl]-5-[4-(methylamino)phenyl]imidazol-4-yl}-N,N-diethylaniline",CCOCC=Cc1ccc(-c2nc(-c3ccc(NC)cc3)c(-c3ccc(N(CC)CC)cc3)[nH]2)cc1,True
+4-[2-[4-[(E)-3-ethoxyprop-1-enyl]phenyl]-5-(4-pyrrolidin-1-ylphenyl)imidazol-4-yl]-N-methylaniline,CCOCC=Cc1ccc(-c2nc(-c3ccc(NC)cc3)c(-c3ccc(N4CCCC4)cc3)[nH]2)cc1,True
+4-[2-[4-[(E)-3-ethoxyprop-1-enyl]phenyl]-5-[4-(methylamino)phenyl]imidazol-4-yl]-N-propan-2-ylaniline,CCOCC=Cc1ccc(-c2nc(-c3ccc(NC)cc3)c(-c3ccc(NC(C)C)cc3)[nH]2)cc1,True
+"methyl 3-(4-{4,5-bis[4-(diethylamino)phenyl]imidazol-2-yl}phenyl)prop-2-enoate",CCN(CC)c1ccc(-c2nc(-c3ccc(C=CC(=O)OC)cc3)[nH]c2-c2ccc(N(CC)CC)cc2)cc1,True
+4-{2-[4-(3-ethoxyprop-1-en-1-yl)phenyl]-5-[4-(propan-2-ylamino)phenyl]imidazol-4-yl}-N-ethylaniline,CCNc1ccc(-c2nc(-c3ccc(C=CCOCC)cc3)[nH]c2-c2ccc(NC(C)C)cc2)cc1,True
+4-[2-[4-[(E)-3-ethoxyprop-1-enyl]phenyl]-5-(4-fluorophenyl)imidazol-4-yl]-N-propan-2-ylaniline,CCOCC=Cc1ccc(-c2nc(-c3ccc(F)cc3)c(-c3ccc(NC(C)C)cc3)[nH]2)cc1,True
+"4-{2-[4-(3-ethoxyprop-1-en-1-yl)phenyl]imidazol-4-yl}-N,N-diethylaniline",CCOCC=Cc1ccc(-c2ncc(-c3ccc(N(CC)CC)cc3)[nH]2)cc1,True
+4-[4-[2-[4-[(E)-3-ethoxyprop-1-enyl]phenyl]imidazol-4-yl]phenyl]morpholine,CCOCC=Cc1ccc(-c2ncc(-c3ccc(N4CCOCC4)cc3)[nH]2)cc1,True
+"methyl(E)-3-[4-[4,5-bis(4-pyrrolidin-1-ylphenyl)imidazol-2-yl]phenyl]prop-2-enoate",COC(=O)C=Cc1ccc(-c2nc(-c3ccc(N4CCCC4)cc3)c(-c3ccc(N4CCCC4)cc3)[nH]2)cc1,True
+"methyl(E)-3-[4-[4,5-bis[4-[bis(prop-2-enyl)amino]phenyl]imidazol-2-yl]phenyl]prop-2-enoate",C=CCN(CC=C)c1ccc(-c2nc(-c3ccc(C=CC(=O)OC)cc3)[nH]c2-c2ccc(N(CC=C)CC=C)cc2)cc1,True
+methyl 3-(4-{4-[4-(dimethylamino)phenyl]-5-[4-(methylamino)phenyl]imidazol-2-yl}phenyl)prop-2-enoate,CNc1ccc(-c2[nH]c(-c3ccc(C=CC(=O)OC)cc3)nc2-c2ccc(N(C)C)cc2)cc1,True
+methyl 3-(4-{4-[4-(diethylamino)phenyl]-5-[4-(methylamino)phenyl]imidazol-2-yl}phenyl)prop-2-enoate,CCN(CC)c1ccc(-c2nc(-c3ccc(C=CC(=O)OC)cc3)[nH]c2-c2ccc(NC)cc2)cc1,True
+methyl 3-(4-{4-[4-(dipropylamino)phenyl]-5-[4-(methylamino)phenyl]imidazol-2-yl}phenyl)prop-2-enoate,CCCN(CCC)c1ccc(-c2nc(-c3ccc(C=CC(=O)OC)cc3)[nH]c2-c2ccc(NC)cc2)cc1,True
+methyl 3-(4-{4-[4-(dibutylamino)phenyl]-5-[4-(methylamino)phenyl]imidazol-2-yl}phenyl)prop-2-enoate,CCCCN(CCCC)c1ccc(-c2nc(-c3ccc(C=CC(=O)OC)cc3)[nH]c2-c2ccc(NC)cc2)cc1,True
+"N-{2-[({1-[2-(3,4-dimethoxyphenyl)ethyl]pyrrolidin-2-yl}methyl)carbamoyl]phenyl}quinoline-3-carboxamide",COC(=O)C=Cc1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N)cc3)[nH]2)cc1,True
+"N-[2-[[(1R,2R)-1-[2-(3,4-dimethoxyphenyl)ethyl]pyrrolidin-2-yl]methylcarbamoyl]phenyl]quinoline-3-carboxamide",COc1ccc(CCN2CCCC2CNC(=O)c2ccccc2NC(=O)c2cnc3ccccc3c2)cc1OC,True
+"N-[2-[[(1R,2S)-2-(4-phenylpiperazin-1-yl)cyclohexyl]carbamoyl]phenyl]quinoline-3-carboxamide",O=C(Nc1ccccc1C(=O)NC1CCCCC1N1CCN(c2ccccc2)CC1)c1cnc2ccccc2c1,True
+"N-[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]-2-nitrobenzamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3[N+](=O)[O-])cc1)CC2,True
+"2-amino-N-[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]benzamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3N)cc1)CC2,True
+"N-[4-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]-4-nitrobenzamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccc([N+](=O)[O-])cc3)cc1)CC2,True
+"N-[4-[2-[(2S)-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]-4-nitrobenzamide",O=C(Nc1ccc(CCN2CCc3ccccc3C2)cc1)c1ccc([N+](=O)[O-])cc1,True
+"4-amino-N-[4-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]benzamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccc(N)cc3)cc1)CC2,True
+"4-amino-N-[4-[2-[(2S)-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]benzamide",Nc1ccc(C(=O)Nc2ccc(CCN3CCc4ccccc4C3)cc2)cc1,True
+"N-[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]quinoline-3-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3cnc4ccccc4c3)cc1)CC2,True
+"N-[4-[2-[(2R)-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]quinoline-3-carboxamide",O=C(Nc1ccc(CCN2CCc3ccccc3C2)cc1)c1cnc2ccccc2c1,True
+"N-[4-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]-3,4-dimethoxybenzamide",COc1ccc(C(=O)Nc2ccc(CCN3CCc4cc(OC)c(OC)cc4C3)cc2)cc1OC,True
+"N-[4-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]-4,5-dimethoxy-2-nitrobenzamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3cc(OC)c(OC)cc3[N+](=O)[O-])cc1)CC2,True
+"N-[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]quinoline-4-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccnc4ccccc34)cc1)CC2,True
+"2-bromo-N-[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]benzamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3Br)cc1)CC2,True
+"N-[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]naphthalene-1-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3cccc4ccccc34)cc1)CC2,True
+"N-[4-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]quinoxaline-2-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3cnc4ccccc4n3)cc1)CC2,True
+"N-[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]pyridine-3-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3cccnc3)cc1)CC2,True
+"4-bromo-N-[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]benzamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccc(Br)cc3)cc1)CC2,True
+"N-[4-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]-2-[(4-methylbenzoyl)amino]benzamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3ccc(C)cc3)cc1)CC2,True
+"2-benzamido-N-[4-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]benzamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3ccccc3)cc1)CC2,True
+"N-[2-[[4-[2-[(2R)-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]quinoline-3-carboxamide",O=C(Nc1ccccc1C(=O)Nc1ccc(CCN2CCc3ccccc3C2)cc1)c1cnc2ccccc2c1,True
+"5,7-dihydroxy-2-[4-[2-[2-[2-(2-hydroxyethoxy)ethoxy]ethoxy]ethoxy]phenyl]chromen-4-one",O=c1cc(-c2ccc(OCCOCCOCCOCCO)cc2)oc2cc(O)cc(O)c12,True
+"1,2,3,4-Tetrahydro-6,7-dimethoxy-isoquinoline",COc1cc2c(cc1OC)CNCC2,False
+"1-(3-methoxyphenyl)-N,N-dimethylmethanamine",COc1cccc(CN(C)C)c1,False
+1-(4-chlorbenzhydryl)piperazine,Clc1ccc(C(c2ccccc2)N2CCNCC2)cc1,False
+1-Phenethylpiperidine,c1ccc(CCN2CCCCC2)cc1,False
+"2,2'-Diphenylethylamine",NCC(c1ccccc1)c1ccccc1,False
+"2,4,8-Tri(4-morpholinyl)pyrimido[5,4-d]pyrimidine",c1nc(N2CCOCC2)c2nc(N3CCOCC3)nc(N3CCOCC3)c2n1,False
+3'-4'-Dichlorobenzamil,N=C(NCc1ccc(Cl)c(Cl)c1)NC(=O)c1nc(Cl)c(N)nc1N,False
+"3,8-Dihydroxychlorpromazine",CN(C)CCCN1c2cc(O)ccc2Sc2cc(O)c(Cl)cc21,False
+4-(2-Dimethylamino)ethyl)morpholine,CN(C)CCN1CCOCC1,False
+"5-(N,N-hexamethylene)amiloride",N=C(N)NC(=O)c1nc(Cl)c(N2CCCCCC2)nc1N,False
+"7,8-Dihydroxychlorpromazine",CN(C)CCCN1c2cc(Cl)ccc2Sc2cc(O)c(O)cc21,False
+7-Hydroxychlorpromazine,CN(C)CCCN1c2ccc(O)cc2Sc2ccc(Cl)cc21,False
+Acapriazine,CC(=O)NCCCN1CCN(c2cc(Cl)ccc2Cl)CC1,False
+Acecainide,CCN(CC)CCNC(=O)c1ccc(NC(C)=O)cc1,False
+Alpha-Tocopherol,Cc1c(C)c2c(c(C)c1O)CCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O2,False
+Amantadine,NC12CC3CC(CC(C3)C1)C2,False
+Aminocarb,CNC(=O)Oc1ccc(N(C)C)c(C)c1,False
+Amoxecaine,CCN(CC)CCN(CC)CCOC(=O)c1ccc(N)cc1,False
+Amphotericin B,CC1C=CC=CC=CC=CC=CC=CC=CC(OC2OC(C)C(O)C(N)C2O)CC2OC(O)(CC(O)CC(O)C(O)CCC(O)CC(O)CC(=O)OC(C)C(C)C1O)CC(O)C2C(=O)O,False
+Antenolol,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,False
+Ascorbic acid,O=C1OC(C(O)CO)C(O)=C1O,False
+Atrazine,CCNc1nc(Cl)nc(NC(C)C)n1,False
+Azaperone,O=C(CCCN1CCN(c2ccccn2)CC1)c1ccc(F)cc1,False
+Azidoprocainamide methoiodide,CC[N+](C)(CC)CCNC(=O)c1ccc(N=[N+]=[N-])cc1,False
+Benactyzine,CCN(CC)CCOC(=O)C(O)(c1ccccc1)c1ccccc1,False
+Bencyclane,CN(C)CCCOC1(Cc2ccccc2)CCCCCC1,False
+Benzquinamide,CCN(CC)C(=O)C1CN2CCc3cc(OC)c(OC)cc3C2CC1OC(C)=O,False
+Bisobrin,COc1cc2c(cc1OC)C(CCCCC1NCCc3cc(OC)c(OC)cc31)NCC2,False
+Boldine,COc1cc2c(cc1O)CC1c3c(cc(O)c(OC)c3-2)CCN1C,False
+Boxidine,FC(F)(F)c1ccc(-c2ccc(OCCN3CCCC3)cc2)cc1,False
+Brompheniramine,CN(C)CCC(c1ccc(Br)cc1)c1ccccn1,False
+Bryostatin,CCCC=CC=CC(=O)OC1C(=CC(=O)OC)CC2CC(C(C)O)OC(=O)CC(O)CC3CC(OC(C)=O)C(C)(C)C(O)(CC4CC(=CC(=O)OC)CC(C=CC(C)(C)C1(O)O2)O4)O3,False
+Buflomedil,COc1cc(OC)c(C(=O)CCCN2CCCC2)c(OC)c1,False
+Calcimycin,CNc1ccc2oc(CC3OC4(CCC3C)OC(C(C)C(=O)c3ccc[nH]3)C(C)CC4C)nc2c1C(=O)O,False
+Carbamazepine,NC(=O)N1c2ccccc2C=Cc2ccccc21,False
+Carvedilol metabolite M5,COc1ccc(O)cc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,False
+Chelerythrine,COc1ccc2c(c[n+](C)c3c4cc5c(cc4ccc23)OCO5)c1OC,False
+Chlophedianol,CN(C)CCC(O)(c1ccccc1)c1ccccc1Cl,False
+Chlorcyclizine,CN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,False
+Chloropyramine,CN(C)CCN(Cc1ccc(Cl)cc1)c1ccccn1,False
+Chlorpheniramine,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,False
+Chlorzoxazone,O=c1[nH]c2cc(Cl)ccc2o1,False
+Cinepazet,CCOC(=O)CN1CCN(C(=O)C=Cc2cc(OC)c(OC)c(OC)c2)CC1,False
+Citalopram,CN(C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,False
+Clamoxyquin,CCN(CC)CCCNCc1cc(Cl)c2cccnc2c1O,False
+Clanobutin,COc1ccc(N(CCCC(=O)O)C(=O)c2ccc(Cl)cc2)cc1,False
+Clebopride,COc1cc(N)c(Cl)cc1C(=O)NC1CCN(Cc2ccccc2)CC1,False
+Cletoquine,CC(CCCNCCO)Nc1ccnc2cc(Cl)ccc12,False
+Clobutinol,CC(CN(C)C)C(C)(O)Cc1ccc(Cl)cc1,False
+Clomestrone,COc1ccc2c(c1)CCC1C2CCC2(C)C(=O)C(Cl)CC12,False
+Clonidine,Clc1cccc(Cl)c1N=C1NCCN1,False
+Cortisone,CC12CCC(=O)C=C1CCC1C2C(=O)CC2(C)C1CCC2(O)C(=O)CO,False
+Cyclopeptolide(11),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OCc3ccccc3)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)O)C(=O)N1C,False
+Cyclopeptolide(19),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)NC(C)C(=O)NC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)O)C(=O)N1C,False
+Cytochalasin C,CC(=O)OC1C=CC(C)(O)C(=O)C(C)CC=CC2C(O)C(C)=C(C)C3C(Cc4ccccc4)NC(=O)C123,False
+Cytochalasin H,C=C1C(C)C2C(Cc3ccccc3)NC(=O)C23C(OC(C)=O)C=CC(C)(O)CC(C)CC=CC3C1O,False
+D528,COc1ccc(CCN(C)CCCC(N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,False
+DDE,ClC(Cl)=C(c1ccc(Cl)cc1)c1ccc(Cl)cc1,False
+Dehydroemetine,CCC1=C(CC2NCCc3cc(OC)c(OC)cc32)CC2c3cc(OC)c(OC)cc3CCN2C1,False
+Dialifos,CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,False
+Dibozan,c1ccc2c(c1)OCC(CN1CCN(CC3COc4ccccc4O3)CC1)O2,False
+Diclofensine,COc1ccc2c(c1)CN(C)CC2c1ccc(Cl)c(Cl)c1,False
+Didesmethylchlorpromzine,NCCCN1c2ccccc2Sc2ccc(Cl)cc21,False
+Diethylaniline,CCN(CC)c1ccccc1,False
+Difloxacin,CN1CCN(c2cc3c(cc2F)c(=O)c(C(=O)O)cn3-c2ccc(F)cc2)CC1,False
+Diphenazoline,c1ccc(C(OCC2=NCCN2)c2ccccc2)cc1,False
+Disopyramide,CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ccccn1)C(C)C,False
+Doxylamine,CN(C)CCOC(C)(c1ccccc1)c1ccccn1,False
+Econazole,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1,False
+Enilconazole,C=CCOC(Cn1ccnc1)c1ccc(Cl)cc1Cl,False
+Ethylbenzylaniline,CCN(Cc1ccccc1)c1ccccc1,False
+Etifelmin,CCC(CN)=C(c1ccccc1)c1ccccc1,False
+Falipamil,COc1ccc(CCN(C)CCCN2Cc3cc(OC)c(OC)cc3C2=O)cc1OC,False
+Famciclovir,CC(=O)OCC(CCn1cnc2cnc(N)nc21)COC(C)=O,False
+Fenoctimine,CCCCCCCCN=CN1CCC(C(c2ccccc2)c2ccccc2)CC1,False
+Fenpipramide,NC(=O)C(CCN1CCCCC1)(c1ccccc1)c1ccccc1,False
+Fenpiverinium,C[N+]1(CCC(C(N)=O)(c2ccccc2)c2ccccc2)CCCCC1,False
+Fenvalerate,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(Cl)cc1,False
+Fisetin,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)ccc12,False
+Flavonoid ID 22,COc1ccc(-c2cc(=O)c3c(O)cc(OC4OC(COC5OC(C)C(O)C(O)C5O)C(O)C(O)C4O)cc3o2)cc1OCC(=O)N1CCN(Cc2ccc(OC)c(OC)c2OC)CC1,False
+Flavonoid ID 23,COc1ccc(-c2cc(=O)c3c(O)cc(OC4OC(CO)C(O)C(O)C4O)cc3o2)cc1OCC(=O)N1CCN(Cc2ccc(OC)c(OC)c2OC)CC1,False
+Flavonoid ID 38,COc1ccc(C2CC(=O)c3c(O)cc(OCC(=O)N4CC[N+](C)(Cc5ccc(OC)c(OC)c5OC)CC4)cc3O2)cc1O,False
+Fluazifop-butyl,CCCCOC(=O)C(C)Oc1ccc(Oc2ccc(C(F)(F)F)cn2)cc1,False
+Flumazenil,CCOC(=O)c1ncn2c1CN(C)C(=O)c1cc(F)ccc1-2,False
+Gamfexine,CN(C)CCC(c1ccccc1)C1CCCCC1,False
+Guanabenz,N=C(N)NN=Cc1c(Cl)cccc1Cl,False
+Guanfacine,N=C(N)NC(=O)Cc1c(Cl)cccc1Cl,False
+Homoveratrylamine,COc1ccc(CCN)cc1OC,False
+Hoquizil,COc1cc2ncnc(N3CCN(C(=O)OCC(C)(C)O)CC3)c2cc1OC,False
+Hydromorphone,CN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3C1C5,False
+Imiclopazine,CN1CCN(CCN2CCN(CCCN3c4ccccc4Sc4ccc(Cl)cc43)CC2)C1=O,False
+Imolamine,CCN(CC)CCn1c(-c2ccccc2)noc1=N,False
+Imoxiterol,COc1cc(C(O)CNC(C)CCn2cnc3ccccc32)ccc1O,False
+Indomethacin,COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,False
+Isoniazid,NNC(=O)c1ccncc1,False
+Isoxsuprine,CC(COc1ccccc1)NC(C)C(O)c1ccc(O)cc1,False
+Ketamine,CNC1(c2ccccc2Cl)CCCCC1=O,False
+LR 764,O=c1[nH]c(-c2ccc(F)cc2)c(CCN2CCN(Cc3ccccc3)CC2)o1,False
+LY18947,CCN(CC)CCOc1c(Cl)cc(Cl)cc1-c1ccccc1,False
+Lindane,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,False
+Lovastatin acid,CCC(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC(O)CC(O)CC(=O)O)C21,False
+Luteolin,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,False
+MA 1865,O=C(O)CCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,False
+MA 1880,CC1NC(c2ccccc2)(c2ccccc2)C(=O)N1CC(=O)O,False
+MK-571,CCN(CC)C(=O)CCSC(SCCC(=O)O)c1cccc(C=Cc2ccc3ccc(Cl)cc3n2)c1,False
+Maroxepine,CN1CCC2=C(CC1)c1ccccc1Oc1ccccc12,False
+Mecloxamine,CC(CN(C)C)OC(C)(c1ccccc1)c1ccc(Cl)cc1,False
+Meglitinide,COc1ccc(Cl)cc1C(=O)NCCc1ccc(C(=O)O)cc1,False
+Memotine,COc1ccc(OCC2=NCCc3ccccc32)cc1,False
+Mephentermine,CNC(C)(C)Cc1ccccc1,False
+Mephenytoin,CCC1(c2ccccc2)NC(=O)N(C)C1=O,False
+Meprobamate,CCCC(C)(COC(N)=O)COC(N)=O,False
+Methoxychlor,COc1ccc(C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)cc1,False
+Methyl Cellosolve Acetate,COCCOC(C)=O,False
+Methylamine,CN,False
+Metoclopramide,CCN(CC)CCNC(=O)c1cc(Cl)c(N)cc1OC,False
+Metoprolol,COCCc1ccc(OCC(O)CNC(C)C)cc1,False
+Mexilitene,Cc1cccc(C)c1OCC(C)N,False
+Mezilamine,CNc1nc(Cl)c(SC)c(N2CCN(C)CC2)n1,False
+Mianserin,CN1CCN2c3ccccc3Cc3ccccc3C2C1,False
+Miconazole,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,False
+Mirex,ClC1(Cl)C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,False
+Mixidine,COc1ccc(CCN=C2CCCN2C)cc1OC,False
+Moclobemide,O=C(NCCN1CCOCC1)c1ccc(Cl)cc1,False
+Morin,O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12,False
+Motracetam,COc1ccc(C(=O)N2CCN(CC(=O)N3CCOCC3)CC2)cc1,False
+"N,N'-Diphenyl-p-phenylenediamine",c1ccc(Nc2ccc(Nc3ccccc3)cc2)cc1,False
+"N,N-Dimethylbenzylamine",CN(C)Cc1ccccc1,False
+N-Benzylbenzamide,O=C(NCc1ccccc1)c1ccccc1,False
+N-Methyl-gallopamil,COc1ccc(CC[N+](C)(C)CCCC(C#N)(c2cc(OC)c(OC)c(OC)c2)C(C)C)cc1OC,False
+N-Phenyl-1-naphthylamine,c1ccc(Nc2cccc3ccccc23)cc1,False
+N-Phenyl-2-naphthylamine,c1ccc(Nc2ccc3ccccc3c2)cc1,False
+NSC 169647,COc1cc(CN2CCCN(Cc3cc(OC)c(OC)c(OC)c3)C2c2ccc(N(CCCl)CCCl)cc2C)cc(OC)c1OC,False
+NSC 633043,Cc1cc(NS(=O)(=O)c2ccc(NC(=O)c3ccc(Cl)c4c(Nc5ccc(S(N)(=O)=O)cc5)c5ccccc5nc34)cc2)no1,False
+NSC 673413,O=C(NCCNCCCNC(=O)c1cc(-c2ccccc2)nc2ccccc12)c1cccc(OCc2ccccc2)c1OCc1ccccc1,False
+NSC 88116,COc1ccc(CN2CCCN(Cc3ccc(OC)c(OC)c3)C2c2ccc(N(CCCl)CCCl)cc2)cc1OC,False
+NSC 94907,COc1ccc(CN2CCCN(Cc3ccc(OC)c(OC)c3)C2c2ccc(N(CCCl)CCCl)cc2Cl)cc1OC,False
+Naftifine,CN(CC=Cc1ccccc1)Cc1cccc2ccccc12,False
+Naloxone,C=CCN1CCC23c4c5ccc(O)c4OC2C(=O)CCC3(O)C1C5,False
+Naltrexone,O=C1CCC2(O)C3Cc4ccc(O)c5c4C2(CCN3CC2CC2)C1O5,False
+Naltrindole,Oc1ccc2c3c1OC1c4[nH]c5ccccc5c4CC4(O)C(C2)N(CC2CC2)CCC314,False
+Neostigmine,CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1,False
+Nordazepam,O=C1CN=C(c2ccccc2)c2cc(Cl)ccc2N1,False
+Nuclotixene,Clc1ccc2c(c1)C(=CC1CN3CCC1CC3)c1ccccc1S2,False
+Olivomycin A,COC1CC(OC2CC(OC3CC(OC4C(=O)c5c(cc6cc(OC7CC(OC8CC(O)C(OC)C(C)O8)C(OC(C)=O)C(C)O7)cc(O)c6c5O)CC4C(OC)C(=O)C(O)C(C)O)OC(C)C3O)OC(C)C2O)OC(C)C1OC(=O)C(C)C,False
+Omoconazole,CC(=C(OCCOc1ccc(Cl)cc1)c1ccc(Cl)cc1Cl)n1ccnc1,False
+Oxamarin,CCN(CC)CCOc1cc2oc(=O)cc(C)c2cc1OCCN(CC)CC,False
+Oxiconazole,Clc1ccc(CON=C(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,False
+Oxolinic acid,CCn1cc(C(=O)O)c(=O)c2cc3c(cc21)OCO3,False
+Oxprenolol,C=CCOc1ccccc1OCC(O)CNC(C)C,False
+Oxyfedrine,COc1cccc(C(=O)CCNC(C)C(O)c2ccccc2)c1,False
+Papaverine,COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC,False
+Parconazole,C#CCOCC1COC(Cn2ccnc2)(c2ccc(Cl)cc2Cl)O1,False
+Pefloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCN(C)CC3)cc21,False
+Phenoxazine ID 15,O=C(CCl)N1c2ccccc2Oc2ccccc21,False
+Phenyltoloxamine,CN(C)CCOc1ccccc1Cc1ccccc1,False
+Pipoxolan,O=C1OC(CCN2CCCCC2)OC1(c1ccccc1)c1ccccc1,False
+Pirprofen,CC(C(=O)O)c1ccc(N2CC=CC2)c(Cl)c1,False
+Primaquine,COc1cc(NC(C)CCCN)c2ncccc2c1,False
+Primidolol,Cc1ccccc1OCC(O)CNCCn1cc(C)c(=O)[nH]c1=O,False
+Propafenone derivative GP10,CC(C)[N+](C)(CC(O)COc1ccccc1C(=O)CCc1ccccc1)C(C)C,False
+Propafenone derivative GP389,CC(=O)c1ccc(OCC(O)CN2CCCCC2)cc1,False
+Propafenone derivative GP46,CCC(=O)c1ccccc1OCC(O)CN1CCOCC1,False
+Propoxur,CNC(=O)Oc1ccccc1OC(C)C,False
+Protokylol,CC(Cc1ccc2c(c1)OCO2)NCC(O)c1ccc(O)c(O)c1,False
+Pyrilamine,COc1ccc(CN(CCN(C)C)c2ccccn2)cc1,False
+Quinazosin,C=CCN1CCN(c2nc(N)c3cc(OC)c(OC)cc3n2)CC1,False
+RA-17,CCN(CC)c1nc(N(CCO)CCO)nc2c1OC(N(CCO)CCO)NC2N(CC)CC,False
+RA-3,OCCN(CCO)c1nc(N2CCOCC2)c2nc(N(CCO)CCO)nc(N3CCOCC3)c2n1,False
+RE-66,c1nc2c(N3CCOCC3)nc(N3CCOCC3)nc2nc1N1CCOCC1,False
+RXRE-61,CN(C)c1nc2nc(N3CCNCC3)nc(N(C)C)c2nc1Cl,False
+Reserpic acid,COc1ccc2c3c([nH]c2c1)C1CC2C(CC(O)C(OC)C2C(=O)O)CN1CC3,False
+Rhoifolin,O=c1cc(-c2ccccc2)oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12,False
+SNC 121,CCCN1CC(C)N(C(c2ccc(C(=O)N(CC)CC)cc2)c2cccc(OC)c2)CC1C,False
+SPS 1768,CCC(C(=O)OCCN1CCN(CCC(=O)c2ccc(OC)cc2)CC1)c1ccccc1,False
+SPS 1837,O=C(CCc1ccccc1)OCCN1CCN(CCOC(=O)CCc2ccccc2)CC1,False
+SPS 1841,CCC(C(=O)OCCN(C)CCCN(C)CCOC(=O)C(CC)c1ccccc1)c1ccccc1,False
+SPS 1848,CCC(C(=O)OCCCN1CCN(CCCOC(=O)C(CC)c2ccccc2)CC1)c1ccccc1,False
+Scopolamine,CN1C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12,False
+Simvastatin,CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC(O)CC(O)CC(=O)O)C21,False
+Spasmadryl,CCN(CC)CCOC(=O)C(Cc1ccccc1)c1ccccc1,False
+TRX-13,Cc1nc2nc[nH]c(Nc3cccc(Cl)c3)c-2c1C,False
+Talinolol,CC(C)(C)NCC(O)COc1ccc(NC(=O)NC2CCCCC2)cc1,False
+Terbinafine,CN(CC=CC#CC(C)(C)C)Cc1cccc2ccccc12,False
+Tetrabenazine,COc1cc2c(cc1OC)C1CC(=O)C(CC(C)C)CN1CC2,False
+Thonzylamine,COc1ccc(CN(CCN(C)C)c2ncccn2)cc1,False
+Tiaramide,O=C(Cn1c(=O)sc2ccc(Cl)cc21)N1CCN(CCO)CC1,False
+Tioconazole,Clc1ccc(C(Cn2ccnc2)OCc2ccsc2Cl)c(Cl)c1,False
+Tolamolol,Cc1ccccc1OCC(O)CNCCOc1ccc(C(N)=O)cc1,False
+Triazolam,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,False
+Troxonium,CC[N+](CC)(CC)CCOC(=O)c1ccc(OC)c(OC)c1OC,False
+Tubulzole,CCOC(=O)Nc1ccc(SCC2COC(Cn3ccnc3)(c3ccc(Cl)cc3Cl)O2)cc1,False
+U-69593,CN(C(=O)Cc1ccccc1)C1CCC2(CCCO2)CC1N1CCCC1,False
+U11555A,CCN(CC)CCOc1ccc(C2=C(c3ccccc3)Cc3cc(OC)ccc32)cc1,False
+UCB-J028,O=C(O)COCCOCCN1CCC(=C(c2ccccc2)c2ccccc2)CC1,False
+Urapidil,COc1ccccc1N1CCN(CCCNc2cc(=O)n(C)c(=O)n2C)CC1,False
+Venlafaxine,COc1ccc(C(CN(C)C)C2(O)CCCCC2)cc1,False
+Vinclozolin,C=CC1(C)OC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,False
+Vitamin A palmitate,CCCCCCCCCCCCCCCC(=O)OCC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C,False
+W2795,CC(CCc1ccc(-c2ccccc2)cc1)CC(=O)OCCN(C)C,False
+Warfarin,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,False
+Zimeldine,CN(C)CC=C(c1ccc(Br)cc1)c1cccnc1,False
+Zoloperone,COc1ccccc1N1CCN(CCc2oc(=O)[nH]c2-c2ccc(F)cc2)CC1,False
+Zomepirac,Cc1cc(CC(=O)O)n(C)c1C(=O)c1ccc(Cl)cc1,False
+"o-Nitropehenyl N,N-dimethylcarbamate",CN(C)C(=O)Oc1ccc([N+](=O)[O-])cc1,False
+Pinafide,O=C1c2cccc3cc([N+](=O)[O-])cc(c23)C(=O)N1CCN1CCCC1,False
+Antipyrine,Cc1cc(=O)n(-c2ccccc2)n1C,False
+Nitrazepam,O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1,False
+Pirenzepine,CN1CCN(CC(=O)N2c3ccccc3C(=O)Nc3cccnc32)CC1,False
+Piromidic Acid,CCn1cc(C(=O)O)c(=O)c2cnc(N3CCCC3)nc21,False
+Mannitol,OCC(O)C(O)C(O)C(O)CO,False
+Droproizine,OCC(O)CN1CCN(c2ccccc2)CC1,False
+Denzimol,OC(Cn1ccnc1)c1ccc(CCc2ccccc2)cc1,False
+O-desmethyl-venlafaxine,CN(C)CC(c1ccc(O)cc1)C1(O)CCCCC1,False
+Rolitetracycline,CN(C)C1C(O)=C(C(=O)NCN2CCCC2)C(=O)C2(O)C(O)=C3C(=O)c4c(O)cccc4C(C)(O)C3CC12,False
+17-Hydroxypregnenolone,CC(=O)C1(O)CCC2C3CC=C4CC(O)CCC4(C)C3CCC21C,False
+RA-159,OCCN(CCO)c1nc(N2CCCC(O)C2)c2nc(N(CCO)CCO)nc(N3CCCC(O)C3)c2n1,False
+Oleanolic acid,CC1(C)CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1,False
+Cytochalasin J,C=C1C(C)C2C(Cc3ccccc3)NC(=O)C23C(O)C=CC(C)(O)CC(C)CC=CC3C1O,False
+Phorbol,CC1=CC2C(O)(CC(CO)=CC3C4C(C)(C)C4(O)C(O)C(C)C32O)C1=O,False
+4-beta-Phorbol 13-acetate,CC(=O)OC12C(O)C(C)C3(O)C(C=C(CO)CC4(O)C(=O)C(C)=CC43)C1C2(C)C,False
+4-beta-Phorbol 13-butyrate,CCCC(=O)OC12C(O)C(C)C3(O)C(C=C(CO)CC4(O)C(=O)C(C)=CC43)C1C2(C)C,False
+Danitracen,CN1CCC(=C2c3ccccc3C(O)c3ccccc32)CC1,False
+Hyperforin,CC(C)=CCCC1(C)C(CC=C(C)C)CC2(CC=C(C)C)C(=O)C(CC=C(C)C)=C(O)C1(CC(C)C)C2=O,False
+Ergonovine,CC(CO)NC(=O)C1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1,False
+RA-4,Nc1nc(N(CCO)CCO)nc2c(N)nc(N(CCO)CCO)nc12,False
+RA-158,OCCN(CCO)c1nc(N2CC=CCC2)c2nc(N(CCO)CCO)nc(N3CC=CCC3)c2n1,False
+Mopidamol,OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)ncc2n1,False
+"4,8-Dipiperidyl-2,6-M",OCCNc1nc(N2CCCCC2)c2nc(NCCO)nc(N3CCCCC3)c2n1,False
+Solanesol,CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCO,False
+Trihexyphenidyl,OC(CCN1CCCCC1)(c1ccccc1)C1CCCCC1,False
+Biperiden,OC(CCN1CCCCC1)(c1ccccc1)C1CC2C=CC1C2,False
+OBF-1622,O=c1c2ccccc2nc2n1CCOC2=Cc1ccc(O)c(O)c1,False
+Biphenamine,CCN(CC)CCOC(=O)c1cccc(-c2ccccc2)c1O,False
+Apomorphine,CN1CCc2cccc3c2C1Cc1ccc(O)c(O)c1-3,False
+OBF-1834,CC1c2nc3ccccc3c(=O)n2C(c2cccc(O)c2)N1Cc1ccccc1,False
+Epinephrine,CNCC(O)c1ccc(O)c(O)c1,False
+Hexoprenaline,Oc1ccc(C(O)CNCCCCCCNCC(O)c2ccc(O)c(O)c2)cc1O,False
+Laudanosoline,CN1CCc2cc(O)c(O)cc2C1Cc1ccc(O)c(O)c1,False
+N-Norlaudanosoline,Oc1ccc(CC2NCCc3cc(O)c(O)cc32)cc1O,False
+HDL-2722,O=C(NN=Cc1ccc(O)c(O)c1)C(=O)Nc1cccc([N+](=O)[O-])c1,False
+Equilin,CC12CCC3C(=CCc4cc(O)ccc43)C1CCC2=O,False
+Estrone,CC12CCC3c4ccc(O)cc4CCC3C1CCC2=O,False
+Salsolinol,CC1NCCc2cc(O)c(O)cc21,False
+Nylidrin,CC(CCc1ccccc1)NC(C)C(O)c1ccc(O)cc1,False
+Ritodrine,CC(NCCc1ccc(O)cc1)C(O)c1ccc(O)cc1,False
+Adiphenine,Nc1ncnc2c1ncn2CCOCP(=O)(O)O,False
+Mevinphos,COC(=O)C=C(C)OP(=O)(OC)OC,False
+Omeprazole sulfone,COc1ccc2[nH]c(S(=O)(=O)Cc3ncc(C)c(OC)c3C)nc2c1,False
+Delfantrine,CN1CCN(C(=O)c2cc(S(=O)(=O)N(C)C)ccc2N)CC1,False
+H-7,CC1CNCCN1S(=O)(=O)c1cccc2cnccc12,False
+HA-1004,N=C(N)NCCNS(=O)(=O)c1cccc2cnccc12,False
+Mesuprine,COc1ccc(CCNC(C)C(O)c2ccc(O)c(NS(C)(=O)=O)c2)cc1,False
+Sulfasalazine,O=C(O)c1cc(N=Nc2ccc(S(=O)(=O)Nc3ccccn3)cc2)ccc1O,False
+Sulfinpyrazone,O=C1C(CCS(=O)c2ccccc2)C(=O)N(c2ccccc2)N1c1ccccc1,False
+Tipropidil,CCCCCCCCNCC(O)COc1ccc(SC(C)C)cc1,False
+Suloctidil,CCCCCCCCNC(C)C(O)c1ccc(SC(C)C)cc1,False
+Tiprenolol,CSc1ccccc1OCC(O)CNC(C)C,False
+Tiodazosin,COc1cc2nc(N3CCN(C(=O)c4nnc(SC)o4)CC3)nc(N)c2cc1OC,False
+S-Farnesylcysteine,CC(C)=CCCC(C)=CCCC(C)=CCSCC(N)C(=O)O,False
+Suramin,Cc1ccc(C(=O)Nc2ccc(S(=O)(=O)O)c3cc(S(=O)(=O)O)cc(S(=O)(=O)O)c23)cc1NC(=O)c1cccc(NC(=O)Nc2cccc(C(=O)Nc3cc(C(=O)Nc4ccc(S(=O)(=O)O)c5cc(S(=O)(=O)O)cc(S(=O)(=O)O)c45)ccc3C)c2)c1,False
+Methomyl,CNC(=O)ON=C(C)SC,False
+Cephradine,CC1=C(C(=O)O)N2C(=O)C(NC(=O)C(N)C3=CCC=CC3)C2SC1,False
+Nafcillin,CCOc1ccc2ccccc2c1C(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)O,False
+Trimeprazine,CC(CN(C)C)CN1c2ccccc2Sc2ccccc21,False
+Promazine,CN(C)CCCN1c2ccccc2Sc2ccccc21,False
+Metopimazine,CS(=O)(=O)c1ccc2c(c1)N(CCCN1CCC(C(N)=O)CC1)c1ccccc1S2,False
+Propericiazine,N#Cc1ccc2c(c1)N(CCCN1CCC(O)CC1)c1ccccc1S2,False
+Prothipendyl,CN(C)CCCN1c2ccccc2Sc2cccnc21,False
+Oxypendyl,OCCN1CCN(CCCN2c3ccccc3Sc3cccnc32)CC1,False
+Tixadil,CC(Cc1ccccc1)NCCC1c2ccccc2Sc2ccccc21,False
+Emepronium,CC[N+](C)(C)C(C)CC(c1ccccc1)c1ccccc1,False
+Bleomycin A2,Cc1c(N)nc(C(CC(N)=O)NCC(N)C(N)=O)nc1C(=O)NC(C(=O)NC(C)C(O)C(C)C(=O)NC(C(=O)NCCc1nc(-c2nc(C(=O)NCCC[S+](C)C)cs2)cs1)C(C)O)C(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(OC(N)=O)C1O)c1c[nH]cn1,False
+Paraquat Ion,C[n+]1ccc(-c2cc[n+](C)cc2)cc1,False
+Tryptanmine,NCCc1c[nH]c2ccccc12,False
+AG-1112,N#Cc1c(-c2c[nH]c3ccccc23)n[nH]c1N,False
+AG-213,N#CC(=Cc1ccc(O)c(O)c1)C(N)=S,False
+Zolertine,c1ccc(N2CCN(CCc3nn[nH]n3)CC2)cc1,False
+Dapiprazole,Cc1ccccc1N1CCN(CCc2nnc3n2CCCC3)CC1,False
+"4,8-Dipiperidyl-Dimet",CN(C)c1nc(N2CCCCC2)c2nc(N(C)C)nc(N3CCCCC3)c2n1,False
+"2,4,6,8-Tetrapiperidy",C1CCN(c2nc(N3CCCCC3)c3nc(N4CCCCC4)nc(N4CCCCC4)c3n2)CC1,False
+Perafensine,c1ccc(-c2nc(N3CCNCC3)cc3ccccc23)cc1,False
+Acridine,c1ccc2nc3ccccc3cc2c1,False
+Quipazine,c1ccc2nc(N3CCNCC3)ccc2c1,False
+Dihydropyrroloquinoline series 14,Nc1c2c(nc3ccccc13)N(C1CCCCC1)CC2,False
+Pheniramine,CN(C)CCC(c1ccccc1)c1ccccn1,False
+2-Benzylpyridine,c1ccc(Cc2ccccn2)cc1,False
+Tripelennamine,CN(C)CCN(Cc1ccccc1)c1ccccn1,False
+1-Benzylimidazole,c1ccc(Cn2ccnc2)cc1,False
+Befuraline,O=C(c1cc2ccccc2o1)N1CCN(Cc2ccccc2)CC1,False
+Proxazole,CCC(c1ccccc1)c1noc(CCN(CC)CC)n1,False
+Butalamine,CCCCN(CCCC)CCNc1nc(-c2ccccc2)no1,False
+Keoxifene,O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12,False
+Thenyldiamine,CN(C)CCN(Cc1ccsc1)c1ccccn1,False
+Ceftazidime,CC(C)(ON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(C[n+]3ccccc3)CSC12)c1csc(N)n1)C(=O)O,False
+Thenaldine,CN1CCC(N(Cc2cccs2)c2ccccc2)CC1,False
+Methaphenilene,CN(C)CCN(Cc1cccs1)c1ccccc1,False
+P-Nitrophenol,O=[N+]([O-])c1ccc(O)cc1,False
+Amprenavir,CC(C)CN(CC(O)C(Cc1ccccc1)NC(=O)OC1CCOC1)S(=O)(=O)c1ccc(N)cc1,False
+Dexamethasone,C=C1C=CC2(C)C(=C1)CCC1C3CC(C)C(O)(C(=O)CO)C3(C)CC(O)C12F,False
+Diphenhydramine,CN(C)CCOC(c1ccccc1)c1ccccc1,False
+Ethosuximide,CCC1(C)CC(=O)NC1=O,False
+Hydrocodone,COc1ccc2c3c1OC1C(=O)CCC4C(C2)N(C)CCC314,False
+Methylphenidate,COC(=O)C(c1ccccc1)C1CCCCN1,False
+Morphine,CN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5,False
+Artesunate,CC1CCC2C(C)C(OC(=O)CCC(=O)O)OC3OC4(C)CCC1C32OO4,False
+Diospyrin,Cc1cc(O)c2c(c1)C(=O)C(c1c(C)cc3c(c1O)C(=O)C=CC3=O)=CC2=O,False
+Genistein,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12,False
+Geshoidin,O=C1OCc2cc3cccc(OC4OC(CO)C(O)C(O)C4O)c3c(O)c21,False
+Metrifonate,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,False
+Ellipticine,Cc1c2ccncc2c(C)c2c1[nH]c1ccccc12,False
+Hexestrol,CCC(c1ccc(O)cc1)C(CC)c1ccc(O)cc1,False
+Verapamil metabolite D-617,CNCCCC(C#N)(c1ccc(OC)c(OC)c1)C(C)C,False
+Vearpamil metabolite D-620,COc1ccc(C(C#N)(CCCN)C(C)C)cc1OC,False
+Eletriptan,CN1CCCC1Cc1ccc2[nH]cc(CCS(=O)(=O)c3ccccc3)c2c1,False
+Hoechst33342(Bisbenzimide),CCOc1ccc(-c2nc3ccc(-c4nc5ccc(N6CCN(C)CC6)cc5[nH]4)cc3[nH]2)cc1,False
+Practolol,CC(=O)Nc1ccc(OCC(O)CNC(C)C)cc1,False
+Yohimbine,COC(=O)C1C(O)CCC2CN3CCc4c([nH]c5ccccc45)C3CC21,False
+Diacetolol,CC(=O)Nc1ccc(OCC(O)CNC(C)C)c(C(C)=O)c1,False
+Tolbutamide,CCCCNC(=O)NS(=O)(=O)c1ccc(C)cc1,False
+Fluvastatin,CC(C)n1c(C=CC(O)CC(O)CC(=O)O)c(-c2ccc(F)cc2)c2ccccc21,False
+Pantoprazole,COc1ccnc(CS(=O)c2nc3cc(OC(F)F)ccc3[nH]2)c1OC,False
+"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic-acid",Cc1c(C)c2c(c(C)c1O)CCC(C)(C(=O)O)O2,False
+Acenocoumarol,CC(=O)CC(c1ccc([N+](=O)[O-])cc1)c1c(O)oc2ccccc2c1=O,False
+Acetaminophen(Paracetamol),CC(=O)Nc1ccc(O)cc1,False
+Althiazide,C=CCSCC1Nc2cc(Cl)c(S(N)(=O)=O)cc2S(=O)(=O)N1,False
+Amikacin,NCCC(O)C(=O)NC1CC(N)C(OC2OC(CN)C(O)C(O)C2O)C(O)C1OC1OC(CO)C(O)C(N)C1O,False
+Aminophylline,Cn1c(=O)c2[nH]cnc2n(C)c1=O,False
+Aminopyrine,Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C,False
+Amrinone,Nc1cc(-c2ccncc2)c[nH]c1=O,False
+Antimycin A,CCCCCCC1C(=O)OC(C)C(NC(=O)c2cccc(NC=O)c2O)C(=O)OC(C)C1OC(=O)CC(C)C,False
+Austricine,CC1=CC(=O)C2=C(C)CC(O)C3C(C)C(=O)OC3C12,False
+Bambuterol,CN(C)C(=O)Oc1cc(OC(=O)N(C)C)cc(C(O)CNC(C)(C)C)c1,False
+Bendroflumethiazide,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(Cc1ccccc1)NS2(=O)=O,False
+Betulinic acid,C=C(C)C1CCC2(C(=O)O)CCC3(C)C(CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C12,False
+Bicuculline,CN1CCc2cc3c(cc2C1C1OC(=O)c2c1ccc1c2OCO1)OCO3,False
+Bisacodyl,CC(=O)Oc1ccc(C(c2ccc(OC(C)=O)cc2)c2ccccn2)cc1,False
+Bromopride,CCN(CC)CCNC(=O)c1cc(Br)c(N)cc1OC,False
+Bupivacainne,CCCCN1CCCCC1C(=O)Nc1c(C)cccc1C,False
+Calycanthine,CN1CCC23c4ccccc4NC1C21CCN(C)C3Nc2ccccc21,False
+Cefaclor,NC(C(=O)NC1C(=O)N2C(C(=O)O)=C(Cl)CSC12)c1ccccc1,False
+Cefmetazole,COC1(NC(=O)CSCC#N)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CSC21,False
+Cefuroxime,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC12)c1ccco1,False
+Celestin_blue,CCN(CC)c1ccc2[nH]c3c(C(=N)O)cc(=O)c(=O)c=3oc2c1,False
+Cephalothin,CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)Cc3cccs3)C2SC1,False
+Chlormethazone,CN1C(=O)CCS(=O)(=O)C1c1ccc(Cl)cc1,False
+Chlorotrianisene,COc1ccc(C(Cl)=C(c2ccc(OC)cc2)c2ccc(OC)cc2)cc1,False
+Chlorpropamide,CCCNC(=O)NS(=O)(=O)c1ccc(Cl)cc1,False
+Chlorthiazide,NS(=O)(=O)c1cc2c(cc1Cl)NC=NS2(=O)=O,False
+Chrysene-1-4-dione,O=C1C=CC(=O)c2c1ccc1c2ccc2ccccc21,False
+Clenbuterol,CC(C)(C)NCC(O)c1cc(Cl)c(N)c(Cl)c1,False
+Clobetasol,CCC(=O)OC1(C(=O)CCl)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,False
+Clofibric acid,CC(C)(Oc1ccc(Cl)cc1)C(=O)O,False
+Clopamide,CC1CCCC(C)N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,False
+Convolamine,COc1ccc(C(=O)OC2CC3CCC(C2)N3C)cc1OC,False
+Cycloheximide,CC1CC(C)C(=O)C(C(O)CC2CC(=O)NC(=O)C2)C1,False
+Delcorine,CCN1CC2(COC)CCC(OC)C34C5CC6C(OC)CC7(OCOC7(C(O)C23)C14)C5C6OC,False
+Delsoline,CCN1CC2(COC)CCC(O)C34C5CC6C(OC)CC(O)(C5C6OC)C(O)(C(OC)C23)C14,False
+Deltaline,CCN1CC2(C)CCC(OC)C34C2C(C(C)=O)C2(OCOC25CC(OC)C2CC3(O)C5(O)C2OC)C14,False
+Demeclocycline,CN(C)C1C(=O)C(=C(N)O)C(=O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(O)C3CC12,False
+Diaziquone,CCOC(=O)NC1=C(N2CC2)C(=O)C(NC(=O)OCC)=C(N2CC2)C1=O,False
+Dimethadione,CC1(C)OC(=O)NC1=O,False
+Dinestrol,CC=C(C(=CC)c1ccc(O)cc1)c1ccc(O)cc1,False
+Dipyrone,Cc1c(N(C)CS(=O)(=O)O)c(=O)n(-c2ccccc2)n1C,False
+Doxycycline-cyclate,CC1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(=O)C(=C(N)O)C(=O)C(N(C)C)C3C(O)C21,False
+Eburnamonine,CCC12CCCN3CCc4c(n(c5ccccc45)C(=O)C1)C32,False
+Ecacetin,COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1,False
+Epicatechin,Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2,False
+Ethionamide,CCc1cc(C(N)=S)ccn1,False
+Ethoxyquin,CCOc1ccc2c(c1)C(C)=CC(C)(C)N2,False
+Etidronic acid,CC(O)(P(=O)(O)O)P(=O)(O)O,False
+Etifenin,CCc1cccc(CC)c1NC(=O)CN(CC(=O)O)CC(=O)O,False
+Fenfluramine,CCNC(C)Cc1cccc(C(F)(F)F)c1,False
+Fenoprofen,CC(C(=O)O)c1cccc(Oc2ccccc2)c1,False
+Flucinonide,CC(=O)OCC(=O)C12OC(C)(C)OC1CC1C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC12C,False
+Folic acid,Nc1nc(=O)c2nc(CNc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)cnc2[nH]1,False
+Folisidine,COc1cc(=O)n(C)c2c(OCC(O)C(C)(C)O)cccc12,False
+Fosfosal,O=C(O)c1ccccc1OP(=O)(O)O,False
+Furaltadon,O=C1OC(CN2CCOCC2)CN1N=Cc1ccc([N+](=O)[O-])o1,False
+Furosemide,NS(=O)(=O)c1cc(C(=O)O)c(NCc2ccco2)cc1Cl,False
+Gabapentin,NCC1(CC(=O)O)CCCCC1,False
+Galantamine,COc1ccc2c3c1OC1CC(O)C=CC31CCN(C)C2,False
+Ganciclovir,Nc1nc(=O)c2ncn(COC(CO)CO)c2[nH]1,False
+Gelsemin,C=CC12CN(C)C3C4COC(CC41)C1(C(=O)Nc4ccccc41)C32,False
+Gliclazide,Cc1ccc(S(=O)(=O)NC(=O)NN2CC3CCCC3C2)cc1,False
+Graveoline,Cn1c(-c2ccc3c(c2)OCO3)cc(=O)c2ccccc21,False
+Guaifenesin,COc1ccccc1OCC(O)CO,False
+Haloprogin,Clc1cc(Cl)c(OCC#CI)cc1Cl,False
+Harman,Cc1nccc2c1[nH]c1ccccc12,False
+Calligonine,CC1NCCc2c1[nH]c1ccccc21,False
+Helcinonide,CC1(C)OC2CC3C4CCC5=CC(=O)CCC5(C)C4(F)C(O)CC3(C)C2(C(=O)CCl)O1,False
+Hepes,O=S(=O)(O)CCN1CCN(CCO)CC1,False
+Hesperidin,COc1ccc(C2CC(=O)c3c(O)cc(OC4OC(COC5OC(C)C(O)C(O)C5O)C(O)C(O)C4O)cc3O2)cc1O,False
+Hippeastrine,CN1CCC2=CC(O)C3OC(=O)c4cc5c(cc4C3C21)OCO5,False
+Hycanthone,CCN(CC)CCNc1ccc(CO)c2sc3ccccc3c(=O)c12,False
+Hydrastinine,CN1CCc2cc3c(cc2C1O)OCO3,False
+Ifenprodil,CC(C(O)c1ccc(O)cc1)N1CCC(Cc2ccccc2)CC1,False
+Isopyrin,Cc1c(NC(C)C)c(=O)n(-c2ccccc2)n1C,False
+Karakoline,CCN1CC2(C)CCC(O)C34C5CC6C(OC)CC(O)(C(CC23)C14)C5C6O,False
+Kavain,COC1=CC(=O)OC(C=Cc2ccccc2)C1,False
+Ketanserin,O=C(c1ccc(F)cc1)C1CCN(CCn2c(=O)[nH]c3ccccc3c2=O)CC1,False
+Kinetin,c1coc(CNc2ncnc3nc[nH]c23)c1,False
+Leflunomide,Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1,False
+Levobunolol,CC(C)(C)NCC(O)COc1cccc2c1CCCC2=O,False
+Levonorgestrel,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21CC,False
+Loucarbate,CCN(CC)CCOCCOC(=O)C1(c2ccccc2)CCCC1,False
+Lucidril,CN(C)CCOC(=O)COc1ccc(Cl)cc1,False
+Mechlorethamine,CN(CCCl)CCCl,False
+Mefexamide,CCN(CC)CCNC(=O)COc1ccc(OC)cc1,False
+Mesna,O=S(=O)(O)CCS,False
+Mestranol,C#CC1(O)CCC2C3CCc4cc(OC)ccc4C3CCC21C,False
+Metampicillin,C=NC(C(=O)NC1C(=O)C2C1SC(C)(C)C2C(=O)O)c1ccccc1,False
+Methimazole,Cn1cc[nH]c1=S,False
+(2S)-2-amino-4-(methylsulfonimidoyl)butanoicacid,CS(=N)(=O)CCC(N)C(=O)O,False
+"(1R,2S)-2-Amino-1-(2,5-dimethoxyphenyl)propan-1-ol",COc1ccc(OC)c(C(O)C(C)N)c1,False
+Methylergonovine,CCC(CO)NC(=O)C1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1,False
+Metronidazole,Cc1ncc([N+](=O)[O-])n1CCO,False
+Mimosine,NC(Cn1ccc(=O)c(O)c1)C(=O)O,False
+Mycophenolic Acid,COc1c(C)c2c(c(O)c1CC=C(C)CCC(=O)O)C(=O)OC2,False
+N-acetylmuramate,CC(=O)NC1C(O)OC(CO)C(O)C1OC(C)C(=O)O,False
+Nanophine,CC1CCCC(C)N1,False
+Napelline,C=C1C2CC3(C1O)C1CC4C5(C)CCC(O)C4(C1N(CC)C5)C3CC2O,False
+Naringin,CC1OC(OC2C(Oc3cc(O)c4c(c3)OC(c3ccc(O)cc3)CC4=O)OC(CO)C(O)C2O)C(O)C(O)C1O,False
+Nebramycin,NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)C(N)CC1O,False
+Nefopam,CN1CCOC(c2ccccc2)c2ccccc2C1,False
+Nifazenone,Cc1c(NC(=O)c2cccnc2)c(=O)n(-c2ccccc2)n1C,False
+Niflumic Acid,O=C(O)c1cccnc1Nc1cccc(C(F)(F)F)c1,False
+Nitrarine,c1ccc2c3c([nH]c2c1)C1C2CCC(C4CCCNC42)N1CC3,False
+Nordefrin,CC(N)C(O)c1ccc(O)c(O)c1,False
+Orciprenaline,CC(C)NCC(O)c1cc(O)cc(O)c1,False
+Ornidazole,Cc1ncc([N+](=O)[O-])n1CC(O)CCl,False
+Oxalamine,CCN(CC)CCc1nc(-c2ccccc2)no1,False
+Paromomycin,NCC1OC(OC2C(CO)OC(OC3C(O)C(N)CC(N)C3OC3OC(CO)C(O)C(O)C3N)C2O)C(N)C(O)C1O,False
+Parthenolide,C=C1C(=O)OC2C1CCC(C)=CCCC1(C)OC21,False
+Pempidine,CN1C(C)(C)CCCC1(C)C,False
+Pepstatin,CC(C)CC(=O)NC(C(=O)NC(C(=O)NC(CC(C)C)C(O)CC(=O)NC(C)C(=O)NC(CC(C)C)C(O)CC(=O)O)C(C)C)C(C)C,False
+Phenazopyridine,Nc1ccc(N=Nc2ccccc2)c(N)n1,False
+Phyllabine,COc1cc(C(=O)OC2CC3CCC(C2)N3C)ccc1O,False
+Piroxicam,CN1C(=C(O)Nc2ccccn2)C(=O)c2ccccc2S1(=O)=O,False
+Pramoxine,CCCCOc1ccc(OCCCN2CCOCC2)cc1,False
+Pregnenolone,CC(=O)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C,False
+Pridinol,OC(CCN1CCCCC1)(c1ccccc1)c1ccccc1,False
+Probucol,CC(C)(Sc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1)Sc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1,False
+Propylthiouracil,CCCc1cc(=O)[nH]c(=S)[nH]1,False
+Pyrazinamide,NC(=O)c1cnccn1,False
+Quercetin,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,False
+Salsolidine,COc1cc2c(cc1OC)C(C)NCC2,False
+Semustine,CC1CCC(NC(=O)N(CCCl)N=O)CC1,False
+Seneciphylline,C=C1CC(=CC)C(=O)OC2CCN3CC=C(COC(=O)C1(C)O)C23,False
+Sevedindione,CC1CCC2C(C)C3CCC4(O)C(CC5C4CC(=O)C4CC(=O)CCC45C)C3CN2C1,False
+Sisomicin,CNC1C(O)C(OC2C(N)CC(N)C(OC3OC(CN)=CCC3N)C2O)OCC1(C)O,False
+Skimmiamine,COc1ccc2c(OC)c3ccoc3nc2c1OC,False
+Streptozocin,CN(N=O)C(=O)NC1C(O)OC(CO)C(O)C1O,False
+Sulfachlorpyridazine,Nc1ccc(S(=O)(=O)Nc2ccc(Cl)nn2)cc1,False
+Sulfadimethoxine,COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)n1,False
+Sulfamerazine,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,False
+Sulfameter,COc1cnc(NS(=O)(=O)c2ccc(N)cc2)nc1,False
+Sulfamethazine,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,False
+Sulfamethizole,Cc1nnc(NS(=O)(=O)c2ccc(N)cc2)s1,False
+Sulfapyridine,Nc1ccc(S(=O)(=O)Nc2ccccn2)cc1,False
+Sulfisoxazole,Cc1noc(NS(=O)(=O)c2ccc(N)cc2)c1C,False
+Sulmazole,COc1cc(S(C)=O)ccc1-c1nc2ncccc2[nH]1,False
+Suxibuzone,CCCCC1(COC(=O)CCC(=O)O)C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,False
+Tadjakonine,C=C1CC23CC4C5C6(C)CC(OC(=O)c7ccccc7)C(OC(C)=O)C57C(C2C(O)C1C(OC(C)=O)C37)N4C6,False
+Tetrahydroalstonine,COC(=O)C1=COC(C)C2CN3CCc4c([nH]c5ccccc45)C3CC12,False
+Tetrahydrozoline,c1ccc2c(c1)CCCC2C1=NCCN1,False
+Tetramisole,c1ccc(C2CN3CCSC3=N2)cc1,False
+"6,8,9,11-Tetrahydro-7H-pyrido[2,1-b]quinazoline",c1ccc2c(c1)CN1CCCCC1=N2,False
+"2,3-Butanoquinazoline-4(3H)-one",O=c1c2ccccc2nc2n1CCCC2,False
+Thiabendazole,c1ccc2[nH]c(-c3cscn3)nc2c1,False
+Tinidazole,CCS(=O)(=O)CCn1c([N+](=O)[O-])cnc1C,False
+Tolazamide,Cc1ccc(S(=O)(=O)NC(=O)NN2CCCCCC2)cc1,False
+Tremorine,C(#CCN1CCCC1)CN1CCCC1,False
+Triamcinolone,CC12C=CC(=O)C=C1CCC1C3CC(O)C(O)(C(=O)CO)C3(C)CC(O)C12F,False
+Trichlormethiazide,NS(=O)(=O)c1cc2c(cc1Cl)NC(C(Cl)Cl)NS2(=O)=O,False
+Trimetazidine,COc1ccc(CN2CCNCC2)c(OC)c1OC,False
+Trioxsalen,Cc1cc2cc3c(C)cc(=O)oc3c(C)c2o1,False
+Veratroylzygadenine,COc1ccc(C(=O)OC2CCC3(C)C4CCC5C6(O)C(O)C(O)C7C(CN8CC(C)CCC8C7(C)O)C6CC53OC24O)cc1OC,False
+Vidarabine,Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O,False
+Vincamine,CCC12CCCN3CCc4c(n(c5ccccc45)C(O)(C(=O)OC)C1)C32,False
+Yohimbini acid,O=C(O)C1C(O)CCC2CN3CCc4c([nH]c5ccccc45)C3CC21,False
+Caffeine,Cn1c(=O)c2c(ncn2C)n(C)c1=O,False
+Aldicarb,CNC(=O)ON=CC(C)(C)SC,False
+Permethrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1cccc(Oc2ccccc2)c1,False
+Toxaphene,ClC=C1C2CC(C(Cl)C2(Cl)Cl)C1(CCl)CCl,False
+"(2R)-2-(2-piperidin-1-ylethyl)-2,3-dihydrochromen-4-one",O=C1CC(CCN2CCCCC2)Oc2ccccc21,False
+2-[2-(3-phenylpropanoyl)phenoxy]aceticacid,O=C(O)COc1ccccc1C(=O)CCc1ccccc1,False
+"[(2R,3R)-3-methyl-2,3-dihydro-1-benzofuran-2-yl]-piperidin-1-ylmethanone",CC1c2ccccc2OC1C(=O)N1CCCCC1,False
+4-iodo-1-methyl-N'-[1-(1-methyl-1H-pyrazol-5-yl)ethenyl]-1H-pyrazole-3-carbohydrazide,C=C(NNC(=O)c1nn(C)cc1I)c1ccnn1C,False
+"6-(3,5-dimethylpyrazol-1-yl)-N-[(E)-pyridin-3-ylmethylideneamino]-1,2,4,5-tetrazin-3-amine",Cc1cc(C)n(-c2nnc(NN=Cc3cccnc3)nn2)n1,False
+"(2R)-3-(3,4-dimethoxyphenyl)propane-1,2-diol",COc1ccc(CC(O)CO)cc1OC,False
+2-(azepan-1-yl)-N-[(E)-(2-chloro-6-fluorophenyl)methylideneamino]-2-oxoacetamide,O=C(NN=Cc1c(F)cccc1Cl)C(=O)N1CCCCCC1,False
+2-ethoxyethyl4-aminobenzoate,CCOCCOC(=O)c1ccc(N)cc1,False
+"4-[4,6-bis(trifluoromethyl)-1,3,5-triazin-2-yl]-N,N-dimethylaniline",CN(C)c1ccc(-c2nc(C(F)(F)F)nc(C(F)(F)F)n2)cc1,False
+1-[3-[(2R)-2-hydroxy-3-morpholin-4-ylpropoxy]phenyl]ethanone,CC(=O)c1cccc(OCC(O)CN2CCOCC2)c1,False
+"(2S)-3-(4-ethylphenyl)-2-(4-phenylmethoxyphenyl)-1,2-dihydroquinazolin-4-one",CCc1ccc(N2C(=O)c3ccccc3NC2c2ccc(OCc3ccccc3)cc2)cc1,False
+"4-imino-4-[4-(4-methoxyphenyl)-5-sulfanylidene-1H-1,2,4-triazol-3-yl]butanamide",COc1ccc(-n2c(C(=N)CCC(N)=O)n[nH]c2=S)cc1,False
+Albendazole,CCSc1ccc2nc(NC(=O)OC)[nH]c2c1,False
+Carisoprodol,CCCC(C)(COC(N)=O)COC(=O)NC(C)C,False
+Caffeic acid,O=C(O)C=Cc1ccc(O)c(O)c1,False
+"N,2-Dimethyl-2-phenyl-1-propanamine",CNCC(C)(C)c1ccccc1,False
+Alfentanil,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCn2nnn(CC)c2=O)CC1,False
+Apigenin,O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,False
+Aztreonam,CC1C(NC(=O)C(=NOC(C)(C)C(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O,False
+Dicumarol,O=c1c(Cc2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12,False
+Etanidazole,O=C(Cn1ccnc1[N+](=O)[O-])NCCO,False
+Hespertin,COc1ccc(C2CC(=O)c3c(O)cc(O)cc3O2)cc1O,False
+Indapamide,CC1Nc2ccccc2C1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,False
+Omadine,On1ccccc1=S,False
+Phenindione,O=C1c2ccccc2C(=O)C1c1ccccc1,False
+Phenylpropanolamine,CC(N)C(O)c1ccccc1,False
+Piperacillin,CCN1CCN(C(=O)NC(C(=O)NC2C(=O)N3C2SC(C)(C)C3C(=O)O)c2ccccc2)C(=O)C1=O,False
+Retrorsine,CC=C1CC(C)C(O)(CO)C(=O)OCC2=CCN3CCC(OC1=O)C23,False
+Sparteine,C1CCN2CC3CC(CN4CCCCC34)C2C1,False
+Xylometazoline,Cc1cc(C(C)(C)C)cc(C)c1CC1=NCCN1,False
+Zaprinast,CCCOc1ccccc1-c1nc2[nH][nH]nc-2c(=O)n1,False
+Fluvalinate,CC(C)C(Nc1ccc(C(F)(F)F)cc1Cl)C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,False
+N-tert-butyl-N'-[(E)-(2-hydroxy-3-methoxyphenyl)methylideneamino]oxamide,COc1cccc(C=NNC(=O)C(=O)NC(C)(C)C)c1O,False
+1-[4-[(2S)-2-hydroxy-3-morpholin-4-ylpropoxy]phenyl]ethanone,CC(=O)c1ccc(OCC(O)CN2CCOCC2)cc1,False
+"1-[(2S)-2-hydroxy-3-(propan-2-ylamino)propyl]-5-methyl-2-phenyl-4-(thiophene-2-carbonyl)pyrazole-1,2-diium-3-one",Cc1c(C(=O)c2cccs2)c(=O)n(-c2ccccc2)n1CC(O)CNC(C)C,False
+"4-benzoyl-1-[(2S)-2-hydroxy-3-(propan-2-ylamino)propyl]-5-methyl-2-phenylpyrazole-1,2-diium-3-one",Cc1c(C(=O)c2ccccc2)c(=O)n(-c2ccccc2)n1CC(O)CNC(C)C,False
+"(3R,4S)-3-hydroxy-2,2-dimethyl-4-(methylamino)-3,4-dihydrochromene-6-carbonitrile",CNC1c2cc(C#N)ccc2OC(C)(C)C1O,False
+1-phenethyl-2-phenylmethoxybenzene,c1ccc(CCc2ccccc2OCc2ccccc2)cc1,False
+2-[(2-phenethylphenoxy)methyl]pyridine,c1ccc(CCc2ccccc2OCc2ccccn2)cc1,False
+3-[[2-[2-(3-methoxyphenyl)ethyl]phenoxy]methyl]pyridine,COc1cccc(CCc2ccccc2OCc2cccnc2)c1,False
+1-Phenylpiperazine,c1ccc(CN2CCNCC2)cc1,False
+Adiphenine,CCN(CC)CCOC(=O)C(c1ccccc1)c1ccccc1,False
+Bencyclane,CN(C)CCCOC1(Cc2ccccc2)CCCCC1,False
+Benzmalecene,CC(NC1=C(O)C=C1)C(Cc1ccc(Cl)cc1)c1ccc(Cl)cc1,False
+Cinepazide,COc1cc(C=CC2=C(N3CCCC3)CN3CCN2CC3)cc(OC)c1OC,False
+Cinpropazide,COc1cc(C=CC2=C(NC(C)C)CN3CCN2CC3)cc(OC)c1OC,False
+Cycliramine,CC(c1ccc(OC#N)cc1)c1ccc(OC#N)cc1,False
+Emetine,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21,False
+Flesinoxan,O=C(NCCN1CCN(c2cccc3c2OCC(CO)O3)CC1)c1ccc(F)cc1,False
+"2-(2,2-diphenyl-3,5-diazabicyclo[2.1.0]pent-1(4)-en-5-yl)aceticacid",O=C(O)CN1C2=C1C(c1ccccc1)(c1ccccc1)N2,False
+Medrylamine,COc1ccc(C(OCCN(C)C)c2ccccc2)cc1,False
+Memotine,COc1ccc(OC2=NCCc3ccccc32)cc1,False
+"(1R,3R)-1-[(S)-[2-[bis(2-hydroxyethyl)amino]ethylamino]-[2-[bis(2-hydroxyethyl)amino]-6-[[(3R)-3-hydroxyhexyl]amino]-5-(methylamino)pyrimidin-4-yl]methyl]piperidin-3-ol",CCCC(O)CCNc1nc(N(CCO)CCO)nc(C(NCCN(CCO)CCO)N2CCCC(O)C2)c1NC,False
+"(6Z)-6-[(1S)-1-phenylpropyl]-7-[(1R)-1-phenylpropyl]-5,8-dioxa-1,12-diazabicyclo[10.2.2]hexadec-6-ene",CCC(C1=C(C(CC)c2ccccc2)OCCCN2CCN(CCCO1)CC2)c1ccccc1,False
+"N'-(5-chloronaphthalen-1-yl)sulfanylhexane-1,6-diamine",NCCCCCCNSc1cccc2c(Cl)cccc12,False
+"1,3,5-Triazacycloheptane 4b",O=C1NC(=S)N(Cc2cccc(Cl)c2)CCN1Cc1cccc(Cl)c1,True
+2-Chloro-10-[4-(dimethylamino)butyl] phenothiazine,NCCCCN1c2ccccc2Sc2ccc(Cl)cc21,True
+Acridone-4-carboxamide 28,COc1ccc(CCN(C)CCOc2ccc(NC(=O)c3cccc4c3Oc3ccccc3O4)cc2)cc1OC,True
+Acridone-4-carboxamide 67,COc1ccc(CN(C)CCCOc2ccc(NC(=O)c3cccc4c(=O)c5c(F)cccc5[nH]c34)c(C)c2)cc1OC,True
+Acridone-4-carboxamide 68,COc1ccc(CN(C)CCc2ccc(NC(=O)c3cccc4c(=O)c5c(F)cccc5[nH]c34)c(C)c2)cc1OC,True
+Acridone-4-carboxamide 69,COc1cc(OCCCN(C)Cc2ccc(OC)c(OC)c2)ccc1NC(=O)c1cccc2c(=O)c3c(F)cccc3[nH]c12,True
+Acridone-4-carboxamide 73,COc1ccc(CN(C)CCc2ccc(NC(=O)c3cccc4c(=O)c5c(C)cccc5[nH]c34)c(C)c2)cc1OC,True
+Amlodipine,CCOC(=O)C1=C(COCCN)NC(C)=C(C(=O)OC)C1c1ccccc1Cl,True
+B669,c1ccc(Nc2cc3nc4ccccc4n(-c4ccccc4)c-3cc2=NC2CCCCC2)cc1,True
+Bunaftine,CCCCN(CCN(CC)CC)C(=O)c1cccc2ccccc12,True
+Buspirone,O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1,True
+CP-114416,COc1ccc(CCNc2nc(N3CCc4cc(OC)c(OC)cc4C3)c3cc(N(C)C)ccc3n2)cc1OC,True
+CP-147478,O=C(C(Cc1ccccc1)Cc1ccccc1)N1CCN(CC(O)Oc2cccc3ncccc23)CC1,True
+Clothiapine,CN1CCN(C2=Nc3ccccc3Sc3ccc(Cl)cc32)CC1,True
+Cyclobenzaprine,CN(C)CCC=C1c2ccccc2C=Cc2ccccc21,True
+Cyclopeptolide(7),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CCOC(C)=O)C(=O)N1C,True
+Cyclopeptolide(8),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC=CC(=O)OC(C)(C)C)C(=O)N1C,True
+Desethylamiodarone,CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCNCC)c(I)c1,True
+Dexniguldipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCCN2CCC(c3ccccc3)(c3ccccc3)CC2)C1Cc1cccc([N+](=O)[O-])c1,True
+Dihydropyridine DP11,CC1=C(C(=O)c2ccccc2)C(c2ccccc2)C(C(=O)c2ccccc2)=C(C)N1,True
+Dihydropyrroloquinoline series 27,O=C(CN1CCCCC1)Nc1c2c(nc3ccccc13)N(Cc1ccccc1)CC2,True
+Ergocryptine,CC(C)CC1C(=O)N2CCCC2C2(O)OC(NC(=O)C3C=C4c5cccc6[nH]cc(c56)CC4N(C)C3)(C(C)C)C(=O)N12,True
+Euphodendroidin A,C=C1C(OC(=O)c2ccccc2)C(OC(C)=O)C(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(O)CC(C)(OC(C)=O)C(O)C2C1OC(=O)C(C)C,True
+Euprocin,CCC1CN2CCC1CC2C(O)c1ccnc2ccc(OCCC(C)C)cc12,True
+Flunarizine,Fc1ccc(C(c2ccc(F)cc2)N2CCN(CC=Cc3ccccc3)CC2)cc1,True
+Jatrophane diterpenoid(14),C=C1C(OC(C)=O)C(O)C(OC(=O)c2cccnc2)C(C)(C)C=CC(C)C(OC(C)=O)C2(O)CC(C)(OC(C)=O)C(OC(=O)c3ccccc3)C2C1OC(C)=O,True
+Jatrophane diterpenoid(2),CC(=O)OC1C(OC(C)=O)C(C)(C)C=CC(C)C(=O)C2(OC(C)=O)CC(C)(O)C(OC(=O)c3ccccc3)C2=CC(C)(OC(C)=O)C1OC(C)=O,True
+"5-[Decyl(methyl)amino]-2-isopropyl-2-(2,3,4-trimethoxyphenyl)pentanenitrile",CCCCCCCCCCN(C)CCCC(C#N)(c1ccc(OC)c(OC)c1OC)C(C)C,True
+Lorcainide,CC(C)N1CCC(N(C(=O)Cc2ccccc2)c2ccc(Cl)cc2)CC1,True
+"5-[(9-Anthrylmethyl)amino]-2-(3,4-dimethoxyphenyl)-2-isopropylpentanenitrile",COc1ccc(C(C#N)(CCCNCc2c3ccccc3cc3ccccc23)C(C)C)cc1OC,True
+Medroxyprogesterone,CC(=O)C1(O)CCC2C3CC(C)C4=CC(=O)CCC4(C)C3CCC21C,True
+Mefloquine,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,True
+Milenperone,O=C(c1ccc(F)cc1)C1CCN(CCCn2c(=O)[nH]c3cc(Cl)ccc32)CC1,True
+"N-acyloxy-1,4-dihydropyridine(6)",COc1ccccc1C1C=CN(C(=O)Oc2ccccc2)C=C1C(C)=O,True
+"8-[2-(1,3-Dioxolan-2-yl)-2-(4-fluorophenyl)propyl]-3-isobutyl-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one",CC(C)CN1CN(c2ccccc2)C2(CCN(CC(C)(c3ccc(F)cc3)C3OCCO3)CC2)C1=O,True
+Nicergoline,COC12CC(COC(=O)c3cncc(Br)c3)CN(C)C1Cc1cn(C)c3cccc2c13,True
+Nobiletin,COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)c(OC)c3o2)cc1OC,True
+"N-(3-bromophenyl)-6,7-dimethoxyquinazolin-4-amine",COc1cc2ncnc(Nc3cccc(Br)c3)c2cc1OC,True
+Opromazine,CN(C)CCCN1c2ccccc2S(=O)c2ccc(Cl)cc21,True
+Perlapine,CN1CCN(C2=Nc3ccccc3Cc3ccccc32)CC1,True
+"N,N-Diethyl-3-(10H-phenoxazin-10-yl)-1-propanamine",CCN(CC)CCCN1c2ccccc2Oc2ccccc21,True
+(1R)-1-(2-{(2R)-3-[4-(4-Fluorophenyl)-1-piperazinyl]-2-hydroxypropoxy}phenyl)-3-phenyl-1-propanol,OC(COc1ccccc1C(O)CCc1ccccc1)CN1CCN(c2ccc(F)cc2)CC1,True
+(1R)-1-{2-[(2R)-3-(Diisopropylamino)-2-hydroxypropoxy]phenyl}-3-phenyl-1-propanol,CC(C)N(CC(O)COc1ccccc1C(O)CCc1ccccc1)C(C)C,True
+1-{2-[(2R)-3-(4-Benzyl-1-piperazinyl)-2-hydroxypropoxy]phenyl}-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1ccccc1OCC(O)CN1CCN(Cc2ccccc2)CC1,True
+1-(2-{(2R)-3-[4-(4-Fluorophenyl)-1-piperazinyl]-2-hydroxypropoxy}phenyl)-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1ccccc1OCC(O)CN1CCN(c2ccc(F)cc2)CC1,True
+1-{2-[(2R)-2-Hydroxy-3-{[4-(trifluoromethyl)phenyl]amino}propoxy]phenyl}-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1ccccc1OCC(O)CNc1ccc(C(F)(F)F)cc1,True
+1-(2-{(2R)-2-Hydroxy-3-[(4-nitrophenyl)amino]propoxy}phenyl)-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1ccccc1OCC(O)CNc1ccc([N+](=O)[O-])cc1,True
+1-{2-[(2R)-2-Hydroxy-3-(4-hydroxy-4-phenyl-1-piperidinyl)propoxy]phenyl}-1-propanone,CCC(=O)c1ccccc1OCC(O)CN1CCC(O)(c2ccccc2)CC1,True
+1-{2-[(2R)-2-Hydroxy-3-(4-morpholinyl)propoxy]phenyl}-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1ccccc1OCC(O)CN1CCOCC1,True
+1-{5-(Benzyloxy)-2-[(2R)-2-hydroxy-3-(1-piperidinyl)propoxy]phenyl}-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1cc(OCc2ccccc2)ccc1OCC(O)CN1CCCCC1,True
+RE-244,CC(O)CN(CCO)c1nc(N2CCOCC2C)nc2nc(N3CCOCC3C)c(-c3ccccc3)nc12,True
+Rilapine,CN1CCC(C2=Nc3cc(Cl)ccc3C(CC#N)c3ccccc32)CC1,True
+Ro-04-2250,COc1ccc(CCC2c3cc(OC)c(OC)cc3CCN2C)cc1,True
+S79 0671,COc1ccccc1-c1nc(N2CCN(CCCC(=O)c3ccc(F)cc3)CC2)cc2ccccc12,True
+S81 0337,Cc1cc2cc(N3CCN(CCCC(=O)c4ccc(Cl)cc4)CC3)ccc2cn1,True
+2-(4-{2-[(2-phenylbutanoyl)oxy]ethyl}piperazin-1-yl)ethyl 4-pentylbenzoate,CCCCOc1ccc(C(=O)OCCN2CCN(CCOC(=O)C(CC)c3ccccc3)CC2)cc1,True
+SPS 1772,CCC(C(=O)OCCN1CCN(C(=O)c2cc(OC)c(OC)c(OC)c2)CC1)c1ccccc1,True
+SPS 1793,CCC(C(=O)OCCN1CCN(C(=O)C(CC)c2ccccc2Cl)CC1)c1ccccc1Cl,True
+SPS 1842,CCC(C(=O)NCCN1CCN(CCNC(=O)C(CC)c2ccccc2)CC1)c1ccccc1,True
+SZ48,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(F)cc2)C(C)C)cc1OC,True
+Sesquiterpene(11),CC(=O)OCC12C(OC(C)=O)C(OC(C)=O)CC(C)(O)C13OC(C)(C)C(C(OC(=O)c1ccccc1)C2OC(=O)c1ccccc1)C3OC(C)=O,True
+Simetride,CCCc1ccc(OCC(=O)N2CCN(C(=O)COc3ccc(CCC)cc3OC)CC2)c(OC)c1,True
+Spirilene,CC(=CCCN1CCC2(CC1)C(=O)NCN2c1ccccc1)c1ccc(F)cc1,True
+Tamoxifen,CCC(=C(c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,True
+Terconazole,CC(C)N1CCN(c2ccc(OCC3COC(Cn4cncn4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,True
+Tilozepine,CN1CCC(C2=Nc3cc(Cl)ccc3Cc3sccc32)CC1,True
+"N,N'-Diallyl-6-(4-{allyl[bis(4-fluorophenyl)methyl]amino}-1-piperidinyl)-1,3,5-triazine-2,4-diamine",C=CCNc1nc(NCC=C)nc(N2CCC(N(CC=C)C(c3ccc(F)cc3)c3ccc(F)cc3)CC2)n1,True
+"N-Allyl-6-(4-{[bis(4-fluorophenyl)methyl]amino}-1-piperidinyl)-N'-propyl-1,3,5-triazine-2,4-diamine",C=CCNc1nc(NCCC)nc(N2CCC(NC(c3ccc(F)cc3)c3ccc(F)cc3)CC2)n1,True
+UCB-N101,NC(=O)COCCOCCN1CCC(=C(c2ccccc2)c2ccccc2)CC1,True
+Verapamil analogue(19),COc1ccc(C(C#N)(CCCNC2c3ccccc3CCc3ccccc32)c2ccccc2)cc1OC,True
+XR9051,COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3cccc(C=c4[nH]c(=O)c(=Cc5ccccc5)n(C)c4=O)c3)cc1)CC2,True
+Zipeprol,COC(CN1CCN(CC(O)C(OC)c2ccccc2)CC1)c1ccccc1,True
+5-N-acetylardeemin,C=CC(C)(C)C12CC3c4nc5ccccc5c(=O)n4C(C)C(=O)N3C1N(C(C)=O)c1ccccc12,True
+Oxatomide,O=c1[nH]c2ccccc2n1CCCN1CCN(C(c2ccccc2)c2ccccc2)CC1,True
+Lobeline,CN1C(CC(=O)c2ccccc2)CCCC1CC(O)c1ccccc1,True
+"1-{[4,6-Bis(allylamino)-1,3,5-triazin-2-yl]amino}-3-[4-(10,11-dihydro-5H-dibenzo[a,d][7]annulen-5-yl)-1-piperazinyl]-2-propanol",C=CCNc1nc(NCC=C)nc(NCC(O)CN2CCN(C3c4ccccc4CCc4ccccc43)CC2)n1,True
+Rythmol,CC(C)(c1ccccc1)c1cc(CN2CCCCC2)c(O)c(CN2CCCCC2)c1,True
+CP-141938,COc1ccc(N(C)S(C)(=O)=O)cc1CNC1CCCNC1c1ccccc1,True
+MDR reversal agent 15h,COc1ccc(C(C#N)(CCCCCN2CCc3cc(OC)c(OC)cc3C2)Sc2ccc(C)cc2)cc1OC,True
+Aceprometazine,CC(=O)c1ccc2c(c1)N(C(C)CN(C)C)c1ccccc1S2,True
+Acetophenazine,CC(=O)c1ccc2c(c1)N(CCCN1CCN(CCO)CC1)c1ccccc1S2,True
+NSC 676605,COc1ccc(C2C(C(C)=O)=C(c3ccccc3)N(C3OC(COC(C)=O)C(OC(C)=O)C(OC(C)=O)C3OC(C)=O)C(=S)C2C#N)cc1,True
+Purine analog ID 5,C=CCNc1nc(N2CCC(NCC(c3ccccc3)c3ccccc3)CC2)nc2c1ncn2CC=C,True
+Purine analog ID 24,C=CCNc1nc(N2CCC(NCC3c4ccccc4CCc4ccccc43)CC2)nc2c1ncn2CCC,True
+Ropizine,Cc1cccc(C=NN2CCN(C(c3ccccc3)c3ccccc3)CC2)n1,True
+Triazine derivative ID 35,C=CCNc1nc(NCCC)nc(N2CCC(NCC3c4ccccc4CCc4ccccc43)CC2)n1,True
+"3,5,7-Trihydroxy-3',4',5'-trimethoxyflavone",COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2O)cc(OC)c1OC,True
+"3,7-Dihydroxy-3',4'-dimethoxyflavone",COc1ccc(-c2oc3cc(O)ccc3c(=O)c2O)cc1OC,True
+"3',4'-Dimethoxyflavone",COc1ccc(-c2cc(=O)c3ccccc3o2)cc1OC,True
+Norverapamil,COc1ccc(CCNCCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,True
+Desethylamodiaquine,CCNCc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,True
+Rescinnamine,COC(=O)C1C2CC3c4[nH]c5cc(OC)ccc5c4CCN3CC2CC(OC(=O)C=Cc2cc(OC)c(OC)c(OC)c2)C1OC,True
+Cannabidiol,C=C(C)C1CCC(C)=CC1c1c(O)cc(CCCCC)cc1O,True
+LY335981,OC(COc1cccc2ncccc12)CN1CCN(C2c3ccccc3C3C(c4ccccc42)C3(F)F)CC1,True
+Cefotaxime,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(C)=O)CSC12)c1csc(N)n1,True
+Homoclomin,CN1CCCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,True
+Isoconazole,Clc1ccc(C(Cn2ccnc2)OCc2c(Cl)cccc2Cl)c(Cl)c1,True
+Verapamil,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,True
+JTV 519,COc1ccc2c(c1)CN(C(=O)CCN1CCC(Cc3ccccc3)CC1)CCS2,True
+"(2R,3R)-3,5-dihydroxy-2-[(2R,3S)-3-(4-hydroxy-3-methoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-7-phenylmethoxy-2,3-dihydrochromen-4-one",COc1cc(C2Oc3cc(C4Oc5cc(OCc6ccccc6)cc(O)c5C(=O)C4O)ccc3OC2CO)ccc1O,True
+"2-[(2R,3S)-3-(3,4-dimethoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-3,5,7-trihydroxychromen-4-one",COc1ccc(C2Oc3cc(-c4oc5cc(O)cc(O)c5c(=O)c4O)ccc3OC2CO)cc1OC,True
+"(5,7-dihydroxy-4-oxo-2-phenylchromen-6-yl)acetate",CC(=O)Oc1c(O)cc2oc(-c3ccccc3)cc(=O)c2c1O,True
+"9-methoxy-6-phenyl-[1,3]dioxolo[4,5-g]chromen-8-one",COc1c2c(cc3oc(-c4ccccc4)cc(=O)c13)OCO2,True
+"5-hydroxy-6,7-dioctoxy-2-phenylchromen-4-one",CCCCCCCCOc1cc2oc(-c3ccccc3)cc(=O)c2c(O)c1OCCCCCCCC,True
+"(5,7-dimethoxy-4-oxo-2-phenylchromen-6-yl)acetate",COc1cc2oc(-c3ccccc3)cc(=O)c2c(OC)c1OC(C)=O,True
+(5-hydroxy-4-oxo-2-phenyl-6-phenylmethoxychromen-7-yl)acetate,CC(=O)Oc1cc2oc(-c3ccccc3)cc(=O)c2c(O)c1OCc1ccccc1,True
+"6-amino-4-[4-(dimethylamino)phenyl]-3-(4-methylphenyl)-4H-pyrano[2,3-c]pyrazole-5-carbonitrile",Cc1ccc(-c2n[nH]c3c2C(c2ccc(N(C)C)cc2)C(C#N)=C(N)O3)cc1,True
+(2R)-4-[(2S)-2-hydroxy-3-piperidin-1-ylpropoxy]-3-methylidene-2-phenylinden-1-one,C=C1c2c(OCC(O)CN3CCCCC3)cccc2C(=O)C1c1ccccc1,True
+1-[3-[(2S)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]phenyl]ethanone,CC(=O)c1cccc(OCC(O)CN2CCN(c3ccccc3C)CC2)c1,True
+"1-[3-[(2R)-3-(3,3-diphenylpropylamino)-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one",O=C(CCc1ccccc1)c1cccc(OCC(O)CNCCC(c2ccccc2)c2ccccc2)c1,True
+1-[2-[(2R)-2-hydroxy-3-piperidin-1-ylpropoxy]phenyl]propan-1-one,CCC(=O)c1ccccc1OCC(O)CN1CCCCC1,True
+1-[4-[(2R)-2-hydroxy-3-piperidin-1-ylpropoxy]phenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1ccc(OCC(O)CN2CCCCC2)cc1,True
+1-[2-[(2S)-3-(4-benzylpiperidin-1-yl)-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1ccccc1OCC(O)CN1CCC(Cc2ccccc2)CC1,True
+"1-[2-[(2R)-3-(4,4-diphenylbutylamino)-2-hydroxypropoxy]phenyl]-3-phenylpropan-1-one",O=C(CCc1ccccc1)c1ccccc1OCC(O)CNCCCC(c1ccccc1)c1ccccc1,True
+3-(4-chlorophenyl)-1-[2-[(2S)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]phenyl]propan-1-one,Cc1ccccc1N1CCN(CC(O)COc2ccccc2C(=O)CCc2ccc(Cl)cc2)CC1,True
+1-[5-chloro-2-[(2S)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]phenyl]-3-phenylpropan-1-one,Cc1ccccc1N1CCN(CC(O)COc2ccc(Cl)cc2C(=O)CCc2ccccc2)CC1,True
+1-[2-[(3R)-3-hydroxy-4-[4-(2-methylphenyl)piperazin-1-yl]butoxy]-5-methoxyphenyl]-3-phenylpropan-1-one,COc1ccc(OCCC(O)CN2CCN(c3ccccc3C)CC2)c(C(=O)CCc2ccccc2)c1,True
+"(4S,6S,9R,15S,17S,20S)-6,10,10,17-tetramethyl-11,22-dioxapentacyclo[12.8.0.0³,¹².0⁴,⁹.0¹⁵,²⁰]docosa-1(14),3(12)-diene-2,13-dione",CC1CCC2COC3=C(C(=O)C4=C(C3=O)C3CC(C)CCC3C(C)(C)O4)C2C1,True
+1-(2-methoxyphenyl)-4-[4-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]butyl]piperazine,COc1cccc(CCc2ccccc2OCCCCN2CCN(c3ccccc3OC)CC2)c1,True
+1-(4-fluorophenyl)-4-[5-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]pentyl]piperazine,COc1cccc(CCc2ccccc2OCCCCCN2CCN(c3ccc(F)cc3)CC2)c1,True
+2-[4-[5-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]pentyl]piperazin-1-yl]pyrimidine,COc1cccc(CCc2ccccc2OCCCCCN2CCN(c3ncccn3)CC2)c1,True
+"(2R)-2-[5-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]pentyl]-3,4-dihydro-1H-isoquinoline",COc1cccc(CCc2ccccc2OCCCCCN2CCc3ccccc3C2)c1,True
+"[(1S,2R,4R,5R,6S,7R,8S,10S,11S,12R)-3,9-dibenzyl-5-(hydroxymethyl)-6,12-diphenyl-3,9-diazapentacyclo[6.4.0.0²,⁷.0⁴,¹¹.0⁵,¹⁰]dodecan-1-yl]methanol",OCC12C(c3ccccc3)C3C4N(Cc5ccccc5)C1C1C(c5ccccc5)C4(CO)C3N(Cc3ccccc3)C12,True
+Metergoline,CN1CC(CNC(=O)OCc2ccccc2)CC2c3cccc4c3c(cn4C)CC21,True
+Oxymetazoline,Cc1cc(C(C)(C)C)c(O)c(C)c1CC1=NCCN1,True
+1-[2-[(2S)-2-hydroxy-3-piperidin-1-ylpropoxy]-5-phenoxyphenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1cc(Oc2ccccc2)ccc1OCC(O)CN1CCCCC1,True
+"(2R)-6,7-dimethoxy-2-[5-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]pentyl]-3,4-dihydro-1H-isoquinoline",COc1cccc(CCc2ccccc2OCCCCCN2CCc3cc(OC)c(OC)cc3C2)c1,True
+"N-[2-[[4-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]naphthalene-1-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3cccc4ccccc34)cc1)CC2,True
+"2-[(4-benzylbenzoyl)amino]-N-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1ccccc1NC(=O)c1ccc(Cc3ccccc3)cc1)CC2,True
+"N-[2-[[4-[2-[2-(3,4-dimethoxyphenyl)ethyl-methylamino]ethyl]phenyl]carbamoyl]phenyl]quinoline-3-carboxamide",COc1ccc(CCN(C)CCc2ccc(NC(=O)c3ccccc3NC(=O)c3cnc4ccccc4c3)cc2)cc1OC,True
+"4-[4-(2-Oxo-2-phenylethyl)piperazin-1-yl]-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CC(=O)c5ccccc5)CC4)ncnc13)CCCC2,True
+"4-{4-[2-(3,4-Difluorophenyl)ethyl]piperazin-1-yl}-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CCc5ccc(F)c(F)c5)CC4)ncnc13)CCCC2,True
+"4-[4-[2-(3,4-difluorophenyl)ethyl]piperazin-1-yl]-2-(2-methylphenyl)-6,7,8,9-tetrahydropyrimido[4,5-b]indolizin-5-ium-1-ide-10-carbonitrile",Cc1ccccc1-c1nc(N2CCN(CCc3ccc(F)c(F)c3)CC2)c2c(n1)c(C#N)c1n2CCCC1,True
+"9-(5-Methyl[1,2,4]oxadiazol-3-yl)-4-(4-phenethylpiperazin-1-yl)-5,6,7,8-tetrahydro-1,3,4b-triazafluorene",COc1cccc(CNC(=O)c2c3n(c4c(N5CCN(CCc6ccc(F)c(F)c6)CC5)ncnc24)CCCC3)c1OC,True
+(1R)-1-[2-[(2S)-2-hydroxy-3-morpholin-4-ylpropoxy]phenyl]-3-phenylpropan-1-ol,OC(COc1ccccc1C(O)CCc1ccccc1)CN1CCOCC1,True
+(2S)-1-[4-(4-fluorophenyl)piperazin-1-yl]-3-[2-[(1S)-1-methoxy-3-phenylpropyl]phenoxy]propan-2-ol,COC(CCc1ccccc1)c1ccccc1OCC(O)CN1CCN(c2ccc(F)cc2)CC1,True
+(2S)-1-[di(propan-2-yl)amino]-3-[2-[(1S)-1-methoxy-3-phenylpropyl]phenoxy]propan-2-ol,COC(CCc1ccccc1)c1ccccc1OCC(O)CN(C(C)C)C(C)C,True
+1-[2-[(2R)-3-(4-benzylpiperazin-1-yl)-2-hydroxypropoxy]-5-phenylmethoxyphenyl]-3-phenylpropan-1-one,O=C(CCc1ccccc1)c1cc(OCc2ccccc2)ccc1OCC(O)CN1CCN(Cc2ccccc2)CC1,True
+"1-[(2S)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propyl]-5-methyl-2-phenyl-4-(3-phenylpropanoyl)pyrazole-1,2-diium-3-one",Cc1ccccc1N1CCN(CC(O)Cn2c(C)c(C(=O)CCc3ccccc3)c(=O)n2-c2ccccc2)CC1,True
+"(2S,5R,6R,11S)-5-benzyl-6-(methoxymethoxy)-4,11-dimethyl-2-propan-2-yl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",COCOC1CC(=O)OCC(C)C(=O)OC(C(C)C)C(=O)N(C)C1Cc1ccccc1,True
+"(2S,5S,6R,10R,11S)-5-benzyl-6-hydroxy-4,10,11-trimethyl-2-propan-2-yl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCC1OC(=O)CC(O)C(Cc2ccccc2)N(C)C(=O)COC(=O)C1C,True
+"(2S,5S,6R,10S,11R)-5-benzyl-10-heptyl-6-hydroxy-4,11-dimethyl-2-propan-2-yl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCCCCC1OC(=O)CC(O)C(Cc2ccccc2)N(C)C(=O)C(C(C)C)OC(=O)C1C,True
+"[(2S)-1-methoxy-3-methyl-1-oxobutan-2-yl](2S,3R)-3-hydroxy-2-methyldecanoate",CCCCCCCC(O)C(C)C(=O)OC(C(=O)OC)C(C)C,True
+4-methoxy-10-(4-morpholin-4-ylbutyl)acridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3n(CCCCN3CCOCC3)c12,True
+10-[4-[bis(2-hydroxyethyl)amino]butyl]-4-methoxyacridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3n(CCCCN(CCO)CCO)c12,True
+10-[4-[4-(2-hydroxyethyl)piperazin-1-yl]butyl]-4-methoxyacridin-10-ium-9-one,COc1cccc2c(=O)c3ccccc3n(CCCCN3CCN(CCO)CC3)c12,True
+10-(3-morpholin-4-ylpropyl)acridin-10-ium-9-one,O=c1c2ccccc2n(CCCN2CCOCC2)c2ccccc12,True
+"4-{5-[4-(dimethylamino)phenyl]-2-{4-[3-(2-methoxyethoxy)prop-1-en-1-yl]phenyl}imidazol-4-yl}-N,N-dimethylaniline",COCCOCC=Cc1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"4-{5-[4-(dimethylamino)phenyl]-2-[4-(3-phenoxyprop-1-en-1-yl)phenyl]imidazol-4-yl}-N,N-dimethylaniline",CN(C)c1ccc(-c2nc(-c3ccc(C=CCOc4ccccc4)cc3)[nH]c2-c2ccc(N(C)C)cc2)cc1,True
+"4-[5-(4-dimethylaminophenyl)-2-[4-[(E)-3-(dimethylamino)prop-1-enyl]phenyl]imidazol-3-ium-1-id-4-yl]-N,N-dimethylaniline",CN(C)CC=Cc1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"methyl 4-{4,5-bis[4-(dimethylamino)phenyl]-1-hexyl-1H-imidazol-2-yl}benzoate",CCCCCCn1c(-c2ccc(C(=O)OC)cc2)nc(-c2ccc(N(C)C)cc2)c1-c1ccc(N(C)C)cc1,True
+methyl 3-{4-[4-(4-aminophenyl)-5-[4-(diethylamino)phenyl]imidazol-2-yl]phenyl}prop-2-enoate,CCN(CC)c1ccc(-c2nc(-c3ccc(C=CC(=O)OC)cc3)[nH]c2-c2ccc(N)cc2)cc1,True
+methyl 3-(4-{4-[4-(methylamino)phenyl]-5-[4-(propan-2-ylamino)phenyl]imidazol-2-yl}phenyl)prop-2-enoate,CNc1ccc(-c2[nH]c(-c3ccc(C=CC(=O)OC)cc3)nc2-c2ccc(NC(C)C)cc2)cc1,True
+"4-{2-[4-(3-ethoxyprop-1-en-1-yl)phenyl]imidazol-4-yl}-N,N-dipropylaniline",CCCN(CCC)c1ccc(-c2cnc(-c3ccc(C=CCOCC)cc3)[nH]2)cc1,True
+"2-amino-N-[4-[2-[(2R)-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]benzamide",Nc1ccccc1C(=O)Nc1ccc(CCN2CCc3ccccc3C2)cc1,True
+"N-[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]naphthalene-2-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccc4ccccc4c3)cc1)CC2,True
+"N-[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]quinoline-6-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccc4ncccc4c3)cc1)CC2,True
+"1,2,3,4-Tetrahydro-isoquinoline",c1ccc2c(c1)CCNC2,False
+1-Benzyl-3-pyrroline,C1=CCN(Cc2ccccc2)C1,False
+5-(N-Methyl-N-isobutyl)amiloride,CC(C)CN(C)c1nc(N)c(C(=O)NC(=N)N)nc1Cl,False
+5-[N-Methyl-N-(tert-butyl)]-amiloride,CN(c1nc(N)c(C(=O)NC(=N)N)nc1Cl)C(C)(C)C,False
+Ambodryl,CN(C)CCOC(c1ccc(Br)cc1)C1CCCC1,False
+Aminopentamide,CC(CC(C(N)=O)(c1ccccc1)c1ccccc1)N(C)C,False
+Butethamate,CCC(C(=O)OCCN(CC)CC)c1ccccc1,False
+Carbaryl,CNC(=O)Oc1cccc2ccccc12,False
+Carvedilol metabolite M4,COc1cc(O)ccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,False
+Citenamide,NC(=O)C1c2ccccc2C=Cc2ccccc21,False
+Coralyne,COc1cc2cc3c4cc(OC)c(OC)cc4cc[n+]3c(C)c2cc1OC,False
+Cyclopeptolide(1),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)O)C(=O)N1C,False
+Cytochalasin D,C=C1C(C)C2C(Cc3ccccc3)NC(=O)C23C(OC(C)=O)C=CC(C)(O)C(=O)C(C)CC=CC3C1O,False
+Demethylchlorpromazine,CNCCCN1c2ccccc2Sc2ccc(Cl)cc21,False
+Drofenine,CCN(CC)CCOC(=O)C(c1ccccc1)C1CCCCC1,False
+Droloxifen,CCC(=C(c1ccc(OCCN(C)C)cc1)c1cccc(O)c1)c1ccccc1,False
+Flavonoid ID 24,COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1OCC(=O)N1CCN(Cc2ccc(OC)c(OC)c2OC)CC1,False
+Gepirone,CC1(C)CC(=O)N(CCCCN2CCN(c3ncccn3)CC2)C(=O)C1,False
+Histapyrrodine,c1ccc(CN(CCN2CCCC2)c2ccccc2)cc1,False
+Hydrocotarnine,COc1c2c(cc3c1OCO3)CCN(C)C2,False
+Nomifensine,CN1Cc2c(N)cccc2C(c2ccccc2)C1,False
+Palmitoylcartinine,CCCCCCCCCCCCCCCC(=O)OC(CC(=O)O)C[N+](C)(C)C,False
+Phenethylamine,NCCc1ccccc1,False
+Piperamide,CC(=O)Nc1ccc(N2CCN(CCCN(C)C)CC2)cc1,False
+Pramiverin,CC(C)NC1CCC(c2ccccc2)(c2ccccc2)CC1,False
+Prenoverine,CC(COc1ccccc1)N(C)CCOC(c1ccccc1)c1ccccc1,False
+Propafenone derivative GP03,CC[N+](C)(CC)CC(O)COc1ccccc1C(=O)CCc1ccccc1,False
+Propafenone derivative GP17,CC(=O)c1ccccc1OCC(O)CN1CCCCC1,False
+Propantheline,CC(C)[N+](C)(CCOC(=O)C1c2ccccc2Oc2ccccc21)C(C)C,False
+Propiconazole,CCCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,False
+RA-83,c1nc(N2CCOCC2)c2ncnc(N3CCOCC3)c2n1,False
+RXRE-62,Clc1nc2c(N3CCOCC3)nc(N3CCNCC3)nc2nc1N1CCOCC1,False
+SPS 1836,O=C(Cc1ccccc1)OCCN1CCN(CCOC(=O)Cc2ccccc2)CC1,False
+Trimazosin,COc1cc2c(N)nc(N3CCN(C(=O)OCC(C)(C)O)CC3)nc2c(OC)c1OC,False
+Zolmitriptan,CN(C)CCc1c[nH]c2ccc(CC3COC(=O)N3)cc12,False
+Pipemidic Acid,CCn1cc(C(=O)O)c(=O)c2cnc(N3CCNCC3)nc21,False
+Carnitine,C[N+](C)(C)CC(O)CC(=O)O,False
+Methysergide,CCC(CO)NC(=O)C1C=C2c3cccc4c3c(cn4C)CC2N(C)C1,False
+RA-198,C[N+]1(C)CCN(c2nc(N3CCCCC3)c3nc(N(CCO)CCO)nc(N4CCCCC4)c3n2)CC1,False
+"2,4,6,8-Tetradiethano",OCCN(CCO)c1nc(N(CCO)CCO)c2nc(N(CCO)CCO)nc(N(CCO)CCO)c2n1,False
+Opipramol,OCCN1CCN(CCCN2c3ccccc3C=Cc3ccccc32)CC1,False
+Dobutamine,CC(CCc1ccc(O)cc1)NCCc1ccc(O)c(O)c1,False
+Deltorphin II,CC(NC(=O)C(N)Cc1ccc(O)cc1)C(=O)NC(Cc1ccccc1)C(=O)NC(CCC(=O)O)C(=O)NC(C(=O)NC(C(=O)NCC(N)=O)C(C)C)C(C)C,False
+Aldicarb,CC(C)(C)NCC(O)c1ccc(O)c(CO)c1,False
+W-12,NCCCCNS(=O)(=O)c1ccc2ccccc2c1,False
+Xenthiorate,CCC(C(=O)SCCN(CC)CC)c1ccc(-c2ccccc2)cc1,False
+Phosmet,COP(=S)(OC)SCN1C(=O)c2ccccc2C1=O,False
+Methdilazine,CN1CCC(CN2c3ccccc3Sc3ccccc32)C1,False
+Tri-n-butylmethylamminiun,CCCC[N+](C)(CCCC)CCCC,False
+NSC 359449,CCN(CC)CC[n+]1ccc2c(C)c3[nH]c4ccccc4c3c(C)c2c1,False
+Tacrine,Nc1c2c(nc3ccccc13)CCCC2,False
+NK-101,CC1=C(C(=O)OCC(=O)O)C(c2cccs2)C(C(=O)OCC(=O)O)=C(C)N1,False
+Cyclophosphamide,O=P1(N(CCCl)CCCl)NCCCO1,False
+Colchicine,COc1cc2c(c(OC)c1OC)C1CCC(OC)C(=O)CC1C(NC(C)=O)CC2,False
+Lamotrigine,Nc1nnc(-c2cccc(Cl)c2Cl)c(N)n1,False
+Prednisone,CC12C=CC(=O)C=C1CCC1C2C(=O)CC2(C)C1CCC2(O)C(=O)CO,False
+Sulpiride,CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC,False
+Daidzein,O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12,False
+Ferulic acid,COc1cc(C=CC(=O)O)ccc1O,False
+Cetirizine,O=C(O)COCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,False
+Ascorbic acid,O=C1C(O)=C(O)OC1C(O)CO,False
+Azlocillin,CC1(C)SC2C(NC(=O)C(NC(=O)N3CCNC3=O)c3ccccc3)C(=O)N2C1C(=O)O,False
+Bergenin,COc1c(O)cc2c(c1O)C1OC(CO)C(O)C(O)C1OC2=O,False
+Betahistine,CNCCc1ccccn1,False
+Betaxol,CC(C)NCC(O)COc1ccc(CCOCC2CC2)cc1,False
+Bosulfan,CS(=O)(=O)OCCCCOS(C)(=O)=O,False
+Canadine,COc1ccc2c(c1OC)CN1CCc3cc4c(cc3C1C2)OCO4,False
+Carbenicillin,CC1(C)SC2C(NC(=O)C(C(=O)O)c3ccccc3)C(=O)N2C1C(=O)O,False
+Chlorogenic acid,O=C(C=Cc1ccc(O)c(O)c1)OC1CC(O)(C(=O)O)CC(O)C1O,False
+Chlorthalidone,NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl,False
+Cinoxacin,CCn1nc(C(=O)O)c(=O)c2cc3c(cc21)OCO3,False
+Citiolone,CC(=O)NC1CCSC1=O,False
+Deferoxamine,CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN,False
+Evoxine,COc1c2ccoc2nc2c(OC)c(OCC(O)C(C)(C)O)ccc12,False
+Fludrocortisone,CC12CCC(=O)C=C1CCC1C3CCC(O)(C(=O)CO)C3(C)CC(O)C12F,False
+Fluorometholone,CC(=O)C1(O)CCC2C3CC(C)C4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,False
+Gallamine,Cc1[nH]ccc2c1[nH]c1cc(=O)ccc12,False
+Isocorydine,COc1ccc2c(c1O)-c1c(OC)c(OC)cc3c1C(C2)N(C)CC3,False
+Isopropamide,CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ccccc1)C(C)C,False
+Isosorbide,O=[N+]([O-])OC1COC2C(O[N+](=O)[O-])COC12,False
+Kanamycin,NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)C(O)C(O)C1O,False
+Lycorine,OC1C=C2CCN3Cc4cc5c(cc4C(C1O)C23)OCO5,False
+Methapyrilene,CN(C)CCN(Cc1cccs1)c1ccccn1,False
+Methocarbamol,COc1ccccc1OCC(O)COC(N)=O,False
+Monocrotaline,CC1C(=O)OC2CCN3CC=C(COC(=O)C(C)(O)C1(C)O)C23,False
+Myricetin,O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12,False
+Naproxen,COc1ccc2cc(C(C)C(=O)O)ccc2c1,False
+Orphenadrine,Cc1ccccc1C(OCCN(C)C)c1ccccc1,False
+Phenacetin,CCOc1ccc(NC(C)=O)cc1,False
+Profenamine,CCN(CC)C(C)CN1c2ccccc2Sc2ccccc21,False
+Securinine,O=C1C=C2C=CC3CC2(O1)C1CCCCN31,False
+Succinylsulfathiazole,O=C(O)CCC(=O)Nc1ccc(S(=O)(=O)Nc2nccs2)cc1,False
+Sulfabenzamide,Nc1ccc(S(=O)(=O)NC(=O)c2ccccc2)cc1,False
+Thimerosal,O=C(O)c1ccccc1S,False
+Trimethadione,CN1C(=O)OC(C)(C)C1=O,False
+Ungerine,COC1C=C2CCN(C)C2C2c3cc4c(cc3C(=O)OC12)OCO4,False
+Thiopental,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O,False
+Resveratrol,Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1,False
+"1-[(2R)-2-hydroxy-3-(propylamino)propyl]-5-methyl-2-phenyl-4-(thiophene-2-carbonyl)pyrazole-1,2-diium-3-one",CCCNCC(O)Cn1c(C)c(C(=O)c2cccs2)c(=O)n1-c1ccccc1,False
+Cinepazic acid,COc1cc(C=CC(=O)N2CCN(CC(=O)O)CC2)cc(OC)c1OC,False
+Coralyne,COC1CC2CC3C4CC(OC)C(OC)CC4CCN3C(C)C2CC1OC,False
+"3-methoxy-N-[(3,4,5-trimethoxyphenyl)methyl]propan-1-amine",COCCCNCc1cc(OC)c(OC)c(OC)c1,False
+Tretoquinol,COc1cc(CC2NCCc3cc(O)c(O)cc32)cc(OC)c1OC,False
+"1,3,5-Triazacycloheptane 4c",O=C1NC(=S)N(Cc2ccc(Cl)cc2)CCN1Cc1ccc(Cl)cc1,True
+2-Chloro-10-[2-(dimethylamino)ethyl] phenothiazine,NCCN1c2ccccc2Sc2ccc(Cl)cc21,True
+4-hydroxytamoxifen,CCC(=C(c1ccc(O)cc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,True
+"4-beta-Phorbol 12,13-dibutyrate",CCCC(=O)OC1C(C)C2(O)C(C=C(CO)CC3(O)C(=O)C(C)=CC32)C2C(C)(C)C12OC(=O)CCC,True
+AY 9944,Clc1ccccc1CCNCC1CCC(CNc2ccccc2Cl)CC1,True
+Acridone-4-carboxamide 23,COc1ccc(CCN(C)CCOc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5oc34)cc2)cc1OC,True
+Acridone-4-carboxamide 32,COc1ccc(CCN(C)CCOc2ccc(NC(=O)c3cccn4c(=O)c5ccccc5nc34)cc2)cc1OC,True
+Acridone-4-carboxamide 50,COc1ccc(CN(C)CCCCc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 52,COc1ccc(CN(C)CCCOc2ccc(NC(=O)c3cccc4c(=O)c5ccccc5[nH]c34)cc2)cc1OC,True
+Acridone-4-carboxamide 59,COc1cc2c(cc1OC)CN(CCc1cccc(NC(=O)c3cccc4c(=O)c5c(OC)cccc5[nH]c34)c1)CC2,True
+Acridone-4-carboxamide 72,COc1cc(CCCN(C)Cc2ccc(OC)c(OC)c2)ccc1NC(=O)c1cccc2c(=O)c3c(F)cccc3[nH]c12,True
+Acridone-4-carboxamide 75,COc1cc(CCN(C)Cc2ccc(OC)c(OC)c2)ccc1NC(=O)c1cccc2c(=O)c3c(F)cccc3[nH]c12,True
+Acridone-4-carboxamide 85,COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3cccc4c(=O)c5cccc(F)c5[nH]c34)cc1)CC2,True
+Aldrich 21430-2,CN1Cc2ccccc2C12c1ccccc1CCc1ccccc12,True
+Androstenedione,CC12CCC3C(CC=C4CC(=O)CCC43C)C1CCC2=O,True
+Azelastine,CN1CCCC(n2nc(Cc3ccc(Cl)cc3)c3ccccc3c2=O)CC1,True
+B9109-012,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCCC[N+]2(C)CCC(c3ccccc3)(c3ccccc3)CC2)C1c1cccc([N+](=O)[O-])c1,True
+BW 1136U89,Cc1ccc(C(=CCN2CCCC2)c2cccc(C=CC(=O)OC(C)C)n2)cc1,True
+BW 1379W91,Cc1ccc(C(=CCN2CCCC2)c2cccc(C=CC(=O)N3CCOCC3)n2)cc1,True
+Clopenthixol,OCCN1CCN(CCC=C2c3ccccc3Sc3ccc(Cl)cc32)CC1,True
+Clopipazan,CN1CCC(=C2c3ccccc3Oc3ccc(Cl)cc32)CC1,True
+Coumaphos,CCOP(=S)(OCC)Oc1ccc2c(C)c(Cl)c(=O)oc2c1,True
+Cyclopeptolide(15a),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)OC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)OC(C)(C)C)C(=O)N1C,True
+Cyclopeptolide(18),CCC(C)C1C(=O)N(C)C(C(C)CC)C(=O)NCC(=O)N(C)C(C(C)C)C(=O)NC(Cc2ccc(OC)cc2)C(=O)NC(C)C(=O)N2CCCCC2C(=O)N(C)C(C(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(=O)OC(C)(C)C)C(=O)N1C,True
+Cypermethrin,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,True
+"2‐(2‐{[2‐(3,4‐dimethoxyphenyl)ethyl](methyl)amino}ethyl)‐2‐(4‐methoxyphenyl)‐3‐methylbutanenitrile",COc1ccc(C(C#N)(CCN(C)CCc2ccc(OC)c(OC)c2)C(C)C)cc1,True
+D784,COc1cc(CCN(C)CCCC(C#N)(c2cc(OC)cc(OC)c2)C(C)C)cc(OC)c1,True
+Dicapthon,COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1Cl,True
+Dihydropyridine DP9,CC1=C(C(=O)c2ccccc2)C(c2cccc(Cl)c2)C(C(=O)c2ccccc2)=C(C)N1,True
+Doconazole,Clc1ccc(C2(Cn3ccnc3)OCC(COc3ccc(-c4ccccc4)cc3)O2)c(Cl)c1,True
+Emopamil,CC(C)C(C#N)(CCCN(C)CCc1ccccc1)c1ccccc1,True
+Ergocristine,CC(C)C1(NC(=O)C2C=C3c4cccc5[nH]cc(c45)CC3N(C)C2)OC2(O)C3CCCN3C(=O)C(Cc3ccccc3)N2C1=O,True
+Euphodendroidin I,C=C1C(OC(C)=O)C(OC(C)=O)C(OC(=O)c2cccnc2)C(C)(C)C=CC(C)C(=O)C2(OC(C)=O)CC(C)(OC(=O)c3cccnc3)C(OC(C)=O)C2C1OC(=O)C(C)C,True
+Febuverine,CCC(C(=O)OCCN1CCN(CCOC(=O)C(CC)c2ccccc2)CC1)c1ccccc1,True
+Flavonoid ID 37,COc1ccc(C2CC(=O)c3c(OC(=O)C(C)(C)C)cc(OCC(=O)N4CCN(Cc5ccc(OC)c(OC)c5OC)CC4)cc3O2)cc1OC(=O)C(C)(C)C,True
+Fluperamide,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)c(C(F)(F)F)c2)CC1)(c1ccccc1)c1ccccc1,True
+Ginsenoside Rh2,CC(C)=CCCC(C)(O)C1CCC2(C)C1C(O)CC1C3(C)CCC(OC4OC(CO)C(O)C(O)C4O)C(C)(C)C3CCC12C,True
+Jatrophane diterpenoid(16),C=C1C(OC(=O)C(C)C)C(O)C(OC(C)=O)C(C)(C)C=CC(C)C(OC(C)=O)C2(O)CC(C)(OC(C)=O)C(OC(=O)c3ccccc3)C2C1OC(C)=O,True
+"5-{[2-(3,4-Dichlorophenyl)ethyl](methyl)amino}-2-(3,4-dimethoxyphenyl)-2-isopropylpentanenitrile",COc1ccc(C(C#N)(CCCN(C)CCc2ccc(Cl)c(Cl)c2)C(C)C)cc1OC,True
+Lenperone,O=C(CCCN1CCC(C(=O)c2ccc(F)cc2)CC1)c1ccc(F)cc1,True
+Lidoflazine,Cc1cccc(C)c1NC(=O)CN1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1,True
+"(2R)-3-{3-[4-(3-chlorophenyl)piperazin-1-yl]propyl}-2-methyl-5,5-diphenylimidazolidin-4-one",CC1NC(c2ccccc2)(c2ccccc2)C(=O)N1CCCN1CCN(c2cccc(Cl)c2)CC1,True
+"(2S)-2-methyl-5,5-diphenyl-3-[3-(4-phenylpiperidin-1-yl)propyl]imidazolidin-4-one",CC1NC(c2ccccc2)(c2ccccc2)C(=O)N1CCCN1CCC(c2ccccc2)CC1,True
+(2-{4-[(E)-2-(4-tert-butylphenyl)-1-phenylethenyl]phenoxy}ethyl)diethylamine,CCN(CC)CCOc1ccc(C(=Cc2ccc(C(C)(C)C)cc2)c2ccccc2)cc1,True
+Mebendazole,COC(=O)Nc1nc2cc(C(=O)c3ccccc3)ccc2[nH]1,True
+Mebeverine,CCN(CCCCOC(=O)c1ccc(OC)c(OC)c1)C(C)Cc1ccc(OC)cc1,True
+Metoserpate,COC(=O)C1C2CC3c4[nH]c5cc(OC)ccc5c4CCN3CC2CC(OC)C1OC,True
+Monensin,CCC1(C2OC(C3OC(O)(CO)C(C)CC3C)CC2C)CCC(C2(C)CCC3(CC(O)C(C)C(C(C)C(OC)C(C)C(=O)O)O3)O2)O1,True
+"N,N-Bis(alkanol)amine aryl ester analog 6",COc1cc(C=CC(=O)OCCCN(C)CCCOC(=O)C=C(c2ccccc2)c2ccccc2)cc(OC)c1OC,True
+"N-acyloxy-1,4-dihydropyridine(5)",CC(=O)C1=CN(C(=O)Oc2ccccc2)C=CC1c1ccc(C)cc1,True
+"2-(2-{N-[2-(2,4-dichlorophenyl)ethyl]-2-[(3-methylbutyl)amino]acetamido}-N-(3,3-diphenylpropyl)acetamido)acetamide",CC(C)CCNCC(=O)N(CCc1ccc(Cl)cc1Cl)CC(=O)N(CCC(c1ccccc1)c1ccccc1)CC(N)=O,True
+"5-Cyclopropyl-2-[4-(dimethylamino)cyclohexyl]-7-(2,6-dimethyl-4-pyridinyl)-6,8-difluoro-2,5-dihydro-3H-pyrazolo[4,3-c]quinolin-3-one",Cc1cc(-c2c(F)cc3c4nn(C5CCC(N(C)C)CC5)c(=O)c-4cn(C4CC4)c3c2F)cc(C)n1,True
+Naftopidil,COc1ccccc1N1CCN(CC(O)COc2cccc3ccccc23)CC1,True
+Nitromifene,COc1ccc(C(=C(c2ccccc2)[N+](=O)[O-])c2ccc(OCCN3CCCC3)cc2)cc1,True
+Norfluxetine,NCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,True
+Oxybutynin,CCN(CC)CC#CCOC(=O)C(O)(c1ccccc1)C1CCCCC1,True
+PGP-4008,O=C(Cc1ccccc1)Nc1c2c(nc3ccccc13)N(Cc1ccccc1)CC2,True
+"2-{N-[2-(2,4-dichlorophenyl)ethyl]-2-{N-[2-(2,4-dichlorophenyl)ethyl]-2-{[2-(4-fluorophenyl)ethyl]amino}acetamido}acetamido}acetamide",NC(=O)CN(CCc1ccc(Cl)cc1Cl)C(=O)CN(CCc1ccc(Cl)cc1Cl)C(=O)CNCCc1ccc(F)cc1,True
+Pimozide,O=c1[nH]c2ccccc2n1C1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1,True
+Predifine,CCN1CCC(=C(c2ccccc2)c2ccc(F)cc2)C1,True
+1-(4-{3-[4-(4-Fluorophenyl)-1-piperazinyl]-2-hydroxypropoxy}phenyl)-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1ccc(OCC(O)CN2CCN(c3ccc(F)cc3)CC2)cc1,True
+N-{(2R)-2-Hydroxy-3-[2-(3-phenylpropanoyl)phenoxy]propyl}-N-propylbenzamide,CCCN(CC(O)COc1ccccc1C(=O)CCc1ccccc1)C(=O)c1ccccc1,True
+1-{2-[(2R)-2-Hydroxy-3-(4-hydroxy-4-phenyl-1-piperidinyl)propoxy]phenyl}-3-phenyl-1-propanone,O=C(CCc1ccccc1)c1ccccc1OCC(O)CN1CCC(O)(c2ccccc2)CC1,True
+Propoxypjene,CCC(=O)OC(Cc1ccccc1)(c1ccccc1)C(C)CN(C)C,True
+R41300,CCOC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,True
+RE-62,OCCN(Cc1ccccc1)c1nc(N2CCOCC2)nc2nc(N3CCOCC3)c(-c3ccccc3)nc12,True
+RXRA-642,CCN(CC)c1nc(N(CCO)CCOC)nc2c(N(CC)CC)nc(N(CCO)CCOC)nc12,True
+RXRE-104,Clc1nc2c(nc1NCc1ccccc1)OC(N1CCNCC1)NC2N1CCSCC1,True
+Ro 4-1284,CCC1(C)CC2c3cc(OC)c(OC)cc3CCN2CC1CC(C)C,True
+SCH66336,CC(=O)C1CCC(CC(=O)N2CCC(C3c4ccc(Br)cc4Cc4cc(Cl)cc(Br)c43)CC2)CC1,True
+SPS 1778,CCC(C(=O)OCCN1CCN(CCOC(=O)C(CC)c2ccc(Cl)cc2)CC1)c1ccc(Cl)cc1,True
+SPS 1839,O=C(OCCN1CCN(CCOC(=O)C(c2ccccc2)c2ccccc2)CC1)C(c1ccccc1)c1ccccc1,True
+SPS 1853,Cc1cccc(C)c1NC(=O)CN1CCN(CCOC(=O)C(c2ccccc2)c2ccccc2)CC1,True
+SPS 1854,CC(C(=O)OCCN1CCN(CCOC(=O)C(C)(c2ccccc2)c2ccccc2)CC1)(c1ccccc1)c1ccccc1,True
+Sertraline,CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc21,True
+Sesquiterpene(8),CC(=O)OCC12C(OC(=O)c3ccccc3)C(=O)C3C(OC(C)=O)C1(OC3(C)C)C(C)(O)CC(OC(=O)c1ccccc1)C2OC(=O)c1ccccc1,True
+"5-{[2-(3,4-Dimethoxyphenyl)ethyl](methyl)amino}-2-isopropyl-2-[3-(trifluoromethyl)phenyl]pentanenitrile",COc1ccc(CCN(C)CCCC(C#N)(c2cccc(C(F)(F)F)c2)C(C)C)cc1OC,True
+Telithromycin,COC1(C)CC(C)C(=O)C(C)C2N(CCCCn3cnc(-c4cccnc4)c3)C(=O)OC2(C)C(C)CC(=O)C(C)C(=O)C(C)C1OC1OC(C)CC(N(C)C)C1O,True
+"N,N'-Diallyl-6-(4-{[bis(4-fluorophenyl)methyl]amino}-1-piperidinyl)-1,3,5-triazine-2,4-diamine",C=CCNc1nc(NCC=C)nc(N2CCC(NC(c3ccc(F)cc3)c3ccc(F)cc3)CC2)n1,True
+"N,N'-Diallyl-6-(4-{[bis(4-fluorophenyl)methyl](ethyl)amino}-1-piperidinyl)-1,3,5-triazine-2,4-diamine",C=CCNc1nc(NCC=C)nc(N2CCC(N(CC)C(c3ccc(F)cc3)c3ccc(F)cc3)CC2)n1,True
+"N,N'-Diallyl-6-{4-[(9H-xanthen-9-ylmethyl)amino]-1-piperidinyl}-1,3,5-triazine-2,4-diamine",C=CCNc1nc(NCC=C)nc(N2CCC(NCC3c4ccccc4Oc4ccccc43)CC2)n1,True
+Trifluperidol,O=C(CCCN1CCC(O)(c2cccc(C(F)(F)F)c2)CC1)c1ccc(F)cc1,True
+Trimebutine,CCC(COC(=O)c1cc(OC)c(OC)c(OC)c1)(c1ccccc1)N(C)C,True
+Trimipramine,CC(CN(C)C)CN1c2ccccc2CCc2ccccc21,True
+UCB-26166,NC(=O)CN1CCC(=C(c2ccccc2)c2ccc(Cl)cc2)CC1,True
+Verapamil analogue(4),COc1ccc(C(C#N)(CCCNC2c3ccccc3CCc3ccccc32)C(C)C)cc1OC,True
+tRA96023,CC(=O)OC1CC2(O)C(OC(=O)c3ccccc3)C3C4(OC(C)=O)COC4CC(OC(=O)C=Cc4ccc(C(=O)c5ccccc5)cc4)C3(C)C(=O)C(OC(C)=O)C(=C1C)C2(C)C,True
+Saquinavir,CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1,True
+AF-1393,CC(C)(C)c1cc(C=C(C#N)c2n[nH]c(N)c2C#N)cc(C(C)(C)C)c1O,True
+OBF-1822,CC1c2nc3ccccc3c(=O)n2C(c2ccc(O)c(O)c2)N1Cc1ccccc1,True
+NSC 33128,O=S(=O)(c1ccccc1)N(CCCOc1ccccc1)CCN(CCCOc1ccccc1)S(=O)(=O)c1ccccc1,True
+Naftoxate,CN(C(=S)Sc1nc2ccccc2o1)c1cccc2ccccc12,True
+MDR reversal agent 15x,COc1cc2c(cc1OC)CN(CCCCCC(Sc1ccc(C)cc1)c1ccc3c(c1)OCO3)CC2,True
+Triazine derivative ID 57,C=CCNc1nc(NCC=C)nc(N2CCC(SC(c3ccccc3)c3ccccc3)CC2)n1,True
+Farnesyl analog AFCA,CC(=O)NC(CSCC=C(C)CCC=C(C)CCC=C(C)C)C(N)=O,True
+Farnesyl analog AFCME,COC(=O)C(CSCC=C(C)CCC=C(C)CCC=C(C)C)NC(C)=O,True
+MDR reversal agent 15i,COc1ccc(C(C#N)(CCCCCCCCN2CCc3cc(OC)c(OC)cc3C2)Sc2ccc(C)cc2)cc1OC,True
+Tiapamil,COc1ccc(CCN(C)CCCC2(c3ccc(OC)c(OC)c3)S(=O)(=O)CCCS2(=O)=O)cc1OC,True
+DMDP,COc1ccc(CCN(C)CCCC2(c3ccccc3)S(=O)(=O)CCCS2(=O)=O)cc1OC,True
+Methotrimeprazine,COc1ccc2c(c1)N(CC(C)CN(C)C)c1ccccc1S2,True
+Mequitazine,c1ccc2c(c1)Sc1ccccc1N2CC1CN2CCC1CC2,True
+Mesoridazine,CN1CCCCC1CCN1c2ccccc2Sc2ccc(S(C)=O)cc21,True
+"10-[3-(4-cyclopropyl-1,4-diazepan-1-yl)propyl]-2-(trifluoromethyl)-10H-phenothiazine",FC(F)(F)c1ccc2c(c1)N(CCCN1CCCN(C3CC3)CC1)c1ccccc1S2,True
+Butaperazine,CCCC(=O)c1ccc2c(c1)N(CCCN1CCN(C)CC1)c1ccccc1S2,True
+cis-Thiothixene,CN1CCN(CCC=C2c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1,True
+Piflutixol,OCCN1CCN(CCC=C2c3ccc(F)cc3Sc3ccc(C(F)(F)F)cc32)CC1,True
+NSC 667739,CC(=O)OCC1OC(N2C(=S)C(C#N)C(c3ccco3)C=C2c2ccccc2)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O,True
+"1,5-Bis(3,4-dimethoxybenzyl)-1,3,5-triazepane-2,4-dithione",COc1ccc(CN2CCN(Cc3ccc(OC)c(OC)c3)C(=S)NC2=S)cc1OC,True
+Purine analog ID 18,C=CCNc1nc(N2CCC(NCC3c4ccccc4CCc4ccccc43)CC2)nc2c1ccn2CC=C,True
+Triazine derivative ID 34,C=CCNc1nc(NCC=C)nc(N2CCC(NCC3c4ccccc4CCc4ccccc43)CC2)n1,True
+Benzofuran derivative 2d,CCCNCCc1oc2ccccc2c1CCc1ccccc1,True
+Prenoxidiazine,c1ccc(C(Cc2noc(CCN3CCCCC3)n2)c2ccccc2)cc1,True
+"3,6,3',4'-Tetramethoxyflavone",COc1ccc2oc(-c3ccc(OC)c(OC)c3)c(OC)c(=O)c2c1,True
+Atorvastatin lactone,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC1CC(O)CC(=O)O1,True
+Simvastatin lactone,CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,True
+Desmethylazelastine,O=c1c2ccccc2c(Cc2ccc(Cl)cc2)nn1C1CCCNCC1,True
+Diltiazem,COc1ccc(C2Sc3ccccc3N(CCN(C)C)C(=O)C2OC(C)=O)cc1,True
+LY296097,CCCCS(=O)(=O)Oc1ccc2c(C(=O)c3ccc(OCCN4CCCCC4)cc3)c(-c3ccc(S(=O)(=O)CCCC)cc3)sc2c1,True
+"1-[4-(1,1-Dichloro-1,1a,6,10b-tetrahydrodibenzo[a,e]cyclopropa[c][7]annulen-6-yl)-1-piperazinyl]-3-(5-quinolinyloxy)-2-propanol",OC(COc1cccc2ncccc12)CN1CCN(C2c3ccccc3C3C(c4ccccc42)C3(Cl)Cl)CC1,True
+"1-(5-Quinolinyloxy)-3-[4-(1,1a,6,10b-tetrahydrodibenzo[a,e]cyclopropa[c][7]annulen-6-yl)-1-piperazinyl]-2-propanol",OC(COc1cccc2ncccc12)CN1CCN(C2c3ccccc3C3CC3c3ccccc32)CC1,True
+Benzpthiazide,NS(=O)(=O)c1cc2c(cc1Cl)NC(CSCc1ccccc1)=NS2(=O)=O,True
+Carbenoxolone,CC1(C(=O)O)CCC2(C)CCC3(C)C(=CC(=O)C4C5(C)CCC(OC(=O)CCC(=O)O)C(C)(C)C5CCC43C)C2C1,True
+Dexamethasone Acetate,CC(=O)OCC(=O)C1(O)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,True
+Fluoxetine,CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,True
+Harmalol,CC1=c2[nH]c3c(c2CCN1)C=CC(=O)C=3,True
+Pentylentetrazole,C1CCc2nnnn2CC1,True
+Vinpocetine,CCOC(=O)C1=CC2(CC)CCCN3CCc4c(n1c1ccccc41)C32,True
+Geldanamycin,COC1=C2CC(C)CC(OC)C(O)C(C)C=C(C)C(OC(N)=O)C(OC)C=CC=C(C)C(=O)NC(=CC1=O)C2=O,True
+"[(2R,3S,5S,6S,7R,8Z,10R,11R,12E)-20,22-dihydroxy-2,5,6-trimethoxy-3,7,9,11,15-pentamethyl-16-oxo-17-azabicyclo[16.3.1]docosa-1(22),8,12,14,18,20-hexaen-10-yl]carbamate",COC1CC(C)C(OC)c2cc(O)cc(c2O)NC(=O)C(C)=CC=CC(C)C(OC(N)=O)C(C)=CC(C)C1OC,True
+"1-[4-[(2R)-2-hydroxy-3-quinolin-5-yloxypropyl]piperazin-1-yl]-2,2-diphenylethanone",O=C(C(c1ccccc1)c1ccccc1)N1CCN(CC(O)COc2cccc3ncccc23)CC1,True
+"5-hydroxy-2-[(2R,3R)-3-(4-hydroxy-3-methoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-3,7-dimethoxychromen-4-one",COc1cc(O)c2c(=O)c(OC)c(-c3ccc4c(c3)OC(c3ccc(O)c(OC)c3)C(CO)O4)oc2c1,True
+(5-acetyloxy-4-oxo-7-phenoxy-2-phenylchromen-6-yl)acetate,CC(=O)Oc1c(Oc2ccccc2)cc2oc(-c3ccccc3)cc(=O)c2c1OC(C)=O,True
+(6-acetyloxy-5-hydroxy-4-oxo-2-phenylchromen-7-yl)acetate,CC(=O)Oc1cc2oc(-c3ccccc3)cc(=O)c2c(O)c1OC(C)=O,True
+(7-acetyloxy-8-bromo-5-hydroxy-4-oxo-2-phenylchromen-6-yl)acetate,CC(=O)Oc1c(OC(C)=O)c(O)c2c(=O)cc(-c3ccccc3)oc2c1Br,True
+7-[(2S)-2-hydroxy-3-piperidin-1-ylpropoxy]-3-methylideneinden-1-one,C=C1CC(=O)c2c(OCC(O)CN3CCCCC3)cccc21,True
+"N-[2-[(3-acetyl-2,4,6-trimethylphenyl)methylsulfanyl]-1,3-benzothiazol-6-yl]-4-butoxybenzamide",CCCCOc1ccc(C(=O)Nc2ccc3nc(SCc4c(C)cc(C)c(C(C)=O)c4C)sc3c2)cc1,True
+"N-[2-[(3-acetyl-2,4,6-trimethylphenyl)methylsulfanyl]-1,3-benzothiazol-6-yl]-3-phenylpropanamide",CC(=O)c1c(C)cc(C)c(CSc2nc3ccc(NC(=O)CCc4ccccc4)cc3s2)c1C,True
+1-[4-methoxy-2-[3-[4-(2-methylphenyl)piperazin-1-yl]-2-oxopropoxy]phenyl]-3-phenylpropan-1-one,COc1ccc(C(=O)CCc2ccccc2)c(OCC(=O)CN2CCN(c3ccccc3C)CC2)c1,True
+1-[2-[(2R)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]phenyl]ethanone,CC(=O)c1ccccc1OCC(O)CN1CCN(c2ccccc2C)CC1,True
+"(2R)-2-(1,3-benzodioxol-5-yl)-3-(4-tert-butylphenyl)-1,2-dihydroquinazolin-4-one",CC(C)(C)c1ccc(N2C(=O)c3ccccc3NC2c2ccc3c(c2)OCO3)cc1,True
+1-[2-[(2R)-2-hydroxy-3-[4-(2-methylphenyl)piperazin-1-yl]propoxy]-5-methylphenyl]-3-phenylpropan-1-one,Cc1ccc(OCC(O)CN2CCN(c3ccccc3C)CC2)c(C(=O)CCc2ccccc2)c1,True
+1-[2-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]ethyl]-4-methylpiperazine,COc1cccc(CCc2ccccc2OCCN2CCN(C)CC2)c1,True
+1-(3-chlorophenyl)-4-[4-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]butyl]piperazine,COc1cccc(CCc2ccccc2OCCCCN2CCN(c3cccc(Cl)c3)CC2)c1,True
+1-[4-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]butyl]-4-[3-(trifluoromethyl)phenyl]piperazine,COc1cccc(CCc2ccccc2OCCCCN2CCN(c3cccc(C(F)(F)F)c3)CC2)c1,True
+"(2S)-2-[2-[2-[2-(3-methoxyphenyl)ethyl]phenoxy]ethyl]-3,4-dihydro-1H-isoquinoline",COc1cccc(CCc2ccccc2OCCN2CCc3ccccc3C2)c1,True
+"3,9-dimethyl (1R,2R,4R,5S,6R,7S,8S,10S,11R,12S)-1,5-bis(hydroxymethyl)-6,12-diphenyl-3,9-diazapentacyclo[6.4.0.0²,⁷.0⁴,¹¹.0⁵,¹⁰]dodecane-3,9-dicarboxylate",COC(=O)N1C2C3C(c4ccccc4)C4(CO)C1C1C(c5ccccc5)C2(CO)C3N(C(=O)OC)C14,True
+Nicardipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN(C)Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1,True
+Amodiaquine,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,True
+Benzidamine,CN(C)CCCOc1nn(Cc2ccccc2)c2ccccc12,True
+Dibromsalicil,Cn1c2nc(Cl)nc-2c(O)n(C)c1=O,True
+"4-[3,5-bis(trifluoromethyl)phenyl]aniline",Nc1ccc(-c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc1,True
+3-phenyl-1-[2-(7-piperidin-1-ylheptoxy)phenyl]propan-1-one,O=C(CCc1ccccc1)c1ccccc1OCCCCCCCN1CCCCC1,True
+"1-[4-[[(7R,8S,9R,10R,13S,14S,17S)-17-acetyl-10,13-dimethyl-3-oxo-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-7-yl]sulfanyl]phenyl]-3-ethylurea",CCNC(=O)Nc1ccc(SC2CC3=CC(=O)CCC3(C)C3CCC4(C)C(C(C)=O)CCC4C23)cc1,True
+"N-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]-3-methyl-2-[(4-propan-2-ylbenzoyl)amino]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1cccc(C)c1NC(=O)c1ccc(C(C)C)cc1)CC2,True
+"N-[2-[[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]thiophene-2-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3cccs3)cc1)CC2,True
+"N-[2-[[4-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]carbamoyl]phenyl]-3,4-dimethylbenzamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3ccccc3NC(=O)c3ccc(C)c(C)c3)cc1)CC2,True
+"2-[(4-bromobenzoyl)amino]-N-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]benzamide",COc1cc2c(cc1OC)CN(CCNC(=O)c1ccccc1NC(=O)c1ccc(Br)cc1)CC2,True
+"N-[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]-2-[(3-methoxybenzoyl)amino]benzamide",COc1cccc(C(=O)Nc2ccccc2C(=O)Nc2ccc(CCN3CCc4cc(OC)c(OC)cc4C3)cc2)c1,True
+"N-(9-Cyano-5,6,7,8-tetrahydro-1,3,4b-triazafluoren-4-yl)-C-phenethylmethansulfonamide",N#Cc1c2n(c3c(NS(=O)(=O)Cc4ccccc4)ncnc13)CCCC2,True
+"2-Iodo-4-(4-phenethylpiperazin-1-yl)-5,6,7,8-tetrahydro-1,3,4b-triazofluorene-9-carbonitrile",N#Cc1c2n(c3c(N4CCN(CCc5ccccc5)CC4)nc(I)nc13)CCCC2,True
+"[4-(4-Phenethylpiperazin-1-yl)-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-yl]-phenylmethanone",O=C(c1ccccc1)c1c2n(c3c(N4CCN(CCc5ccccc5)CC4)ncnc13)CCCC2,True
+"4-{4-[2-(3,4-Difluorophenyl)ethyl]piperazin-1-yl}-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carboxylic Acid Ethylamide",CCNC(=O)c1c2n(c3c(N4CCN(CCc5ccc(F)c(F)c5)CC4)ncnc13)CCCC2,True
+"4-{4-[2-(3,4-Difluorophenyl)ethyl]piperazin-1-yl}-5,6,7,8-tetrahydro-1,3,4b-triazafluorene-9-carboxylic Acid Pyridin-3-ylamide",O=C(Nc1cccnc1)c1c2n(c3c(N4CCN(CCc5ccc(F)c(F)c5)CC4)ncnc13)CCCC2,True
+1-[2-[(2R)-2-hydroxy-3-piperidin-1-ylpropoxy]phenyl]-3-naphthalen-1-ylpropan-1-one,O=C(CCc1cccc2ccccc12)c1ccccc1OCC(O)CN1CCCCC1,True
+1-[5-hydroxy-2-[(2S)-2-hydroxy-3-(propylamino)propoxy]phenyl]-3-phenylpropan-1-one,CCCNCC(O)COc1ccc(O)cc1C(=O)CCc1ccccc1,True
+"4-benzoyl-1-[(2R)-3-[di(propan-2-yl)amino]-2-hydroxypropyl]-5-methyl-2-phenylpyrazole-1,2-diium-3-one",Cc1c(C(=O)c2ccccc2)c(=O)n(-c2ccccc2)n1CC(O)CN(C(C)C)C(C)C,True
+"[(2S,3R,4S)-4-[[(2S)-5-(diethylamino)pentan-2-yl]amino]-3-hydroxy-2-methyl-3,4-dihydro-2H-quinolin-1-yl]-(4-methylphenyl)methanone",CCN(CC)CCCC(C)NC1c2ccccc2N(C(=O)c2ccc(C)cc2)C(C)C1O,True
+"(1S,8S,15S,19S)-17-(3-{[2-(3,4-dimethoxyphenyl)ethyl](methyl)amino}propyl)-17-azapentacyclo[6.6.5.0²,⁷.0⁹,¹⁴.0¹⁵,¹⁹]nonadeca-2(7),3,5,9(14),10,12-hexaene-16,18-dione",COc1ccc(CCN(C)CCCN2C(=O)C3C4c5ccccc5C(c5ccccc54)C3C2=O)cc1OC,True
+"(5S,6R,10R,11S)-5-benzyl-10-heptyl-6-hydroxy-4,11-dimethyl-1,9-dioxa-4-azacyclododecane-3,8,12-trione",CCCCCCCC1OC(=O)CC(O)C(Cc2ccccc2)N(C)C(=O)COC(=O)C1C,True
+10-(3-piperidin-1-ylpropyl)acridin-10-ium-9-one,O=c1c2ccccc2n(CCCN2CCCCC2)c2ccccc12,True
+10-[3-[4-(2-hydroxyethyl)piperazin-1-yl]propyl]acridin-10-ium-9-one,O=c1c2ccccc2n(CCCN2CCN(CCO)CC2)c2ccccc12,True
+"4-{5-[4-(dimethylamino)phenyl]-2-[4-(3-methoxyprop-1-en-1-yl)phenyl]imidazol-4-yl}-N,N-dimethylaniline",COCC=Cc1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+"methyl 3-(4-{4,5-bis[4-(dimethylamino)phenyl]imidazol-2-yl}phenyl)prop-2-enoate",COC(=O)C=Cc1ccc(-c2nc(-c3ccc(N(C)C)cc3)c(-c3ccc(N(C)C)cc3)[nH]2)cc1,True
+4-[2-[4-[(E)-3-ethoxyprop-1-enyl]phenyl]imidazol-4-yl]-N-propan-2-ylaniline,CCOCC=Cc1ccc(-c2ncc(-c3ccc(NC(C)C)cc3)[nH]2)cc1,True
+4-[2-[4-[(E)-3-ethoxyprop-1-enyl]phenyl]imidazol-4-yl]-N-(2-methylpropyl)aniline,CCOCC=Cc1ccc(-c2ncc(-c3ccc(NCC(C)C)cc3)[nH]2)cc1,True
+"N-[4-[2-[(2R)-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]-2-nitrobenzamide",O=C(Nc1ccc(CCN2CCc3ccccc3C2)cc1)c1ccccc1[N+](=O)[O-],True
+"3-bromo-N-[4-[2-[(2S)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]benzamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3cccc(Br)c3)cc1)CC2,True
+"N-[4-[2-[(2R)-6,7-dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl]ethyl]phenyl]isoquinoline-3-carboxamide",COc1cc2c(cc1OC)CN(CCc1ccc(NC(=O)c3cc4ccccc4cn3)cc1)CC2,True
+1-Phenylpiperazine,c1ccc(N2CCNCC2)cc1,False
+"2,4,6,8-Tetramopholin",C1CN(c2nc(N3CCOCC3)c3nc(N4CCOCC4)nc(N4CCOCC4)c3n2)CCO1,False
+"2,4,6-tri-4-morpholinylpyrimido(5,4-d)pyrimidine",c1nc(N2CCOCC2)nc2c(N3CCOCC3)nc(N3CCOCC3)nc12,False
+2-Oxazolidinone,O=C1NCCO1,False
+Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,False
+Azaconazole,Clc1ccc(C2(Cn3cncn3)OCCO2)c(Cl)c1,False
+Bamipine,CN1CCC(N(Cc2ccccc2)c2ccccc2)CC1,False
+Benzmalecene,CC(NC(=O)C=CC(=O)O)C(Cc1ccc(Cl)cc1)c1ccc(Cl)cc1,False
+Carvedilol metabolite M2,Oc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,False
+Cinepazide,COc1cc(C=CC(=O)N2CCN(CC(=O)N3CCCC3)CC2)cc(OC)c1OC,False
+Cinpropazide,COc1cc(C=CC(=O)N2CCN(CC(=O)NC(C)C)CC2)cc(OC)c1OC,False
+Cintriamide,COc1cc(C=CC(N)=O)cc(OC)c1OC,False
+Clomiphene,CCN(CC)CCOc1ccc(C(=C(Cl)c2ccccc2)c2ccccc2)cc1,False
+Cytochalasin A,C=C1C(C)C2C(Cc3ccccc3)NC(=O)C23OC(=O)C=CC(=O)CCCC(C)CC=CC3C1O,False
+DDT,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1,False
+Desmethylcitalopram,CNCCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,False
+Dibenzylamine,c1ccc(CNCc2ccccc2)cc1,False
+Diosmetin,COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1O,False
+Diphenamid,CN(C)C(=O)C(c1ccccc1)c1ccccc1,False
+Eltoprazine,c1cc2c(c(N3CCNCC3)c1)OCCO2,False
+Filipin,CCCCCC(O)C1C(=O)OC(C)C(O)C=CC=CC=CC=CC=C(C)C(O)CC(O)CC(O)CC(O)CC(O)CC(O)CC1O,False
+Flavonoid ID 21,COc1ccc(-c2cc(=O)c3c(OCC(=O)N4CCN(Cc5ccc(OC)c(OC)c5OC)CC4)cc(O)cc3o2)cc1O,False
+Fluconazole,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,False
+Hexadiline,C(=C(C1CCCCC1)C1CCCCC1)C1CCCCN1,False
+Luteolin-4'-O-glucoside,O=c1cc(-c2ccc(OC3OC(CO)C(O)C(O)C3O)c(O)c2)oc2cc(O)cc(O)c12,False
+MA 1862,O=C(O)CN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O,False
+"N,N-Bis(alkanol)amine aryl ester analog 5",COc1cc(C=CC(=O)OCCCN(C)CCCOC(=O)C(c2ccccc2)c2ccccc2)cc(OC)c1OC,False
+"2,3-Dihydro-1H-cyclopenta[b]quinoline-5,8-dione",O=C1C=CC(=O)c2nc3c(cc21)CCC3,False
+NSC 640085,CC[n+]1c(C=Cc2ccc(C(CCCl)CCCl)cc2)ccc2cc(NC(=O)C=Cc3ccccc3)ccc21,False
+NSC 88657,COc1ccc(CN2CCCN(Cc3ccc(OC)c(OC)c3)C2c2ccc(N(CCCl)CCCl)cc2C)cc1OC,False
+Nalbuphine,Oc1ccc2c3c1OC1C(O)CCC4(O)C(C2)N(CC2CCC2)CCC314,False
+Oxyperomide,O=c1[nH]c2ccccc2n1C1CCN(CCOc2ccccc2)CC1,False
+Pentachlorophenol,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,False
+Prinixic acid,Cc1cccc(Nc2cc(Cl)nc(SCC(=O)O)n2)c1C,False
+Propafenone derivative GP07,CCC[N+](C)(C)CC(O)COc1ccccc1C(=O)CCc1ccccc1,False
+RE-34,OCCN(CCO)c1nc(N2CCOCC2)nc2c1OC(c1ccccc1)C(N1CCOCC1)N2,False
+Racemethorphan,COc1ccc2c(c1)C13CCCCC1C(C2)N(C)CC3,False
+Rifamycin B,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(cc(OCC(=O)O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,False
+Rifamycin SV,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(cc(O)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,False
+Salverine,CCN(CC)CCOc1ccccc1C(=O)Nc1ccccc1,False
+Selegiline,C#CCN(C)C(C)Cc1ccccc1,False
+Sitagliptin,NC(CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F,False
+Sulconazole,Clc1ccc(CSC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1,False
+Tilorone,CCN(CC)CCOc1ccc2c(c1)C(=O)c1cc(OCCN(CC)CC)ccc1-2,False
+Trimetozine,COc1cc(C(=O)N2CCOCC2)cc(OC)c1OC,False
+Vancomycin,CNC(CC(C)C)C(=O)NC1C(=O)NC(CC(N)=O)C(=O)NC2C(=O)NC3C(=O)NC(C(=O)NC(C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)C(O)c3ccc(c(Cl)c3)Oc3cc2cc(c3OC2OC(CO)C(O)C(O)C2OC2CC(C)(N)C(O)C(C)O2)Oc2ccc(cc2Cl)C1O,False
+W-13,NCCCCNS(=O)(=O)c1ccc2c(Cl)cccc2c1,False
+W-7,NCCCCCCNS(=O)(=O)c1cccc2c(Cl)cccc12,False
+Tryptophan,NC(Cc1c[nH]c2ccccc12)C(=O)O,False
+"4,8-Dipiperidyl-2,6-D",CN(CCO)c1nc(N2CCCCC2)c2nc(N(C)CCO)nc(N3CCCCC3)c2n1,False
+Equilenine,CC12CCc3c(ccc4cc(O)ccc34)C1CCC2=O,False
+PAK-8,CCCCCCCCCCOC(=O)C1=C(C)NC(C)=C(P2(=O)OCC(C)(C)CO2)C1c1cccc([N+](=O)[O-])c1,False
+Aldoxycarb,CNC(=O)ON=CC(C)(C)S(C)(=O)=O,False
+Sumatriptan,CNS(=O)(=O)Cc1ccc2[nH]cc(CCN(C)C)c2c1,False
+Trypan blue,Cc1cc(-c2ccc(N=Nc3c(S(=O)(=O)O)cc4cc(S(=O)(=O)O)cc(N)c4c3O)c(C)c2)ccc1N=Nc1c(S(=O)(=O)O)cc2cc(S(=O)(=O)O)cc(N)c2c1O,False
+"6-Phenyl-2,4,7-pterid",Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1,False
+TPP,Cc1ncc(C[n+]2csc(CCOP(=O)(O)OP(=O)(O)O)c2C)c(N)n1,False
+Zolamine,COc1ccc(CN(CCN(C)C)c2nccs2)cc1,False
+Indinavir,CC(C)(C)NC(=O)C1CN(Cc2cccnc2)CCN1CC(O)CC(Cc1ccccc1)C(=O)NC1c2ccccc2CC1O,False
+Ellagic acid,O=c1oc2c(O)c(O)cc3c(=O)oc4c(O)c(O)cc1c4c23,False
+Puromycin,COc1ccc(CC(N)C(=O)NC2C(CO)OC(n3cnc4c(N(C)C)ncnc43)C2O)cc1,False
+Pheniramine,CNCCC(c1ccccc1)c1ccccn1,False
+Acetohydroxamic acid,CC(=O)NO,False
+Acetorphan,CC(=O)SCC(Cc1ccccc1)C(=O)NCC(=O)OCc1ccccc1,False
+Aposcopolamine,C=C(C(=O)OC1CC2C3OC3C(C1)N2C)c1ccccc1,False
+Camptothecin,CCC1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3ccccc3nc2-1,False
+Carmustine,O=NN(CCCl)C(=O)NCCCl,False
+Cephapirin,CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)CSc3ccncc3)C2SC1,False
+N-[4-[4-(2-methoxyphenyl)piperazin-1-yl]butyl]naphthalene-2-carboxamide,COc1ccccc1N1CCN(CCCCNC(=O)c2ccc3ccccc3c2)CC1,False
+Clorgyline,C#CCN(C)CCCOc1ccc(Cl)cc1Cl,False
+Diethylcarbamazine,CCN(CC)C(=O)N1CCN(C)CC1,False
+Ergocornine,CC(C)C1C(=O)N2CCCC2C2(O)OC(NC(=O)C3C=C4c5cccc6[nH]cc(c56)CC4N(C)C3)(C(C)C)C(=O)N12,False
+Flunisolide,CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,False
+Heliotrine,COC(C)C(O)(C(=O)OCC1=CCN2CCC(O)C12)C(C)C,False
+Hermaline,COc1ccc2c(c1)=NC1=C(C)NCCC=21,False
+Leucovorin,Nc1nc(=O)c2c([nH]1)NCC(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)N2C=O,False
+Lomefloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21,False
+Meclofenamic Acid,Cc1ccc(Cl)c(Nc2ccccc2C(=O)O)c1Cl,False
+Mitotane,Clc1ccc(C(c2ccccc2Cl)C(Cl)Cl)cc1,False
+N-acetylaspartate,CC(=O)NC(CC(=O)O)C(=O)O,False
+Neamine,NCC1OC(OC2C(N)CC(N)C(O)C2O)C(N)C(O)C1O,False
+Oxantel,O=C(O)c1cc2ccccc2c(Cc2cc3ccccc3c(C(=O)O)c2O)c1O,False
+Picotamide,COc1ccc(C(=O)NCc2cccnc2)cc1C(=O)NCc1cccnc1,False
+Picrotoxinin,C=C(C)C1C2OC(=O)C1C1(O)CC3OC34C(=O)OC2C14C,False
+Podophyllotoxin,COc1cc(C2c3cc4c(cc3C(O)C3COC(=O)C23)OCO4)cc(OC)c1OC,False
+Pyridoxine,Cc1ncc(CO)c(CO)c1O,False
+Racinine,COc1ccn(C)c(=O)c1C#N,False
+Remerine,CN1CCc2cc3c(c4c2C1Cc1ccccc1-4)OCO3,False
+Strophanthidin,CC12CCC3C(CCC4(O)CC(O)CCC34C=O)C1(O)CCC2C1=CC(=O)OC1,False
+Sulfaquinoxaline,Nc1ccc(S(=O)(=O)Nc2ccc3nccnc3c2)cc1,False
+Suprofen,CC(C(=O)O)c1ccc(C(=O)c2cccs2)cc1,False
+Terazosin,COc1cc2nc(N3CCN(C(=O)C4CCCO4)CC3)nc(N)c2cc1OC,False
+Terbutaline,CC(C)(C)NCC(O)c1cc(O)cc(O)c1,False
+Triiodothyronine,NC(Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)O,False
+Xylazine,Cc1cccc(C)c1NC1=NCCCS1,False
+O-Nitrophenyl-N-N-dimethylcarbamate,CCNC(=O)Oc1ccccc1[N+](=O)[O-],False
+Diclofenac,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,False
+Ranitidine,CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,False
+N-benzyladenine,c1ccc(CNc2ncnc3nc[nH]c23)cc1,False
+Nifuroxazide,O=C(NN=Cc1ccc([N+](=O)[O-])o1)c1ccc(O)cc1,False
+Norethindrone,C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21C,False
+Triflusal,CC(=O)Oc1cc(C(F)(F)F)ccc1C(=O)O,False
+Ursolica acid,CC1CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1C,False
+"4-benzoyl-1-[(2S)-3-(tert-butylamino)-2-hydroxypropyl]-5-methyl-2-phenylpyrazole-1,2-diium-3-one",Cc1c(C(=O)c2ccccc2)c(=O)n(-c2ccccc2)n1CC(O)CNC(C)(C)C,False
+3-[(2-phenethylphenoxy)methyl]pyridine,c1ccc(CCc2ccccc2OCc2cccnc2)cc1,False
+N-chloro-1-(2-chlorophenyl)methanamine,ClNCc1ccccc1Cl,False

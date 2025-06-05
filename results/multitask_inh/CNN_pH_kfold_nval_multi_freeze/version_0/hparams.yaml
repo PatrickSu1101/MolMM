@@ -1,0 +1,23 @@
+N_way:
+  allocrites_classes: 2
+  allocrites_refine: 2
+  competitive: 0
+  excipients: 0
+  guide: 2
+  inhibitors_classes: 2
+  inhibitors_refine: 2
+  substrates_classes: 2
+  substrates_refine: 2
+  tmp1: 2
+  tmp2: 2
+has_val: false
+name:
+- CNN
+- pH
+- kfold
+- nval
+- multi
+- freeze
+task_list:
+- inhibitors_refine
+- inhibitors_classes
