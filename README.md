@@ -16,7 +16,7 @@ This repository provides:
 
 ---
 
-![Overall](./docs/1 - Overall.png)
+![Overall](./docs/1_Overall.png)
 
 
 
@@ -24,7 +24,7 @@ This repository provides:
 
 ---
 
-![2.1 Screen](/Users/mac/Desktop/docs/2.1 Screen.png)
+![2.1 Screen](./docs/2.1_Screen.png)
 
 * Refined datasets
   * [Establishing *in vitro* inhibitor dataset](https://github.com/PatrickSu1101/MolMM/tree/main/MolMM/csv/data_inh_refine/vitro.ipynb)
@@ -39,7 +39,7 @@ This repository provides:
 
 ---
 
-![3.1 MolMM](/Users/mac/Desktop/docs/3.1 MolMM.png)
+![3.1 MolMM](./docs/3.1_MolMM.png)
 
 Training and validating MolMM model (benchmark and ablation study models), and [predictive performance can be found in 201_performance.ipynb](https://github.com/PatrickSu1101/MolMM/tree/main/201_performance.ipynb):
 
@@ -50,15 +50,16 @@ Training and validating MolMM model (benchmark and ablation study models), and [
 
 
 ### SHAP-based molecular feature interpretation
-
 ---
 1. Obtain the MolMap, Molecular descriptor information [101_molinfo.ipynb](https://github.com/PatrickSu1101/MolMM/blob/main/101_molinfo.ipynb).
 
 2. Run [203_SHAP.ipynb](https://github.com/PatrickSu1101/MolMM/blob/main/203_SHAP.ipynb) to establish the SHAP-based molecular feature interpretation.
 
-![SHAP](/Users/mac/Desktop/docs/SHAP.png)
+![SHAP](./docs/3.2_SHAP.png)
 
-
+### PMF profiles
+---
+![PMF](./docs/4_PMF.png))
 
 ## Installation
 ---
