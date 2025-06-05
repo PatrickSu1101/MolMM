@@ -57,9 +57,11 @@ Training and validating MolMM model (benchmark and ablation study models), and [
 
 ![SHAP](./docs/3.2_SHAP.png)
 
+
 ### PMF profiles
 ---
-![PMF](./docs/4_PMF.png))
+![PMF](./docs/4_PMF.png)
+
 
 ## Installation
 ---
