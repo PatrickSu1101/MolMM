@@ -1,0 +1,20 @@
+; kaempferide_GMX.top created by acpype (v: 2022.7.21) on Sat Jul 29 12:38:04 2023
+
+[ defaults ]
+; nbfunc        comb-rule       gen-pairs       fudgeLJ fudgeQQ
+1               2               yes             0.5     0.8333333333
+
+; Include kaempferide_GMX.itp topology
+#include "kaempferide_GMX.itp"
+
+; Ligand position restraints
+#ifdef POSRES_LIG
+#include "posre_kaempferide.itp"
+#endif
+
+[ system ]
+ kaempferide
+
+[ molecules ]
+; Compound        nmols
+ kaempferide      1

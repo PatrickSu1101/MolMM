@@ -1,0 +1,18 @@
+[moleculetype]
+VAC   1 
+
+[atoms]
+; Group 1
+    1 SP2     1  VAC   CG1    1     0.000
+    2 SC1     1  VAC   CG2    2     0.000
+    3 SC1     1  VAC   CG3    3     0.000
+
+[bonds]                            
+
+#ifndef min
+[constraints]
+#endif
+1   2	1      0.354          1000000
+1   3	1      0.351          1000000
+2   3	1      0.506          1000000
+

@@ -1,0 +1,25 @@
+#include "toppar/martini_v3.0.0.itp"
+#include "toppar/martini_v3.0.0_ions_v1.itp"
+#include "toppar/martini_v3.0.0_nucleobases_v1.itp"
+#include "toppar/martini_v3.0.0_phospholipids_v1.itp"
+#include "toppar/martini_v3.0.0_phospholipids_v1_matthieu.itp"
+#include "toppar/martini_v3.0.0_small_molecules_v1.itp"
+#include "toppar/martini_v3.0.0_solvents_v1.itp"
+#include "toppar/martini_v3.0.0_sugars_v1.itp"
+#include "molecule_0.itp"
+#include "molecule_1.itp"
+#include "kae_ini.itp"
+
+[ system ]
+; name
+Martini system
+
+[ molecules ]
+; name        number
+molecule_0 1
+molecule_1 1
+POPC 494
+W  20669
+NA 242
+CL 253
+KAE 1

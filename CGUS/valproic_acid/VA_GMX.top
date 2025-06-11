@@ -1,0 +1,20 @@
+; VA_GMX.top created by acpype (v: 2022.7.21) on Mon Jul 31 15:32:03 2023
+
+[ defaults ]
+; nbfunc        comb-rule       gen-pairs       fudgeLJ fudgeQQ
+1               2               yes             0.5     0.8333333333
+
+; Include VA_GMX.itp topology
+#include "VA_GMX.itp"
+
+; Ligand position restraints
+#ifdef POSRES_LIG
+#include "posre_VA.itp"
+#endif
+
+[ system ]
+ VA
+
+[ molecules ]
+; Compound        nmols
+ VA               1

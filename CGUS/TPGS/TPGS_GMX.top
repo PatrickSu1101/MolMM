@@ -1,0 +1,20 @@
+; TPGS_GMX.top created by acpype (v: 2022.7.21) on Tue Jul 11 01:53:55 2023
+
+[ defaults ]
+; nbfunc        comb-rule       gen-pairs       fudgeLJ fudgeQQ
+1               2               yes             0.5     0.8333333333
+
+; Include TPGS_GMX.itp topology
+#include "TPGS_GMX.itp"
+
+; Ligand position restraints
+#ifdef POSRES_LIG
+#include "posre_TPGS.itp"
+#endif
+
+[ system ]
+ TPGS
+
+[ molecules ]
+; Compound        nmols
+ TPGS      1
