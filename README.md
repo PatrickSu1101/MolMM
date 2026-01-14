@@ -137,4 +137,3 @@ pip install lightning
 | MolMM (inverse) | 78.82 (2.91) | 71.96 (2.05) | 77.61 (3.89) | 70.27 (3.51) |
 | Multi-task PTM  | 79.87 (3.34) | 73.10 (3.15) | 79.14 (7.73) | 71.41 (5.85) |
 | MolMM           | 81.26 (3.13) | 74.67 (2.46) | 83.33 (5.01) | 76.27 (7.01) |
->>>>>>> dbdbd5e (Detailed description of MolMM library)
