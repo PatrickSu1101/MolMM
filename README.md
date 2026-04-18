@@ -1,4 +1,4 @@
-# Computational Prediction of ABCB1-allocrites Interactions via Confidence-aware Pre-training and Coarse-grained Umbrella Sampling
+# Integrated machine learning and molecular dynamics framework for predicting and elucidating ABCB1 allocrite interactions
 
 ## MolMM-PMF
 
